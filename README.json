@@ -1,0 +1,2587 @@
+{
+  "items": [
+    {
+      "description": "See folder to get more details about performance evaluation for hand pose estimation.",
+      "items": [],
+      "title": "Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "arXiv Papers"
+    },
+    {
+      "description": "Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Vassilis Athitsos",
+      "items": [],
+      "title": "• [arXiv:2206.04927] Pushing the Envelope for Depth-Based Semi-Supervised 3D Hand Pose Estimation with Consistency Training. [PDF]"
+    },
+    {
+      "description": "Fanqing Lin, Tony Martinez",
+      "items": [],
+      "title": "• [arXiv:2206.04927] Ego2HandsPose: A Dataset for Egocentric Two-hand 3D Global Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos",
+      "items": [],
+      "title": "• [arXiv:2206.07117] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Yuwei Li, Longwen Zhang, Zesong Qiu, Yingwenqi Jiang, Yuyao Zhang, Nianyi Li, Yuexin Ma, Lan Xu, Jingyi Yu",
+      "items": [],
+      "title": "• [arXiv:2202.04533] NIMBLE: A Non-rigid Hand Model with Bones and Muscles. [PDF]"
+    },
+    {
+      "description": "Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan",
+      "items": [],
+      "title": "• [arXiv:2201.09548] Consistent 3D Hand Reconstruction in Video via self-supervised Learning. [PDF]"
+    },
+    {
+      "description": "John Yang, Yash Bhalgat, Simyung Chang, Fatih Porikli, Nojun Kwak",
+      "items": [],
+      "title": "• [arXiv:2111.06500] Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yao Lu, Walterio W. Mayol-Cuevas",
+      "items": [],
+      "title": "• [arXiv:2109.14744] The Object at Hand: Automated Editing for Mixed Reality Video Guidance from Hand-Object Interactions. [PDF]"
+    },
+    {
+      "description": "Yao Lu, Walterio W. Mayol-Cuevas",
+      "items": [],
+      "title": "• [arXiv:2109.14657] Understanding Egocentric Hand-Object Interactions from Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Leyla Khaleghi, Alireza Sepas Moghaddam, Joshua Marshall, Ali Etemad",
+      "items": [],
+      "title": "• [arXiv:2109.11747] A Multi-View Video-Based 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Michael Seeber, Martin R. Oswald, Roi Poranne",
+      "items": [],
+      "title": "• [arXiv:2108.13995] Realistic Hands: A Hybrid Model for 3D Hand Reconstruction. [PDF] [Project]"
+    },
+    {
+      "description": "Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid",
+      "items": [],
+      "title": "• [arXiv:2108.07044] Towards unconstrained joint hand-object reconstruction from RGB videos. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Shreyas Hampali, Sayan Deb Sarkar, Vincent Lepetit",
+      "items": [],
+      "title": "• [arXiv:2107.00887] HO-3D_v3: Improving the Accuracy of Hand-Object Annotations of the HO-3D Dataset. [PDF]"
+    },
+    {
+      "description": "Adrian Spurr, Pavlo Molchanov, Umar Iqbal, Jan Kautz, Otmar Hilliges",
+      "items": [],
+      "title": "• [arXiv:2106.05954] Adversarial Motion Modelling helps Semi-supervised Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Christian Zimmermann, Max Argus, Thomas Brox",
+      "items": [],
+      "title": "• [arXiv:2106.04324] Contrastive Representation Learning for Hand Shape Estimation. [PDF] [Project] [Code] [Data]"
+    },
+    {
+      "description": "Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit",
+      "items": [],
+      "title": "• [arXiv:2104.14639] HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation ofHands and Object in Interaction. [PDF]"
+    },
+    {
+      "description": "Shan An, Xiajie Zhang, Dong Wei, Haogang Zhu, Jianyu Yang, Konstantinos A. Tsintotas",
+      "items": [],
+      "title": "• [arXiv:2102.07067] FastHand: Fast Hand Pose Estimation From A Monocular Camera. [PDF]"
+    },
+    {
+      "description": "Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua",
+      "items": [],
+      "title": "• [arXiv:2012.11260] Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction. [PDF]"
+    },
+    {
+      "description": "Yu Rong, Takaaki Shiratori, Hanbyul Joo",
+      "items": [],
+      "title": "• [arXiv:2008.08324] FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [PDF] [Project]"
+    },
+    {
+      "description": "Vincent Lepetit",
+      "items": [],
+      "title": "• [arXiv:2006.05927] Recent Advances in 3D Object and Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Nicholas Santavas, Ioannis Kansizoglou, Loukas Bampis, Evangelos Karakasis, Antonios Gasteratos",
+      "items": [],
+      "title": "• [arXiv:2001.08047] Attention! A Lightweight 2D Hand Pose Estimation Approach. [PDF]"
+    },
+    {
+      "description": "Zhaohui Zhang, Shipeng Xie, Mingxiu Chen, Haichao Zhu",
+      "items": [],
+      "title": "• [arXiv:2001.00702] HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Kuo-Wei Lee, Shih-Hung Liu, Hwann-Tzong Chen, Koichi Ito",
+      "items": [],
+      "title": "• [arXiv:1912.12436] Silhouette-Net: 3D Hand Pose Estimation from Silhouettes. [PDF]"
+    },
+    {
+      "description": "Sanjeev Sharma, Shaoli Huang, Dacheng Tao",
+      "items": [],
+      "title": "• [arXiv:1911.12501] An End-to-end Framework for Unconstrained Monocular 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yiming He, Wei Hu, Siyuan Yang, Xiaochao Qu, Pengfei Wan, Zongming Guo",
+      "items": [],
+      "title": "• [arXiv:1912.01875] GraphPoseGAN: 3D Hand Pose Estimation from a Monocular RGB Image via Adversarial Learning on Graphs. [PDF]"
+    },
+    {
+      "description": "Cheol-hwan Yoo, Seung-wook Kim, Seo-won Ji, Yong-goo Shin, Sung-jea Ko",
+      "items": [],
+      "title": "• [arXiv:1911.07424] Capturing Hand Articulations using Recurrent Neural Network for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Jan Wöhlke, Shile Li, Dongheui Lee",
+      "items": [],
+      "title": "• [arXiv:1807.00898] Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [PDF]"
+    },
+    {
+      "description": "Meysam Madadi, Sergio Escalera, Xavier Baro, Jordi Gonzalez",
+      "items": [],
+      "title": "• [arXiv:1705.09606] End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth data. [PDF]"
+    },
+    {
+      "description": "Xiaoming Deng*, Shuo Yang*, Yinda Zhang*, Ping Tan, Liang Chang, Hongan Wang",
+      "items": [],
+      "title": "• [arXiv:1704.02224] Hand3D: Hand Pose Estimation using 3D Neural Network. [PDF] [Project]"
+    },
+    {
+      "description": "Yu Zhang, Chi Xu, Li Cheng",
+      "items": [],
+      "title": "• [arXiv:1612.00596] Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Journal Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TPAMI / IJCV"
+    },
+    {
+      "description": "Changlong Jiang, Yang Xiao, Jinghong Zheng, Haohong Kuang, Cunlin Wu, Mingyang Zhang, Zhiguo Cao, Min Du, Joey Tianyi Zhou, Junsong Yuan",
+      "items": [],
+      "title": "• [2025 TPAMI] 3D Hand Pose Estimation via Articulated Anchor-to-Joint 3D Local Regressors. [PDF]"
+    },
+    {
+      "description": "Jianping Jiang, Jiahe Li, Baowen Zhang, Xiaoming Deng, Boxin Shi",
+      "items": [],
+      "title": "• [2024 TPAMI] EvHandPose: Event-Based 3D Hand Pose Estimation With Sparse Supervision. [PDF]"
+    },
+    {
+      "description": "Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Junming Zhang, Jiefeng Li, Cewu Lu",
+      "items": [],
+      "title": "• [2024 TPAMI] Learning a Contact Potential Field for Modeling the Hand-Object Interaction. [PDF]"
+    },
+    {
+      "description": "Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan",
+      "items": [],
+      "title": "• [2023 TPAMI] Consistent 3D Hand Reconstruction in Video via self-supervised Learning. [PDF]"
+    },
+    {
+      "description": "Xiaoming Deng, Dexin Zuo, Yinda Zhang, Zhaopeng Cui, Jian Cheng, Ping Tan, Liang Chang, Marc Pollefeys, Sean Fanello, Hongan Wang",
+      "items": [],
+      "title": "• [2022 TPAMI] Recurrent 3D Hand Pose Estimation Using Cascaded Pose-guided 3D Alignments. [PDF]"
+    },
+    {
+      "description": "Jameel Malik, Soshi Shimada, Ahmed Elhayek, Sk Aziz Ali, Christian Theobalt, Vladislav Golyanik, Didier Stricker",
+      "items": [],
+      "title": "• [2021 TPAMI] HandVoxNet++: 3D Hand Shape and Pose Estimation using Voxel-Based Neural Networks. [PDF]"
+    },
+    {
+      "description": "Yujun Cai, Liuhao Ge, Jianfei Cai, Nadia Magnenat-Thalmann, Junsong Yuan",
+      "items": [],
+      "title": "• [2020 TPAMI] 3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images. [PDF]"
+    },
+    {
+      "description": "Markus Oberweger, Paul Wohlhart, Vincent Lepetit",
+      "items": [],
+      "title": "• [2019 TPAMI] Generalized Feedback Loop for Joint Hand-Object Pose Estimation. [PDF] [Project]"
+    },
+    {
+      "description": "Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot",
+      "items": [],
+      "title": "• [2019 TPAMI] Feature Boosting Network For 3D Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Danhang Tang*, Qi Ye*, Shanxin Yuan, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton",
+      "items": [],
+      "title": "• [2018 TPAMI] Opening the Black Box: Hierarchical Sampling Optimization for Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "James Steven Supančič III, Grégory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan",
+      "items": [],
+      "title": "• [2018 IJCV] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann",
+      "items": [],
+      "title": "• [2018 TPAMI] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. [PDF]"
+    },
+    {
+      "description": "Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, Li Cheng",
+      "items": [],
+      "title": "• [2016 IJCV] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [PDF] [Project]"
+    },
+    {
+      "description": "Danhang Tang, Hyung Chang, Alykhan Tejani, Tae-Kyun Kim",
+      "items": [],
+      "title": "• [2016 TPAMI] Latent Regression Forest: Structured Estimation of 3D Hand Poses. [PDF]"
+    },
+    {
+      "description": "Dimitrios Tzionas, Luca Ballan, Abhilash Srikantha, Pablo Aponte, Marc Pollefeys, Juergen Gall",
+      "items": [],
+      "title": "• [2016 IJCV] Capturing Hands in Action using Discriminative Salient Points and Physics Simulation. [PDF] [Project]"
+    },
+    {
+      "description": "Chi Xu, Ashwin Nanjappa, Xiaowei Zhang, Li Cheng",
+      "items": [],
+      "title": "• [2015 IJCV] Estimate Hand Poses Efficiently from Single Depth Images. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Journals"
+    },
+    {
+      "description": "Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos",
+      "items": [],
+      "title": "• [2023 ESWA] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Pengfei Ren, Haifeng Sun, Jiachang Hao, Qi Qi, Jingyu Wang, Jianxin Liao",
+      "items": [],
+      "title": "• [2022 TIP] A Dual-Branch Self-Boosting Framework for Self-Supervised 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Farnaz Farahanipad, Mohammad Rezaei, Mohammad Sadegh Nasr, Farhad Kamangar, Vassilis Athitsos",
+      "items": [],
+      "title": "• [2022 Technologies] A Survey on GAN-Based Data Augmentation for Hand Pose Estimation Problem. [PDF]"
+    },
+    {
+      "description": "Shaoxiang Guo, Eric Rigall, Yakun Ju, Junyu Dong",
+      "items": [],
+      "title": "• [2022 TCSVT] 3D Hand Pose Estimation from Monocular RGB with Feature Interaction Module. [PDF]"
+    },
+    {
+      "description": "Xiaoming Deng, Yinda Zhang, Jian Shi, Yuying Zhu, Dachuan Cheng, Dexin Zuo, Zhaopeng Cui, Ping Tan, Liang Chang, Hongan Wang",
+      "items": [],
+      "title": "• [2021 TIP] Hand Pose Understanding with Large-Scale Photo-Realistic Rendering Dataset. [PDF]"
+    },
+    {
+      "description": "Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Junsong Yuan",
+      "items": [],
+      "title": "• [2021 TIP] Joint Hand-object 3D Reconstruction from a Single Image with Cross-branch Feature Fusion. [PDF]"
+    },
+    {
+      "description": "Pengfei Ren, Haifeng Sun, Weiting Huang, Jiachang hao, Daixuan Cheng, Qi Qi, Jingyu Wang, Jianxin Liao",
+      "items": [],
+      "title": "• [2021 Neurocomputing] Spatial-aware Stacked Regression Network for Real-time 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Xingyuan Zhang, Fuhai Zhang",
+      "items": [],
+      "title": "• [2021 TMM] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cuixia Ma, Hongan Wang",
+      "items": [],
+      "title": "• [2020 TIP] Weakly-supervised Learning for Single Depth based Hand Shape Recovery. [PDF]"
+    },
+    {
+      "description": "Xiongquan Zhang; Shiliang Huang; Zhongfu Ye",
+      "items": [],
+      "title": "• [2020 Signal Process Image Commun] Accurate 3D Hand Pose Estimation Network Utilizing Joints Information. [PDF]"
+    },
+    {
+      "description": "Lu Xu, Chen Hu, Ji’an Tao, Jianru Xue, Kuizhi Mei",
+      "items": [],
+      "title": "• [2020 TCSVT] Improve Regression Network on Depth Hand Pose Estimation with Auxiliary Variable. [PDF]"
+    },
+    {
+      "description": "Gabyong Park, Antonis Argyros, Juyoung Lee, Woontack Woo",
+      "items": [],
+      "title": "• [2020 TVCG] 3D Hand Tracking in the Presence of Excessive Motion Blur. [PDF]"
+    },
+    {
+      "description": "Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Didier Stricker",
+      "items": [],
+      "title": "• [2019 Computers & Graphics] Simple and effective deep hand shape and pose regression from a single depth image. [PDF]"
+    },
+    {
+      "description": "Yangang Wang, Baowen Zhang, Cong Peng",
+      "items": [],
+      "title": "• [2019 TIP] SRHandNet: Real-time 2D Hand Pose Estimation with Simultaneous Region Localization. [PDF] [Project]"
+    },
+    {
+      "description": "Jameel Malik*, Ahmed Elhayek*, Didier Stricker",
+      "items": [],
+      "title": "• [2019 Sensors] WHSP-Net: A Weakly-Supervised Approach for 3D Hand Shape and Pose Recovery from a Single Depth Image. [PDF]"
+    },
+    {
+      "description": "Yafei Gao*, Yida Wang*, Pietro Falco, Nassir Navab, Federico Tombari",
+      "items": [],
+      "title": "• [2019 RA-L] Variational Object-aware 3D Hand Pose from a Single RGB Image. [PDF] [Code]"
+    },
+    {
+      "description": "Rui Li, Zhenyu Liu, Jianrong Tan",
+      "items": [],
+      "title": "• [2018 PR] A Survey on 3D Hand Pose Estimation: Cameras, Methods, and Datasets. [PDF]"
+    },
+    {
+      "description": "Zhongxu Hu, Youmin Hu, Jie Liu, Bo Wu, Dongmin Han, Thomas Kurfess",
+      "items": [],
+      "title": "• [2018 Neurocomputing] A CRNN module for hand pose estimation. [PDF]"
+    },
+    {
+      "description": "Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla",
+      "items": [],
+      "title": "• [2018 IVC] Large-scale Multiview 3D Hand Pose Dataset. [PDF] [Project]"
+    },
+    {
+      "description": "Yangang Wang, Cong Peng and Yebin Liu",
+      "items": [],
+      "title": "• [2018 TCSVT] Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Meysam Madadi, Sergio Escalera, Alex Carruesco, Carlos Andujar, Xavier Baró, Jordi Gonzàlez",
+      "items": [],
+      "title": "• [2018 IVC] Top-down model fitting for hand pose recovery in sequences of depth images. [PDF]"
+    },
+    {
+      "description": "Yiming Wu, Wei Ji, Xi Li, Gang Wang, Jianwei Yin, Fei Wu",
+      "items": [],
+      "title": "• [2018 TCYB] Context-Aware Deep Spatio-Temporal Network for Hand Pose Estimation from Depth Images. [PDF]"
+    },
+    {
+      "description": "Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji",
+      "items": [],
+      "title": "• [2018 IEEE Access] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [PDF] [Project]"
+    },
+    {
+      "description": "Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang",
+      "items": [],
+      "title": "• [2018 Neurocomputing] Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Tzu-Yang Chen, Pai-Wen Ting, Min-Yu Wu, Li-Chen Fu",
+      "items": [],
+      "title": "• [2018 PR] Learning a deep network with spherical part model for 3D hand pose estimation. [PDF]"
+    },
+    {
+      "description": "Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann",
+      "items": [],
+      "title": "• [2018 TIP] Robust 3D Hand Pose Estimation from Single Depth Images using Multi-View CNNs. [PDF]"
+    },
+    {
+      "description": "Guijin Wang, Xinghao Chen*, Hengkai Guo*, Cairong Zhang",
+      "items": [],
+      "title": "• [2018 JVCI] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Hui Liang, Junsong Yuan, J. Lee, Liuhao Ge and Daniel Thalmann",
+      "items": [],
+      "title": "• [2017 TCYB] Hough Forest with Optimized Leaves for Global Hand Pose Estimation with Arbitrary Postures. [PDF]"
+    },
+    {
+      "description": "Jordi Sanchez-Riera, Kathiravan Srinivasan, Kai-Lung Hua, Wen-Huang Cheng, M. Anwar Hossain, and Mohammed F. Alhamid",
+      "items": [],
+      "title": "• [2017 TCSVT] Robust RGB-D Hand Tracking Using Deep Learning Priors. [PDF]"
+    },
+    {
+      "description": "Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor",
+      "items": [],
+      "title": "• [2017 CVIU] Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [PDF]"
+    },
+    {
+      "description": "Damien Foururea, Rémi Emonet, Elisa Fromont, Damien Muselet, Natalia Neverova, Alain Trémeaua, Christian Wolf",
+      "items": [],
+      "title": "• [2017 Neurocomputing] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression. [PDF]"
+    },
+    {
+      "description": "Philip Krejov, Andrew Gilbert, Richard Bowden",
+      "items": [],
+      "title": "• [2016 CVIU] Guided Optimisation through Classification and Regression for Hand Pose Estimation. [PDF] [Project]"
+    },
+    {
+      "description": "Hui Liang, Junsong Yuan, Daniel Thalmann",
+      "items": [],
+      "title": "• [2015 TCSVT] Resolving Ambiguous Hand Pose Predictions by Exploiting Part Correlations. [PDF]"
+    },
+    {
+      "description": "Hui Liang, Junsong Yuan, Daniel Thalmann",
+      "items": [],
+      "title": "• [2014 TMM] Parsing the Hand in Depth Images. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conference Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2025 Others"
+    },
+    {
+      "description": "Nie Lin*, Takehiko Ohkawa*, Yifei Huang, Mingfang Zhang, Minjie Cai, Ming Li, Ryosuke Furuta, Yoichi Sato (*equal contribution).",
+      "items": [],
+      "title": "• [2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024 ECCV"
+    },
+    {
+      "description": "Wencan Cheng, Eunji Kim, Jong Hwan Ko",
+      "items": [],
+      "title": "• HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Woojin Cho, Jihyun Lee, Minjae Yi, Minje Kim, Taeyun Woo, Donghwan Kim, Taewook Ha, Hyokeun Lee, Je-Hwan Ryu, Woontack Woo, Tae-Kyun (T-K) Kim",
+      "items": [],
+      "title": "• Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics. [PDF]"
+    },
+    {
+      "description": "Aditya Prakash, Ruisen Tu, Matthew Chang, Saurabh Gupta",
+      "items": [],
+      "title": "• 3D Hand Pose Estimation in Everyday Egocentric Images. [PDF]"
+    },
+    {
+      "description": "Aditya Prakash, Matthew Chang, Matthew Jin, Ruisen Tu, Saurabh Gupta",
+      "items": [],
+      "title": "• 3D Reconstruction of Objects in Hands without Real World 3D Supervision. [PDF]"
+    },
+    {
+      "description": "Yufei Zhang, Jeffrey Kephart, Qiang Ji",
+      "items": [],
+      "title": "• Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance. [PDF]"
+    },
+    {
+      "description": "Jian Yang, Jiakun Li, Guoming Li, Huaiyu Wu, Zhen Shen, Zhaoxin Fan",
+      "items": [],
+      "title": "• MLPHand: Real Time Multi-View 3D Hand Reconstruction via MLP Modeling. [PDF]"
+    },
+    {
+      "description": "Rosario Leonardi, Antonino Furnari, Francesco Ragusa, Giovanni Maria Farinella",
+      "items": [],
+      "title": "• Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? [PDF]"
+    },
+    {
+      "description": "JoonKyu Park, Gyeongsik Moon, Weipeng Xu, Evan Kaseman, Takaaki Shiratori, Kyoung Mu Lee",
+      "items": [],
+      "title": "• 3D Hand Sequence Recovery from Real Blurry Images and Event Stream. [PDF]"
+    },
+    {
+      "description": "Xingyu Liu, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun, Zirui Zhuang, Jianxin Liao",
+      "items": [],
+      "title": "• Coarse-to-Fine Implicit Representation Learning for 3D Hand-Object Reconstruction from a Single RGB-D Image. [PDF]"
+    },
+    {
+      "description": "Eugene Valassakis, Guillermo Garcia-Hernando",
+      "items": [],
+      "title": "• HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Sruthi Sudhakar, Ruoshi Liu, Basile Van Hoorick, Carl Vondrick, Richard Zemel",
+      "items": [],
+      "title": "• Controlling the World by Sleight of Hand. [PDF]"
+    },
+    {
+      "description": "Qijin She, Shishun Zhang, Yunfan Ye, Ruizhen Hu, Kai Xu",
+      "items": [],
+      "title": "• Learning Cross-hand Policies of High-DOF Reaching and Grasping. [PDF]"
+    },
+    {
+      "description": "Bowen Fu, Gu Wang, Chenyangguang Zhang, Yan Di, Ziqin Huang, Zhiying Leng, Fabian Manhardt, Xiangyang Ji, Federico Tombari",
+      "items": [],
+      "title": "• D-SCo: Dual-Stream Conditional Diffusion for Monocular Hand-Held Object Reconstruction. [PDF]"
+    },
+    {
+      "description": "Zhongqun Zhang, Hengfei Wang, Ziwei Yu, Yihua Cheng, Angela Yao, Hyung Jin Chang",
+      "items": [],
+      "title": "• NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model. [PDF]"
+    },
+    {
+      "description": "Zicong Fan, Takehiko Ohkawa, Linlin Yang, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao",
+      "items": [],
+      "title": "• Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects. [PDF]"
+    },
+    {
+      "description": "Md Salman Shamil, Dibyadip Chatterjee, Fadime Sener, Shugao Ma, Angela Yao",
+      "items": [],
+      "title": "• On the Utility of 3D Hand Poses for Action Recognition. [PDF]"
+    },
+    {
+      "description": "Junho Park, Kyeongbo Kong, Suk-Ju Kang",
+      "items": [],
+      "title": "• AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild. [PDF] [Project] [Code] (Oral)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024 CVPR"
+    },
+    {
+      "description": "Haowen Luo, Yunze Liu, Li Yi",
+      "items": [],
+      "title": "• Physics-aware Hand-object Interaction Denoising"
+    },
+    {
+      "description": "Mengqi Zhang, Yang Fu, Zheng Ding, Sifei Liu, Zhuowen Tu, Xiaolong Wang",
+      "items": [],
+      "title": "• HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data"
+    },
+    {
+      "description": "Zhaoxi Chen, Gyeongsik Moon, Kaiwen Guo, Chen Cao, Stanislav Pidhorskyi, Tomas Simon, Rohan Joshi, Yuan Dong, Yichen Xu, Bernardo Pires, He Wen, Lucas Evans, Bo Peng, Julia Buffalini, Autumn Trimble, Kevyn McPhail, Melissa Schoeller, Shoou-I Yu, Javier Romero, Michael Zollhöfer, Yaser Sheikh, Ziwei Liu, Shunsuke Saito",
+      "items": [],
+      "title": "• URHand: Universal Relightable Hands. [PDF]"
+    },
+    {
+      "description": "Xinyu Zhan, Lixin Yang, Yifei Zhao, Kangrui Mao, Hanlin Xu, Zenan Lin, Kailin Li, Cewu Lu",
+      "items": [],
+      "title": "• OakInk2: A Dataset of Embodied Hands-Object Manipulation in Long-Horizon Complex Task Completion"
+    },
+    {
+      "description": "Jihyun Lee, Shunsuke Saito, Giljoo Nam, Minhyuk Sung, Tae-Kyun (T-K) Kim",
+      "items": [],
+      "title": "• InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion"
+    },
+    {
+      "description": "Chenyangguang Zhang, Guanlong Jiao, Yan Di, Ziqin Huang, Gu Wang, Ruida Zhang, Bowen Fu, Federico Tombari, Xiangyang Ji",
+      "items": [],
+      "title": "• MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision. [PDF]"
+    },
+    {
+      "description": "Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue",
+      "items": [],
+      "title": "• OHTA: One-shot Hand Avatar via Data-driven Implicit Priors. [PDF]"
+    },
+    {
+      "description": "Hao Xu, Haipeng Li, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu",
+      "items": [],
+      "title": "• HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions."
+    },
+    {
+      "description": "Wencan Cheng, Hao Tang, Luc Van Gool, Jong Hwan Ko",
+      "items": [],
+      "title": "• HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud."
+    },
+    {
+      "description": "Junuk Cha, Jihyeon Kim, Jae Shin Yoon, Seungryul Baek",
+      "items": [],
+      "title": "• Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction."
+    },
+    {
+      "description": "Wenqian Zhang, Molin Huang, Yuxuan Zhou, Juze Zhang, Jingyi Yu, Jingya Wang, Lan Xu",
+      "items": [],
+      "title": "• BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics. [PDF]"
+    },
+    {
+      "description": "Keyang Zhou, Bharat Bhatnagar, Jan Eric Lenssen, Gerard Pons-Moll",
+      "items": [],
+      "title": "• GEARS: Local Geometry-aware Hand-object Interaction Synthesis."
+    },
+    {
+      "description": "Zhishan Zhou, Shihao.zhou, Zhi Lv, Minqiang Zou, Yao Tang, Jiajun Liang",
+      "items": [],
+      "title": "• A Simple Baseline for Efficient Hand Mesh Reconstruction. [PDF]"
+    },
+    {
+      "description": "Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges",
+      "items": [],
+      "title": "• HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [PDF] [Code]"
+    },
+    {
+      "description": "Pengfei Xie, Wenqiang Xu, Tutian Tang, Zhenjun Yu, Cewu Lu",
+      "items": [],
+      "title": "• MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints."
+    },
+    {
+      "description": "Supreeth Narasimhaswamy, Huy Nguyen, Lihan Huang, Minh Hoai",
+      "items": [],
+      "title": "• HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild."
+    },
+    {
+      "description": "Minje Kim, Tae-Kyun Kim",
+      "items": [],
+      "title": "• BiTT: Bi-directional Texture Reconstruction of Interacting Two Hands from a Single Image."
+    },
+    {
+      "description": "Gyeongsik Moon, Weipeng Xu, Rohan Joshi, Chenglei Wu, Takaaki Shiratori",
+      "items": [],
+      "title": "• Authentic Hand Avatar from a Phone Scan via Universal Hand Model."
+    },
+    {
+      "description": "Georgios Pavlakos, Dandan Shan, Ilija Radosavovic, Angjoo Kanazawa, David Fouhey, Jitendra Malik",
+      "items": [],
+      "title": "• Reconstructing Hands in 3D with Transformers. [PDF]"
+    },
+    {
+      "description": "Jianping Jiang, Xinyu Zhou, Bingxuan Wang, Xiaoming Deng, Chao Xu, Boxin Shi",
+      "items": [],
+      "title": "• Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction."
+    },
+    {
+      "description": "Ruicong Liu, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato",
+      "items": [],
+      "title": "• Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Haozhe Qi, Chen Zhao, Mathieu Salzmann, Alexander Mathis",
+      "items": [],
+      "title": "• HOISDF: Constraining 3D Hand Object Pose Estimation with Global Signed Distance Fields. [PDF]"
+    },
+    {
+      "description": "Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani",
+      "items": [],
+      "title": "• G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis."
+    },
+    {
+      "description": "Mengcheng Li, Hongwen Zhang, Yuxiang Zhang, Ruizhi Shao, Tao Yu, Yebin Liu",
+      "items": [],
+      "title": "• HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2024 Others"
+    },
+    {
+      "description": "Haoye Dong*, Aviral Chharia*, Wenbo Gou*, Francisco Vicente Carrasco, Fernando De la Torre",
+      "items": [],
+      "title": "• [2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Conference Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2023 CVPR"
+    },
+    {
+      "description": "Zheheng Jiang, Hossein Rahmani, Sue Black, Bryan M. Williams",
+      "items": [],
+      "title": "• A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image"
+    },
+    {
+      "description": "Changlong Jiang, Yang Xiao, Cunlin Wu, Mingyang Zhang, Jinghong Zheng, Zhiguo Cao, Joey Tianyi Zhou",
+      "items": [],
+      "title": "• A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Code]"
+    },
+    {
+      "description": "Congyi Wang, Feida Zhu, Shilei Wen",
+      "items": [],
+      "title": "• MeMaHand: Exploiting Mesh-Mano Interaction for Single Image Two-Hand Reconstruction. [PDF]"
+    },
+    {
+      "description": "Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges",
+      "items": [],
+      "title": "• ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation. [Project]"
+    },
+    {
+      "description": "Takehiko Ohkawa, Kun He, Fadime Sener, Tomas Hodan, Luan Tran, and Cem Keskin",
+      "items": [],
+      "title": "• AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation. [Project]"
+    },
+    {
+      "description": "Tianyu Luan, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan.",
+      "items": [],
+      "title": "• High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition."
+    },
+    {
+      "description": "Zhiyang Guo, Wengang Zhou, Min Wang, Li Li, Houqiang Li",
+      "items": [],
+      "title": "• HandNeRF: Neural Radiance Fields for Animatable Interacting Hands. [PDF]"
+    },
+    {
+      "description": "Lixin Yang, Jian Xu, Licheng Zhong, Xinyu Zhan, Zhicheng Wang, Kejian Wu, Cewu Lu",
+      "items": [],
+      "title": "• POEM: Reconstructing Hand in a Point Embedded Multi-view Stereo. [PDF] [Code]"
+    },
+    {
+      "description": "Korrawe Karunratanakul, Sergey Prokudin, Otmar Hilliges, Siyu Tang",
+      "items": [],
+      "title": "• HARP: Personalized Hand Reconstruction from a Monocular RGB Video. [PDF] [Project]"
+    },
+    {
+      "description": "Shun Iwase, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Timur Bagautdinov, Rohan Joshi, Fabian Prada, Takaaki Shiratori, Yaser Sheikh, Jason Saragih",
+      "items": [],
+      "title": "• RelightableHands: Efficient Neural Relighting of Articulated Hand Models. [PDF] [Project]"
+    },
+    {
+      "description": "Hao Xu, Tianyu Wang, Xiao Tang, Chi-Wing Fu",
+      "items": [],
+      "title": "• H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction."
+    },
+    {
+      "description": "Yufei Ye, Xueting Li, Abhinav Gupta, Shalini De Mello, Stan Birchfield, Jiaming Song, Shubham Tulsiani, Sifei Liu",
+      "items": [],
+      "title": "• Affordance Diffusion: Synthesizing Hand-Object Interactions. [PDF] [Project]"
+    },
+    {
+      "description": "Zerui Chen, Shizhe Chen, Cordelia Schmid, Ivan Laptev",
+      "items": [],
+      "title": "• gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction. [PDF] [Project]"
+    },
+    {
+      "description": "Zhifeng Lin, Changxing Ding, Huan Yao, Zengsheng Kuang, Shaoli Huang",
+      "items": [],
+      "title": "• Harmonious Feature Learning for Interactive Hand-Object Pose Estimation."
+    },
+    {
+      "description": "Rolandos Potamias Potamias, Stylianos Ploumpis, Stylianos Moschoglou, Vasileios Triantafyllou, Stefanos Zafeiriou",
+      "items": [],
+      "title": "• Handy: Towards a high fidelity 3D hand shape and appearance model."
+    },
+    {
+      "description": "Xingyu Chen, Baoyuan Wang Heung-Yeung, Shum",
+      "items": [],
+      "title": "• Hand Avatar: Free-Pose Hand Animation and Rendering from Monocular Video. [PDF] [Project]"
+    },
+    {
+      "description": "Qiuxia Lin, Linlin Yang, Angela Yao",
+      "items": [],
+      "title": "• Cross-domain 3D Hand Pose Estimation with Dual Modalities. [PDF]"
+    },
+    {
+      "description": "Ziwei Yu, Chen Li, Linlin Yang, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Angela Yao",
+      "items": [],
+      "title": "• Overcoming the Tradeoff in Accuracy and Plausibility for 3D Hand Shape Reconstruction. [PDF]"
+    },
+    {
+      "description": "Yilin Wen, Hao Pan, Lei Yang, Jia Pan, Taku Komura, Wenping Wang",
+      "items": [],
+      "title": "• Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Jihyun Lee, Minhyuk Sung, Honggyu Choi, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Lin Huang, Chung-Ching Lin, Kevin Lin, Lin Liang, Lijuan Wang, Junsong Yuan, Zicheng Liu",
+      "items": [],
+      "title": "• Neural Voting Field for Camera-Space 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Gyeongsik Moon",
+      "items": [],
+      "title": "• Bringing Inputs to Shared Domains for 3D Interacting Hands Recovery in the Wild. [PDF]"
+    },
+    {
+      "description": "JoonKyu Park*, Yeonguk Oh*, Jaeha Kim*, Gyeongsik Moon, Kyoung Mu Lee",
+      "items": [],
+      "title": "• Recovering 3D Hand Mesh Sequence from a Single Blurry Image: A New Dataset and Temporal Unfolding. [PDF]"
+    },
+    {
+      "description": "Zimeng Zhao, Binghui Zuo, Zhiyu Long and Yangang Wang",
+      "items": [],
+      "title": "• Semi-supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination. [PDF]"
+    },
+    {
+      "description": "Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, Seungryul Baek",
+      "items": [],
+      "title": "• Transformer-based Unified Recognition of Two Hands Manipulating Objects. [PDF]"
+    },
+    {
+      "description": "Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang",
+      "items": [],
+      "title": "• ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2023 ICCV"
+    },
+    {
+      "description": "Wentian Qu, Zhaopeng Cui, Yinda Zhang, Chenyu Meng, Cuixia Ma, Xiaoming Deng, Hongan Wang",
+      "items": [],
+      "title": "• Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views. [PDF] Project] [Code] [Data]"
+    },
+    {
+      "description": "Shaowei Liu, Yang Zhou, Jimei Yang, Saurabh Gupta, Shenlong Wang",
+      "items": [],
+      "title": "• ContactGen: Generative Contact Modeling for Grasp Generation [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani",
+      "items": [],
+      "title": "• Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. [PDF]"
+    },
+    {
+      "description": "Wencan Cheng, Jong Hwan Ko",
+      "items": [],
+      "title": "• HandR2N2: Iterative 3D Hand Pose Estimation Using a Residual Recurrent Neural Network. [PDF]"
+    },
+    {
+      "description": "Xiaozheng Zheng, Chao Wen, Zhou Xue, Pengfei Ren, Jingyu Wang",
+      "items": [],
+      "title": "• HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Qichen Fu, Xingyu Liu, Ran Xu, Juan Carlos Niebles, Kris M. Kitani",
+      "items": [],
+      "title": "• Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Zhisheng Huang, Yujin Chen, Di Kang, Jinlu Zhang, Zhigang Tu",
+      "items": [],
+      "title": "• PHRIT: Parametric Hand Representation with Implicit Template. [PDF]"
+    },
+    {
+      "description": "Kailin Li, Lixin Yang, Haoyu Zhen, Zenan Lin, Xinyu Zhan, Licheng Zhong, Jian Xu, Kejian Wu, Cewu Lu",
+      "items": [],
+      "title": "• CHORD: Category-level Hand-held Object Reconstruction via Shape Deformation. [PDF]"
+    },
+    {
+      "description": "Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong",
+      "items": [],
+      "title": "• Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting. [PDF]"
+    },
+    {
+      "description": "Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti",
+      "items": [],
+      "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Binghui Zuo, Zimeng Zhao, Wenqian Sun, Wei Xie, Zhou Xue, Yangang Wang",
+      "items": [],
+      "title": "• Reconstructing Interacting Hands with Interaction Prior from Monocular Images. [PDF]"
+    },
+    {
+      "description": "Shujie Zhang, Tianyue Zheng, Zhe Chen, Jingzhi Hu, Abdelwahed Khamis, Jiajun Liu, Jun Luo",
+      "items": [],
+      "title": "• OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision. [PDF]"
+    },
+    {
+      "description": "Zhiying Leng, Shun-Cheng Wu, Mahdi Saleh, Antonio Montanaro, Hao Yu, Yin Wang, Nassir Navab, Xiaohui Liang, Federico Tombari",
+      "items": [],
+      "title": "• Dynamic Hyperbolic Attention Network for Fine Hand-object Reconstruction. [PDF]"
+    },
+    {
+      "description": "Pengfei Ren, Chao Wen, Xiaozheng Zheng, Zhou Xue, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao",
+      "items": [],
+      "title": "• Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Juntao Jian, Xiuping Liu, Manyi Li, Ruizhen Hu, Jian Liu",
+      "items": [],
+      "title": "• AffordPose: A Large-Scale Dataset of Hand-Object Interactions with Affordance-Driven Hand Pose. [PDF]"
+    },
+    {
+      "description": "Yue Xu, Yong-Lu Li, Zhemin Huang, Michael Xu Liu, Cewu Lu, Yu-Wing Tai, Chi-Keung Tang",
+      "items": [],
+      "title": "• EgoPCA: A New Framework for Egocentric Hand-Object Interaction Understanding. [PDF]"
+    },
+    {
+      "description": "Lijun Li, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng Bo, Mengyuan Liu, Chen Chen",
+      "items": [],
+      "title": "• RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Qucheng Peng, Ce Zheng, Chen Chen",
+      "items": [],
+      "title": "• Source-free Domain Adaptive Human Pose Estimation [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt, Mohamed Elgharib",
+      "items": [],
+      "title": "• LiveHand: Real-time and Photorealistic Neural Hand Rendering [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2023 Others"
+    },
+    {
+      "description": "Jihyun Lee, Junbong Jang, Donghwan Kim, Minhyuk Sung, Tae-Kyun (T-K) Kim",
+      "items": [],
+      "title": "• [2023 NeurIPS] FourierHandFlow: Neural 4D Hand Representation Using Fourier Query Flow. [PDF] [Project]"
+    },
+    {
+      "description": "Anilkumar Swamy, Vincent Leroy, Philippe Weinzaepfel, Fabien Baradel, Salma Galaaoui, Romain Bregier, Matthieu Armando, Jean-Sebastien Franco, Gregory Rogez",
+      "items": [],
+      "title": "• [2023 ICCVW] SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction. [PDF] [Project] [Code] [Data]"
+    },
+    {
+      "description": "Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao",
+      "items": [],
+      "title": "• [2023 AAAI] Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation. [[PDF]] (AAAI-23 Distinguished Papers)"
+    },
+    {
+      "description": "Jiayi Chen, Mi Yan, Jiazhao Zhang, Yinzhen Xu, Xiaolong Li, Yijia Weng, Li Yi, Shuran Song, He Wang",
+      "items": [],
+      "title": "• [2023 AAAI] Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild. [PDF]"
+    },
+    {
+      "description": "Ahmed Tawfik Aboukhadra, Jameel Malik, Ahmed Elhayek, Nadia Robertini, Didier Stricker",
+      "items": [],
+      "title": "• [2023 WACV] THOR-Net: End-to-End Graformer-Based Realistic Two Hands and Object Reconstruction With Self-Supervision. [PDF] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2022 ECCV"
+    },
+    {
+      "description": "Deying Kong, Linguang Zhang, Liangjian Chen, Haoyu Ma, Xiangyi Yan, Shanlin Sun, Xingwei Liu, Kun Han, Xiaohui Xie",
+      "items": [],
+      "title": "• Identity-aware Hand Mesh Estimation and Personalization from RGB Images . [[PDF]] [Code]"
+    },
+    {
+      "description": "Zerui Chen, Yana Hasson, Cordelia Schmid, Ivan Laptev",
+      "items": [],
+      "title": "• AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Tze Ho Elden Tse, Zhongqun Zhang, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang",
+      "items": [],
+      "title": "• S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Takehiko Ohkawa, Yu-Jhe Li, Qichen Fu, Ryosuke Furuta, Kris M. Kitani, and Yoichi Sato",
+      "items": [],
+      "title": "• Domain Adaptive Hand Keypoint and Pixel Localization in the Wild. [PDF] [Project]"
+    },
+    {
+      "description": "Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Luo",
+      "items": [],
+      "title": "• 3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal. [PDF] [Project][Dataset]"
+    },
+    {
+      "description": "Junhyeong Cho, Kim Youwang, Tae-Hyun Oh",
+      "items": [],
+      "title": "• Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2022 CVPR"
+    },
+    {
+      "description": "Yufei Ye, Abhinav Gupta, Shubham Tulsiani",
+      "items": [],
+      "title": "• What's in your hands? 3D Reconstruction of Generic Objects in Hands. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Pengfei Ren, Haifeng Sun, Jiachang Hao, Jingyu Wang, Qi Qi,Jianxin Liao",
+      "items": [],
+      "title": "• Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-based 3D Hand Pose and Mesh Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "JoonKyu Park, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, Kyoung Mu Lee",
+      "items": [],
+      "title": "• HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [PDF] [Code]"
+    },
+    {
+      "description": "Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit",
+      "items": [],
+      "title": "• Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Tze Ho Elden Tse, Kwang In Kim, Ales Leonardis, and Hyung Jin Chang",
+      "items": [],
+      "title": "• Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution. [PDF] [Project]"
+    },
+    {
+      "description": "Shuying Liu, Wenbin Wu, Jiaxian Wu, Yue Lin",
+      "items": [],
+      "title": "• Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation. [PDF]"
+    },
+    {
+      "description": "Sammy Christen, Muhammed Kocabas, Emre Aksan, Jemin Hwangbo, Jie Song, Otmar Hilliges",
+      "items": [],
+      "title": "• D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions. [PDF] [Project]"
+    },
+    {
+      "description": "Omid Taheri, Vasileios Choutas, Michael J. Black, Dimitrios Tzionas",
+      "items": [],
+      "title": "• GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping. [PDF] [Project]"
+    },
+    {
+      "description": "Lixin Yang, Kailin Li Xinyu Zhan, Fei Wu, Anran Xu, Liu Liu, Cewu Lu",
+      "items": [],
+      "title": "• OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. [PDF] [Code]"
+    },
+    {
+      "description": "Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu",
+      "items": [],
+      "title": "• ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [PDF] [Code]"
+    },
+    {
+      "description": "Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin Liu",
+      "items": [],
+      "title": "• Interacting Attention Graph for Single Image Two-Hand Reconstruction. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo",
+      "items": [],
+      "title": "• MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image. [PDF] [Code]"
+    },
+    {
+      "description": "Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, Lingni Ma",
+      "items": [],
+      "title": "• LISA: Learning Implicit Shape and Appearance of Hands. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2022 Others"
+    },
+    {
+      "description": "Jian Cheng, Yanguang Wan, Dexin Zuo, Cuixia Ma, Jian Gu, Ping Tan, Hongan Wang, Xiaoming Deng, Yinda Zhang",
+      "items": [],
+      "title": "• [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2021 ICCV"
+    },
+    {
+      "description": "Tianqiang Zhu, Rina Wu, Xiangbo Lin, Yi Sun",
+      "items": [],
+      "title": "• Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand. [PDF]"
+    },
+    {
+      "description": "Zheng Chen, Sihan Wang, Yi Sun, Xiaohong Ma",
+      "items": [],
+      "title": "• Self-Supervised Transfer Learning for Hand Mesh Recovery From Binocular Images. [PDF]"
+    },
+    {
+      "description": "Adrian Spurr, Aneesh Dahiya, Xucong Zhang, Xi Wang, Otmar Hilliges",
+      "items": [],
+      "title": "• Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [PDF] [Code] (Oral)"
+    },
+    {
+      "description": "Xiao Tang, Tianyu Wang, Chi-Wing Fu",
+      "items": [],
+      "title": "• Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [PDF] [Code]"
+    },
+    {
+      "description": "Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mueller, Mohamed Elgharib, Christian Theobalt",
+      "items": [],
+      "title": "• EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream. [PDF] [Project]"
+    },
+    {
+      "description": "Zhe Cao*, Ilija Radosavovic*, Angjoo Kanazawa, Jitendra Malik",
+      "items": [],
+      "title": "• Reconstructing Hand-Object Interactions in the Wild. [PDF] [Project]"
+    },
+    {
+      "description": "Wencan Cheng, Jae Hyun Park, Jong Hwan Ko",
+      "items": [],
+      "title": "• HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton. [PDF] [Code]"
+    },
+    {
+      "description": "Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys",
+      "items": [],
+      "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Ping Chen, Yujin Chen, Dong Yang, Fangyin Wu, Qin Li, Qingpei Xia, Yong Tan",
+      "items": [],
+      "title": "• I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-fidelity 3D Hand Mesh Modeling. [PDF]"
+    },
+    {
+      "description": "Linlin Yang, Shicheng Chen, Angela Yao",
+      "items": [],
+      "title": "• SemiHand: Semi-supervised Hand Pose Estimation with Consistency. [PDF]"
+    },
+    {
+      "description": "Donguk Kim, Kwang In Kim, Seungryul Baek",
+      "items": [],
+      "title": "• End-to-End Detection and Pose Estimation of Two Interacting Hands. [PDF]"
+    },
+    {
+      "description": "Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang",
+      "items": [],
+      "title": "• Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [PDF] [Project] (Oral)"
+    },
+    {
+      "description": "Xiong Zhang, Hongsheng Huang, Jianchao Tan, Hongmin Xu, Cheng Yang, Guozhu Peng, Lei Wang, Ji Liu",
+      "items": [],
+      "title": "• Hand Image Understanding via Deep Multi-Task Learning. [PDF] [Code]"
+    },
+    {
+      "description": "Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu",
+      "items": [],
+      "title": "• CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [PDF] [Code]"
+    },
+    {
+      "description": "Zimeng Zhao, Xi Zhao and Yangang Wang",
+      "items": [],
+      "title": "• TravelNet: Self-supervised Physically Plausible Hand Motion Learning from Monocular Color Images. [PDF]"
+    },
+    {
+      "description": "Baowen Zhang, Yangang Wang, Xiaoming Deng, Yinda Zhang, Ping Tan, Cuixia Ma and Hongan Wang",
+      "items": [],
+      "title": "• Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Kerui Gu, Linlin Yang, Angela Yao",
+      "items": [],
+      "title": "• Removing the Bias of Integral Pose Regression. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2021 CVPR"
+    },
+    {
+      "description": "Yuxiao Zhou, Marc Habermann, Ikhsanul Habibie, Ayush Tewari, Christian Theobalt, Feng Xu",
+      "items": [],
+      "title": "• Monocular Real-time Full Body Capture with Inter-part Correlations. [PDF]"
+    },
+    {
+      "description": "Kevin Lin, Lijuan Wang, Zicheng Liu",
+      "items": [],
+      "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]"
+    },
+    {
+      "description": "Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox",
+      "items": [],
+      "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Evonne Ng, Hanbyul Joo, Shiry Ginosar, Trevor Darrell",
+      "items": [],
+      "title": "• Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics. [PDF] [Project]"
+    },
+    {
+      "description": "Xingyu Chen, Yufeng Liu, Chongyang Ma, Jianlong Chang, Huayan Wang, Tian Chen, Xiaoyan Guo, Pengfei Wan, Wen Zheng",
+      "items": [],
+      "title": "• Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration. [PDF]"
+    },
+    {
+      "description": "Yujin Chen, Zhigang Tu, Di Kang, Linchao Bao, Ying Zhang, Xuefei Zhe, Ruizhi Chen, Junsong Yuan",
+      "items": [],
+      "title": "• Model-based 3D Hand Reconstruction via Self-Supervised Learning. [PDF]"
+    },
+    {
+      "description": "Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang",
+      "items": [],
+      "title": "• Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2021 Others"
+    },
+    {
+      "description": "Korrawe Karunratanakul, Adrian Spurr, Zicong Fan, Otmar Hilliges, Siyu Tang",
+      "items": [],
+      "title": "• [2021 3DV] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [PDF] [Project] [Code] (Oral)"
+    },
+    {
+      "description": "Zicong Fan, Adrian Spurr, Muhammed Kocabas, Siyu Tang, Michael J. Black, Otmar Hilliges",
+      "items": [],
+      "title": "• [2021 3DV] Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [PDF] [Project] [Code] (Oral)"
+    },
+    {
+      "description": "Samira Kaviani, Amir Rahimi, Richard Hartley",
+      "items": [],
+      "title": "• [2021 DICTA] Semi-Supervised 3D Hand Shape and Pose Estimation with Label Propagation. [PDF]"
+    },
+    {
+      "description": "Xiaozheng Zheng, Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi and Jianxin Liao",
+      "items": [],
+      "title": "• [2021 BMVC] Joint-Aware Regression: Rethinking Regression-Based Method for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Ziwei Yu, Linlin Yang, Shicheng Chen and Angela Yao",
+      "items": [],
+      "title": "• [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. [PDF] [Data]"
+    },
+    {
+      "description": "Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu",
+      "items": [],
+      "title": "• [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [PDF] [Code]"
+    },
+    {
+      "description": "Giorgos Karvounas, Nikolaos Kyriazis, Iason Oikonomidis, Aggeliki Tsoli, Antonis A. Argyros",
+      "items": [],
+      "title": "• [2021 BMVC] Multi-view Image-based Hand Geometry Refinement using Differentiable Monte Carlo Ray Tracing. [PDF]"
+    },
+    {
+      "description": "He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura",
+      "items": [],
+      "title": "• [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [PDF] [Code]"
+    },
+    {
+      "description": "Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu",
+      "items": [],
+      "title": "• [2021 SIGGRAPH] Single Depth View-Based Real-time Reconstruction of Hand-object Interactions. [PDF]"
+    },
+    {
+      "description": "Qiang Zhang, Yunzhu Li, Yiyue Luo, Wan Shou, Michael Foshey, Junchi Yan, Joshua B. Tenenbaum, Wojciech Matusik, Antonio Torralba",
+      "items": [],
+      "title": "• [2021 IROS] Dynamic Modeling of Hand-Object Interactions via Tactile Sensing. [PDF] [Project]"
+    },
+    {
+      "description": "Moran Li, Yuan Gao, Nong Sang",
+      "items": [],
+      "title": "• [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim",
+      "items": [],
+      "title": "• [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Fanqing Lin, Connor Wilhelm, Tony Martinez",
+      "items": [],
+      "title": "• [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [PDF] [Code]"
+    },
+    {
+      "description": "Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie",
+      "items": [],
+      "title": "• [2021 WACV] MVHM: A Large-Scale Multi-View Hand Mesh Benchmark for Accurate 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie",
+      "items": [],
+      "title": "• [2021 WACV] Temporal-Aware Self-Supervised Learning for 3D Hand Pose and Mesh Estimation in Videos. [PDF]"
+    },
+    {
+      "description": "Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Ramez Elmasri, Vassilis Athitsos",
+      "items": [],
+      "title": "• [2021 PETRA] Weakly-supervised hand part segmentation from depth images. [PDF]"
+    },
+    {
+      "description": "Farnaz Farahanipad, Mohammad Rezaei, Alex Dillhoff, Farhad Kamangar, Vassilis Athitsos",
+      "items": [],
+      "title": "• [2021 PETRA] A Pipeline for Hand 2-D Keypoint Localization Using Unpaired Image to Image Translation. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2020 ECCV"
+    },
+    {
+      "description": "Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas",
+      "items": [],
+      "title": "• GRAB: A Dataset of Whole-Body Human Grasping of Objects. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black",
+      "items": [],
+      "title": "• Monocular Expressive Body Regression through Body-Driven Attention. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo, Andrew William Fitzgibbon, Jamie Shotton",
+      "items": [],
+      "title": "• The Phong Surface: Efficient 3D Model Fitting using Lifted Optimization. [PDF] (Oral)"
+    },
+    {
+      "description": "Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo",
+      "items": [],
+      "title": "• Whole-Body Human Pose Estimation in the Wild. [PDF] [Code]"
+    },
+    {
+      "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+      "items": [],
+      "title": "• Dual Grid Net: hand mesh vertex regression from single depth maps. [PDF]"
+    },
+    {
+      "description": "Lin Huang, Jianchao Tan, Ji Liu, and Junsong Yuan",
+      "items": [],
+      "title": "• Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays",
+      "items": [],
+      "title": "• ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak",
+      "items": [],
+      "title": "• SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. [PDF]"
+    },
+    {
+      "description": "Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard, Vladislav Golyanik, Christian Theobalt",
+      "items": [],
+      "title": "• HTML: A Parametric Hand Texture Model for 3D Hand Reconstruction and Personalizationm. [PDF] [Project]"
+    },
+    {
+      "description": "Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang",
+      "items": [],
+      "title": "• JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [PDF] [Code] (Spotlight)"
+    },
+    {
+      "description": "Zhipeng Fan, Jun Liu, Yao Wang",
+      "items": [],
+      "title": "• Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. [PDF] (Spotlight)"
+    },
+    {
+      "description": "Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot",
+      "items": [],
+      "title": "• Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis. [PDF] (Spotlight)"
+    },
+    {
+      "description": "Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee",
+      "items": [],
+      "title": "• DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. [PDF] [Project] (Oral)"
+    },
+    {
+      "description": "Gyeongsik Moon, Shoou-i Yu, He Wen, Takaaki Shiratori, Kyoung Mu Lee",
+      "items": [],
+      "title": "• InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Gyeongsik Moon, Kyoung Mu Lee",
+      "items": [],
+      "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]"
+    },
+    {
+      "description": "Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Otmar Hilliges, Jan Kautz",
+      "items": [],
+      "title": "• Weakly-Supervised 3D Hand Pose Estimation via Biomechanical Constraints. [PDF]"
+    },
+    {
+      "description": "Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren, Weiting Huang, Haifeng Sun, Marek Hrúz, Jakub Kanis, Zdeněk Krňoul, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Gregory Rogez, Vincent Lepetit, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [PDF] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2020 CVPR"
+    },
+    {
+      "description": "Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou",
+      "items": [],
+      "title": "• Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [PDF] [Project] (Oral) (Paper Award Nominees)"
+    },
+    {
+      "description": "Seungryul Baek, Kwang In Kim, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. [PDF] [Code] (Oral) (Paper Award Nominees)"
+    },
+    {
+      "description": "Enric Corona, Albert Pumarola, Guillem Alenya, Francesc Moreno-Noguer, Gregory Rogez",
+      "items": [],
+      "title": "• GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes. [PDF]"
+    },
+    {
+      "description": "Thomas Theodoridis, Theocharis Chatzis, Vassilios Solachidis, Kosmas Dimitropoulos, Petros Daras",
+      "items": [],
+      "title": "• Cross-Modal Variational Alignment of Latent Spaces. [PDF]"
+    },
+    {
+      "description": "Zhixuan Yu*, Jae Shin Yoon*, Prashanth Venkatesh, Jaesik Park, Jihun Yu, Hyun Soo Park",
+      "items": [],
+      "title": "• HUMBI: A Large Multiview Dataset of Human Body Expressions. [PDF] [Project]"
+    },
+    {
+      "description": "Yihui He*, Rui Yan*, Shoou-I Yu, Katerina Fragkiadaki",
+      "items": [],
+      "title": "• Epipolar Transformers. [PDF] [Code]"
+    },
+    {
+      "description": "Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vladislav Golyanik, Christian Theobalt, Didier Stricker",
+      "items": [],
+      "title": "• HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map. [PDF]"
+    },
+    {
+      "description": "Long Zhao, Xi Peng, Yuxiao Chen, Mubbasir Kapadia, Dimitris N. Metaxas",
+      "items": [],
+      "title": "• Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge. [PDF]"
+    },
+    {
+      "description": "Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid",
+      "items": [],
+      "title": "• Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu",
+      "items": [],
+      "title": "• Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri",
+      "items": [],
+      "title": "• HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit",
+      "items": [],
+      "title": "• HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2020 Others"
+    },
+    {
+      "description": "Bowen Wen, Chaitanya Mitash, Sruthi Soorian, Andrew Kimmel, Avishai Sintov, Kostas E. Bekris",
+      "items": [],
+      "title": "• [2020 ICRA] Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands . [PDF] [Code]"
+    },
+    {
+      "description": "Fan Zhang, Valentin Bazarevsky, Andrey Vakunov, Andrei Tkachenka, George Sung, Chuo-Ling Chang, Matthias Grundmann",
+      "items": [],
+      "title": "• [2020 CVPRW] MediaPipe Hands: On-device Real-time Hand Tracking. [PDF]"
+    },
+    {
+      "description": "Gabyong Park, Tae-Kyun Kim, Woontack Woo",
+      "items": [],
+      "title": "• [2020 ISMAR] 3D Hand Pose Estimation with a Single Infrared Camera via Domain Transfer Learning. [PDF]"
+    },
+    {
+      "description": "Woojin Cho, Gabyong Park, Woontack Woo",
+      "items": [],
+      "title": "• [2020 ISMAR] Bare-hand Depth Inpainting for 3D Tracking of Hand Interacting with Object. [PDF]"
+    },
+    {
+      "description": "Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol Muandet, Siyu Tang",
+      "items": [],
+      "title": "• [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [PDF] [Code] (Best Paper Award)"
+    },
+    {
+      "description": "Keunwoo Park, Sunbum Kim, Youngwoo Yoon, Tae-Kyun Kim, Geehyuk Lee",
+      "items": [],
+      "title": "• [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Breannan Smith, Chenglei Wu, He Wen, Patrick Peluse, Yaser Sheikh, Jessica Hodgins, Takaaki Shiratori",
+      "items": [],
+      "title": "• [2020 SIGGRAPH Asia] Constraining Dense Hand Surface Tracking With Elasticity. [PDF] [Project]"
+    },
+    {
+      "description": "Jiayi Wang, Franziska Mueller, Florian Bernard, Suzanne Sorli, Oleksandr Sotnychenko, Neng Qian, Miguel A. Otaduy, Dan Casas, and Christian Theobalt",
+      "items": [],
+      "title": "• [2020 SIGGRAPH Asia] RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video. [PDF] [Project]"
+    },
+    {
+      "description": "Shangchen Han, Beibei Liu, Randi Cabezas, Christopher D. Twigg, Peizhao Zhang, Jeff Petkau, Tsz-Ho Yu, Chun-Jung Tai, Muzaffer Akbay, Zheng Wang, Asaf Nitzan, Gang Dong, Yuting Ye, Lingling Tao, Chengde Wan, Robert Wang",
+      "items": [],
+      "title": "• [2020 SIGGRAPH] MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. [PDF]"
+    },
+    {
+      "description": "Zhenyu Wu, Duc Hoang, Shih-Yao Lin, Yusheng Xie, Liangjian Chen, Yen-Yu Lin, Zhangyang Wang, Wei Fan",
+      "items": [],
+      "title": "• [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. [PDF] [Code]"
+    },
+    {
+      "description": "Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng",
+      "items": [],
+      "title": "• [2020 MM] Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [PDF]"
+    },
+    {
+      "description": "Lin Huang, Jianchao Tan, Jingjing Meng, Ji Liu, and Junsong Yuan",
+      "items": [],
+      "title": "• [2020 MM] HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Kewen Wang and Xilin Chen",
+      "items": [],
+      "title": "• [2020 BMVC] PMD-Net: Privileged Modality Distillation Network for 3D Hand Pose Estimation from a Single RGB Image. [PDF]"
+    },
+    {
+      "description": "Deying Kong, Haoyu Ma and Xiaohui Xie",
+      "items": [],
+      "title": "• [2020 BMVC] SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yumeng Zhang, Li Chen, Yufeng Liu, Wen Zheng and JunHai Yong",
+      "items": [],
+      "title": "• [2020 BMVC] Explicit Knowledge Distillation for 3D Hand Pose Estimation from Monocular RGB. [PDF]"
+    },
+    {
+      "description": "Lixin Yang, Jiasen Li, Wenqiang Xu, Yiqun Diao, Cewu Lu",
+      "items": [],
+      "title": "• [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [PDF] [Code]"
+    },
+    {
+      "description": "Fang Hu, Peng He, Songlin Xu, Yin Li, Cheng Zhang",
+      "items": [],
+      "title": "• [2020 Ubicomp] FingerTrak: Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes Captured by Miniature Thermal Cameras on Wrist. [PDF] (ECCV 2020 Demo Award Nominee)"
+    },
+    {
+      "description": "Peter Thompson, Aphrodite Galata",
+      "items": [],
+      "title": "• [2020 FG] Hand tracking from monocular RGB with dense semantic labels. [PDF]"
+    },
+    {
+      "description": "Jiayi Wang, Franziska Mueller, Florian Bernard, Christian Theobalt",
+      "items": [],
+      "title": "• [2020 FG] Generative Model-Based Loss to the Rescue: A Method to Overcome Annotation Errors for Depth-Based Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Guillermo Garcia-Hernando, Edward Johns, Tae-Kyun Kim",
+      "items": [],
+      "title": "• [2020 IROS] Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning. [PDF]"
+    },
+    {
+      "description": "Kazuyuki Arimatsu, Hideki Mori",
+      "items": [],
+      "title": "• [2020 CHI] Evaluation of Machine Learning Techniques for Hand Pose Estimation on Handheld Device with Proximity Sensor. [PDF]"
+    },
+    {
+      "description": "Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun",
+      "items": [],
+      "title": "• [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Yifei Chen*, Haoyu Ma*, Deying Kong, Xiangyi Yan, Jianbao Wu, Wei Fan, Xiaohui Xie",
+      "items": [],
+      "title": "• [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Jiajun Gu, Zhiyong Wang, Wanli Ouyang, Weichen Zhang, Jiafeng Li, Li Zhuo",
+      "items": [],
+      "title": "• [2020 WACV] 3D Hand Pose Estimation with Disentangled Cross-Modal Latent Space. [PDF]"
+    },
+    {
+      "description": "Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Wei Fan, Xiaohui Xie",
+      "items": [],
+      "title": "• [2020 WACV] DGGAN: Depth-image Guided Generative Adversarial Networks for Disentangling RGB and Depth Images in 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Deying Kong, Haoyu Ma, Yifei Chen, Xiaohui Xie",
+      "items": [],
+      "title": "• [2020 WACV] Rotation-invariant Mixed Graphical Model Network for 2D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Cairong Zhang, Guijin Wang, Xinghao Chen, Pengwei Xie, Toshihiko Yamasaki",
+      "items": [],
+      "title": "• [2020 ICASSP] Weakly Supervised Segmentation Guided Hand Pose Estimation During Interaction With Unknown Objects. [PDF]"
+    },
+    {
+      "description": "Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang",
+      "items": [],
+      "title": "• [2020 ICASSP] Hand-3D-Studio: A New Multi-view System for 3D Hand Reconstruction. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2019 ICCV"
+    },
+    {
+      "description": "Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox",
+      "items": [],
+      "title": "• FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Fu Xiong*, Boshen Zhang*, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, and Junsong Yuan",
+      "items": [],
+      "title": "• A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [PDF] [Code]"
+    },
+    {
+      "description": "Yujun Cai, Liuhao Ge, Jun Liu, Jianfei Cai, Tat-Jen Cham, Junsong Yuan, and Nadia Magnenat Thalmann",
+      "items": [],
+      "title": "• Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks. [PDF]"
+    },
+    {
+      "description": "Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas and Michael J. Black",
+      "items": [],
+      "title": "• Resolving 3D Human Pose Ambiguities with 3D Scene Constraints. [PDF] [Project]"
+    },
+    {
+      "description": "Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan",
+      "items": [],
+      "title": "• SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [PDF] [Code]"
+    },
+    {
+      "description": "Xiong Zhang*, Qiang Li*, Wenbo Zhang, Wen Zheng",
+      "items": [],
+      "title": "• End-to-end Hand Mesh Recovery from a Monocular RGB Image. [PDF] [Code]"
+    },
+    {
+      "description": "Linlin Yang*, Shile Li*, Dongheui Lee, Angela Yao",
+      "items": [],
+      "title": "• Aligning Latent Spaces for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang",
+      "items": [],
+      "title": "• [HANDS19 Workshop] Disentangling Pose from Appearance in Monochrome Hand Images. [PDF]"
+    },
+    {
+      "description": "Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim",
+      "items": [],
+      "title": "• [HANDS19 Workshop] RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [PDF]"
+    },
+    {
+      "description": "Xiao Sun, Chuankang Li, Stephen Lin",
+      "items": [],
+      "title": "• [HANDS19 Workshop] Explicit Pose Deformation Learning for Tracking Human Poses. [PDF]"
+    },
+    {
+      "description": "Tianqiang Zhu, Yi Sun, Xiaohong Ma, Xiangbo Lin",
+      "items": [],
+      "title": "• [HANDS19 Workshop] Hand Pose Ensemble Learning based on Grouping Features of Hand Point Sets. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2019 CVPR"
+    },
+    {
+      "description": "Linlin Yang, Angela Yao",
+      "items": [],
+      "title": "• Disentangling Latent Hands for Image Synthesis and Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Shile Li, Dongheui Lee",
+      "items": [],
+      "title": "• Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [PDF]"
+    },
+    {
+      "description": "Bugra Tekin, Federica Bogo, Marc Pollefeys",
+      "items": [],
+      "title": "• H•O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions. [PDF] (Oral)"
+    },
+    {
+      "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+      "items": [],
+      "title": "• Self supervised 3D hand pose estimation. [PDF] [Code] (Oral) (Best Paper Finalists)"
+    },
+    {
+      "description": "Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma",
+      "items": [],
+      "title": "• CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Georgios Pavlakos*, Vasileios Choutas*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black",
+      "items": [],
+      "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)"
+    },
+    {
+      "description": "Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid",
+      "items": [],
+      "title": "• Learning joint reconstruction of hands and manipulated objects. [PDF] [Code] [Code] [Project]"
+    },
+    {
+      "description": "Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan",
+      "items": [],
+      "title": "• 3D Hand Shape and Pose Estimation from a Single RGB Image. [PDF] [Project] [Code] (Oral)"
+    },
+    {
+      "description": "Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr",
+      "items": [],
+      "title": "• 3D Hand Shape and Pose from Images in the Wild. [PDF] [Code] (Oral)"
+    },
+    {
+      "description": "Seungryul Baek, Kwang In Kim, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Pushing the Envelope for RGB-based Dense 3D Hand Pose Estimation via Neural Rendering. [PDF]"
+    },
+    {
+      "description": "Donglai Xiang, Hanbyul Joo, Yaser Sheikh",
+      "items": [],
+      "title": "• Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [PDF] [Project] [Code] (Oral)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2019 Others"
+    },
+    {
+      "description": "Oliver Glauser, Shihao Wu, Daniele Panozzo, Otmar Hilliges, Olga Sorkine-Hornung",
+      "items": [],
+      "title": "• [2019 SIGGRAPH] Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove. [PDF] [Project]"
+    },
+    {
+      "description": "Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu",
+      "items": [],
+      "title": "• [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [PDF]"
+    },
+    {
+      "description": "Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt",
+      "items": [],
+      "title": "• [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [PDF] [Project]"
+    },
+    {
+      "description": "Lu Xu, Chen Hu, Yinqi Li, Ji’an Tao, Jianru Xue, Kuizhi Mei",
+      "items": [],
+      "title": "• [2019 FG] Deep Conditional Variational Estimation for Depth-Based Hand Poses. [PDF]"
+    },
+    {
+      "description": "Akila Pemasiri, Kien Nguyen Thanh, Sridha Sridharan, Clinton Fookes",
+      "items": [],
+      "title": "• [2019 BMVC] Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image. [PDF]"
+    },
+    {
+      "description": "Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Hui Tang, Yufan Xue, Xiaohui Xie, Yen-Yu Lin, Wei Fan",
+      "items": [],
+      "title": "• [2019 BMVC] TAGAN: Tonality Aligned Generative Adversarial Networks for Realistic HandPose Synthesis. [PDF]"
+    },
+    {
+      "description": "Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou",
+      "items": [],
+      "title": "• [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [PDF] [Code]"
+    },
+    {
+      "description": "Deying Kong, Yifei Chen, Haoyu Ma, Xiangyi Yan, Xiaohui Xie",
+      "items": [],
+      "title": "• [2019 BMVC] Adaptive Graphical Model Network for 2D Handpose Estimation. [PDF]"
+    },
+    {
+      "description": "Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi, Weiting Huang",
+      "items": [],
+      "title": "• [2019 BMVC] SRN: Stacked Regression Network for Real-time 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yuncheng Li, Zehao Xue, Yingying Wang, Liuhao Ge, Zhou Ren, Jonathan Rodriguez",
+      "items": [],
+      "title": "• [2019 BMVC] End-to-End 3D Hand Pose Estimation from Stereo Cameras. [PDF] (Oral)"
+    },
+    {
+      "description": "Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu",
+      "items": [],
+      "title": "• [2019 ACCV] Hand Pose Estimation Based on 3D Residual Network with Data Padding and Skeleton Steadying. [PDF]"
+    },
+    {
+      "description": "Yikun Dou, Xuguang Wang, Yuying Zhu, Xiaoming Deng, Cuixia Ma, Liang Chang, Hongan Wang",
+      "items": [],
+      "title": "• [2019 ICASSP] Cascaded Point Network for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yunlong Che, Yuxiang Song, Yue Qi",
+      "items": [],
+      "title": "• [2019 ICASSP] A Novel Framework of Hand Localization and Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Shuang Li*, Xiaojian Ma*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang",
+      "items": [],
+      "title": "• [2019 ICRA] Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [PDF] [Code]"
+    },
+    {
+      "description": "Georg Poier, Michael Opitz, David Schinagl and Horst Bischof",
+      "items": [],
+      "title": "• [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2018 ECCV"
+    },
+    {
+      "description": "Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang",
+      "items": [],
+      "title": "• HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Yidan Zhou, Jian Lu, Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma",
+      "items": [],
+      "title": "• HBE: Hand Branch Ensemble network for real time 3D hand pose estimation. [PDF]"
+    },
+    {
+      "description": "Liuhao Ge, Zhou Ren, Junsong Yuan",
+      "items": [],
+      "title": "• Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan",
+      "items": [],
+      "title": "• Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [PDF] (Oral)"
+    },
+    {
+      "description": "Aggeliki Tsoli, Antonis A. Argyros",
+      "items": [],
+      "title": "• Joint 3D tracking of a deformable object in interaction with a hand. [PDF] [Project]"
+    },
+    {
+      "description": "Qi Ye, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [PDF] (Oral)"
+    },
+    {
+      "description": "Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz",
+      "items": [],
+      "title": "• Hand Pose Estimation via Latent 2.5D Heatmap Regression. [PDF]"
+    },
+    {
+      "description": "Gerald Baulig, Thomas Gulde, Cristobal Curio",
+      "items": [],
+      "title": "• [Hands18 Workshop] Adapting Egocentric Visual Hand Pose Estimation Towards a Robot-Controlled Exoskeleton. [PDF]"
+    },
+    {
+      "description": "Le Duan, Minmin Shen, Song Cui, Zhexiao Guo, Oliver Deussen",
+      "items": [],
+      "title": "• [Hands18 Workshop] Estimating 2D Multi-Hand Poses From Single Depth Images. [PDF]"
+    },
+    {
+      "description": "Dafni Antotsiou, Guillermo Garcia-Hernando, Tae-Kyun Kim",
+      "items": [],
+      "title": "• [Hands18 Workshop] Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2018 CVPR"
+    },
+    {
+      "description": "Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim",
+      "items": [],
+      "title": "• First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Georg Poier, David Schinagl, Horst Bischof",
+      "items": [],
+      "title": "• Learning Pose Specific Representations by Predicting Different Views. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan",
+      "items": [],
+      "title": "• Hand PointNet: 3D Hand Pose Estimation using Point Sets. [PDF] [Project] [Code] (Spotlight)"
+    },
+    {
+      "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+      "items": [],
+      "title": "• Dense 3D Regression for Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges",
+      "items": [],
+      "title": "• Cross-modal Deep Variational Hand Pose Estimation. [PDF] [Project] [Code] (Spotlight)"
+    },
+    {
+      "description": "Mahdi Rad, Markus Oberweger, Vincent Lepetit",
+      "items": [],
+      "title": "• Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [PDF] [Project]"
+    },
+    {
+      "description": "Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt",
+      "items": [],
+      "title": "• GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [PDF] [Supp] [Project] (Spotlight)"
+    },
+    {
+      "description": "Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee",
+      "items": [],
+      "title": "• V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [PDF] [Code]"
+    },
+    {
+      "description": "Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [PDF] (Spotlight)"
+    },
+    {
+      "description": "Seungryul Baek, Kwang In Kim, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Augmented skeleton space transfer for depth-based hand pose estimation. [PDF] (Oral)"
+    },
+    {
+      "description": "Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus Gross",
+      "items": [],
+      "title": "• [3D HUMANS Workshop] Monocular RGB Hand Pose Inference From Unsupervised Refinable Nets. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2018 Others"
+    },
+    {
+      "description": "Gabyong Park, Woontack Woo",
+      "items": [],
+      "title": "• [2018 ISMAR] Hybrid 3D Hand Articulations Tracking Guided by Classification and Search Space Adaptation. [PDF]"
+    },
+    {
+      "description": "Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu",
+      "items": [],
+      "title": "• [2018 ACCV] Hand Pose Estimation based on 3D Residual Network with Data Padding and Skeleton Steadying. [PDF]"
+    },
+    {
+      "description": "Battushig Myanganbayar, Cristina Mata, Gil Dekel, Boris Katz, Guy Ben-Yosef, Andrei Barbu",
+      "items": [],
+      "title": "• [2018 ACCV] Partially Occluded Hands: A challenging new dataset for single-image hand pose estimation. [PDF] [Project] (Oral)"
+    },
+    {
+      "description": "Mahdi Rad, Markus Oberweger, Vincent Lepetit",
+      "items": [],
+      "title": "• [2018 ACCV] Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations. [PDF] (Oral)"
+    },
+    {
+      "description": "Tianping Hu*, Wenhai Wang*, Tong Lu",
+      "items": [],
+      "title": "• [2018 PCM] Hand Pose Estimation with Attention-and-Sequence Network. [PDF]"
+    },
+    {
+      "description": "Haoqian Wang, Da Li, Xingzheng Wang",
+      "items": [],
+      "title": "• [2018 PCM] Mutiple Transfer Net with Region Ensemble for Deep Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Jia Li, Zengfu Wang",
+      "items": [],
+      "title": "• [2018 ICPR] Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image. [PDF]"
+    },
+    {
+      "description": "Yunlong Che, Yue Qi",
+      "items": [],
+      "title": "• [2018 ICPR] Dynamic Projected Segmentation Networks for Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker",
+      "items": [],
+      "title": "• [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. [PDF]"
+    },
+    {
+      "description": "Baoen Liu, Shiliang Huang, Zhongfu Ye",
+      "items": [],
+      "title": "• [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris",
+      "items": [],
+      "title": "• [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Onur Guleryuz, Christine Kaeser-Chen",
+      "items": [],
+      "title": "• [2018 ICIP] Fast Lifting for 3D Hand Pose Estimation in AR/VR Applications. [PDF]"
+    },
+    {
+      "description": "Fuyang Huang, Ailing Zeng, Minhao Liu, Jing Qin, Qiang Xu",
+      "items": [],
+      "title": "• [2018 BMVC] Structure-Aware 3D Hourglass Network for Hand Pose Estimation from Single Depth Image. [PDF]"
+    },
+    {
+      "description": "Masoud Abdi, Ehsan Abbasnejad, Chee Peng Lim, Saeid Nahavandi",
+      "items": [],
+      "title": "• [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [PDF] [Code] (Oral)"
+    },
+    {
+      "description": "Yushun Lin, Xiujuan Chai, Xilin Chen",
+      "items": [],
+      "title": "• [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros",
+      "items": [],
+      "title": "• [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2017 ICCV"
+    },
+    {
+      "description": "Christian Zimmermann, Thomas Brox",
+      "items": [],
+      "title": "• Learning to Estimate 3D Hand Pose from Single RGB Images. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt",
+      "items": [],
+      "title": "• Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [PDF] [Project]"
+    },
+    {
+      "description": "Chiho Choi, Sang Ho Yoon, Chin-Ning Chen, Karthik Ramani",
+      "items": [],
+      "title": "• Robust Hand Pose Estimation during the Interaction with an Unknown Object. [PDF] [Supp] [Project]"
+    },
+    {
+      "description": "Chiho Choi, Sangpil Kim, Karthik Ramani",
+      "items": [],
+      "title": "• Learning Hand Articulations by Hallucinating Heat Distribution. [PDF] [Supp] [Project]"
+    },
+    {
+      "description": "Edoardo Remelli*, Anastasia Tkach*, Andrea Tagliasacchi, Mark Pauly",
+      "items": [],
+      "title": "• Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Paschalis Panteleris, Antonis Argyros",
+      "items": [],
+      "title": "• [Hands17 Workshop] Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo. [PDF]"
+    },
+    {
+      "description": "Markus Oberweger and Vincent Lepetit",
+      "items": [],
+      "title": "• [Hands17 Workshop] DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Rilwan Remilekun Basaru, Chris Child, Eduardo Alonso, Greg Slabaugh",
+      "items": [],
+      "title": "• [Hands17 Workshop] Hand Pose Estimation Using Deep Stereovision and Markov-chain Monte Carlo. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2017 CVPR"
+    },
+    {
+      "description": "Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh",
+      "items": [],
+      "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+      "items": [],
+      "title": "• Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Shanxin Yuan*, Qi Ye*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [PDF]"
+    },
+    {
+      "description": "Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann",
+      "items": [],
+      "title": "• 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2017 Others"
+    },
+    {
+      "description": "Jameel Malik, Ahmed Elhayek, Didier Stricker",
+      "items": [],
+      "title": "• [2017 3DV] Simultaneous Hand Pose and Skeleton Bone-Lengths Estimation from a Single Depth Image. [PDF]"
+    },
+    {
+      "description": "Endri Dibra*, Thomas Wolf*, Cengiz Öztireli, Markus Gross",
+      "items": [],
+      "title": "• [2017 3DV] How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data? [PDF]"
+    },
+    {
+      "description": "Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang",
+      "items": [],
+      "title": "• [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [PDF] [Code]"
+    },
+    {
+      "description": "Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, and Qingxiong Yang",
+      "items": [],
+      "title": "• [2017 ICIP] A Hand Pose Tracking Benchmark from Stereo Matching. [PDF] [Project]"
+    },
+    {
+      "description": "Jonathan Taylor*, Vladimir Tankovich*, Danhang Tang*, Cem Keskin*, David Kim, Philip Davidson, Adarsh Kowdle, Shahram Izadi",
+      "items": [],
+      "title": "• [2017 SIGGRAPH Asia] Articulated distance fields for ultra-fast tracking of hands interacting. [PDF]"
+    },
+    {
+      "description": "Anastasia Tkach*, Andrea Tagliasacchi*, Edoardo Remelli, Mark Pauly, Andrew Fitzgibbon",
+      "items": [],
+      "title": "• [2017 SIGGRAPH Asia] Online Generative Model Personalization for Hand Tracking. [PDF] [Project]"
+    },
+    {
+      "description": "Javier Romero*, Dimitrios Tzionas* and Michael J. Black",
+      "items": [],
+      "title": "• [2017 SIGGRAPH Asia] Embodied Hands: Modeling and Capturing Hands and Bodies Together. [PDF] [Project]"
+    },
+    {
+      "description": "Min-Yu Wu, Ya Hui Tang, Pai-Wei Ting and Li-Chen Fu",
+      "items": [],
+      "title": "• [2017 BMVC] Hand Pose Learning: Combining Deep Learning and Hierarchical Refinement for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Konstantinos Roditakis, Alexandros Makris and Antonis Argyros",
+      "items": [],
+      "title": "• [2017 BMVC] Generative 3D Hand Tracking with Spatially Constrained Pose Sampling. [PDF] [Project]"
+    },
+    {
+      "description": "Tzu-Yang Chen, Pai-Wen Ting, Min-Yu Wu, Li-Chen Fu",
+      "items": [],
+      "title": "• [2017 ICRA] Learning a deep network with spherical part model for 3D hand pose estimation. [PDF]"
+    },
+    {
+      "description": "Meysam Madadi, Sergio Escalera, Alex Carruesco Llorens, Carlos Andujar, Xavier Baro, Jordi Gonzalez",
+      "items": [],
+      "title": "• [2017 FG] Occlusion aware hand pose recovery from sequences of depth images. [PDF] [Slide]"
+    },
+    {
+      "description": "Duncan Goudie, Aphrodite Galata",
+      "items": [],
+      "title": "• [2017 FG] 3D Hand-Object Pose Estimation from Depth with Convolutional Neural Networks. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2016 ECCV"
+    },
+    {
+      "description": "Qi Ye*, Shanxin Yuan*, Tae-Kyun Kim",
+      "items": [],
+      "title": "• Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [PDF] [Project]"
+    },
+    {
+      "description": "Chengde Wan, Angela Yao, and Luc Van Gool",
+      "items": [],
+      "title": "• Hand Pose Estimation from Local Surface Normals. [PDF]"
+    },
+    {
+      "description": "Srinath Sridhar, Franziska Mueller, Michael Zollhöfer, Dan Casas, Antti Oulasvirta, Christian Theobalt",
+      "items": [],
+      "title": "• Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2016 CVPR"
+    },
+    {
+      "description": "Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann",
+      "items": [],
+      "title": "• Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Ayan Sinha*, Chiho Choi*, Karthik Ramani",
+      "items": [],
+      "title": "• DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features. [PDF][Project]"
+    },
+    {
+      "description": "Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit",
+      "items": [],
+      "title": "• Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "David Joseph Tan, Thomas Cashman, Jonathan Taylor, Andrew Fitzgibbon, Daniel Tarlow, Sameh Khamis, Shahram Izadi, Jamie Shotton",
+      "items": [],
+      "title": "• Fits Like a Glove: Rapid and Reliable Hand Shape Personalization. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2016 Others"
+    },
+    {
+      "description": "Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin",
+      "items": [],
+      "title": "• [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Hongwei Yang, Juyong Zhang",
+      "items": [],
+      "title": "• [2016 ACCV] Hand Pose Regression via A Classification-guided Approach. [PDF]"
+    },
+    {
+      "description": "Tzu-Yang Chen, Min-Yu Wu, Yu-Hsun Hsieh, Li-Chen Fu",
+      "items": [],
+      "title": "• [2016 ICPR] Deep learning for integrated hand detection and pose estimation. [PDF]"
+    },
+    {
+      "description": "Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.",
+      "items": [],
+      "title": "• [2016 ICPR] Depth-based 3D hand pose tracking. [PDF]"
+    },
+    {
+      "description": "Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, Yichen Wei",
+      "items": [],
+      "title": "• [2016 IJCAI] Model-based Deep Hand Pose Estimation. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Jonathan Taylor et al.",
+      "items": [],
+      "title": "• [2016 SIGGRAPH] Efficient and precise interactive hand tracking through joint, continuous optimization of pose and correspondences. [PDF]"
+    },
+    {
+      "description": "Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi",
+      "items": [],
+      "title": "• [2016 SIGGRAPH Asia] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2015 ICCV"
+    },
+    {
+      "description": "Markus Oberweger, Paul Wohlhart, Vincent Lepetit",
+      "items": [],
+      "title": "• Training a Feedback Loop for Hand Pose Estimation. [PDF] [Project]"
+    },
+    {
+      "description": "Danhang Tang, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton",
+      "items": [],
+      "title": "• Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose. [PDF]"
+    },
+    {
+      "description": "James Supancic III, Deva Ramanan, Gregory Rogez, Yi Yang, Jamie Shotton",
+      "items": [],
+      "title": "• Depth-based hand pose estimation: data, methods, and challenges. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Peiyi Li, Haibin Ling",
+      "items": [],
+      "title": "• 3D Hand Pose Estimation Using Randomized Decision Forest with Segmentation Index Points. [PDF]"
+    },
+    {
+      "description": "Chiho Choi, Ayan Sinha, Joon Hee Choi, Sujin Jang, Karthik Ramani",
+      "items": [],
+      "title": "• A collaborative filtering approach to real-time hand pose estimation. [PDF] [Project]"
+    },
+    {
+      "description": "Sven Bambach, Stefan Lee, David Crandall, Chen Yu",
+      "items": [],
+      "title": "• Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions. [PDF]"
+    },
+    {
+      "description": "Gregory Rogez, James Supancic III, Deva Ramanan",
+      "items": [],
+      "title": "• Understanding Everyday Hands in Action from RGB-D Images. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2015 CVPR"
+    },
+    {
+      "description": "Xiao Sun, Yichen Wei, Shuang Liang, Xiaoou Tang, and Jian Sun",
+      "items": [],
+      "title": "• Cascaded Hand Pose Regression. [PDF]"
+    },
+    {
+      "description": "Srinath Sridhar, Franziska Mueller, Antti Oulasvirta, Christian Theobalt",
+      "items": [],
+      "title": "• Fast and Robust Hand Tracking Using Detection-Guided Optimization. [PDF] [Project]"
+    },
+    {
+      "description": "Sameh Khamis, Jonathan Taylor, Jamie Shotton, Cem Keskin, Shahram Izadi, Andrew Fitzgibbon",
+      "items": [],
+      "title": "• Learning an Efficient Model of Hand Shape Variation from Depth Images. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2015 Others"
+    },
+    {
+      "description": "Georg Poier, Konstantinos Roditakis, Samuel Schulter, Damien Michel, Horst Bischof and Antonis A. Argyros",
+      "items": [],
+      "title": "• [2015 BMVC] Hybrid One-Shot 3D Hand Pose Estimation by Exploiting Uncertainties. [PDF] [Project]"
+    },
+    {
+      "description": "Aaron Wetzler, Ron Slossberg and Ron Kimmel",
+      "items": [],
+      "title": "• [2015 BMVC] Rule of Thumb: Deep Derotation for Improved Fingertip Detection. [PDF] [Project]"
+    },
+    {
+      "description": "Toby Sharp, Cem Keskin, Duncan Robertson, Jonathan Taylor, Jamie Shotton, David Kim, Christoph Rhemann, Ido Leichter, Alon Vinnikov, Yichen Wei, Daniel Freedman, Pushmeet Kohli, Eyal Krupka, Andrew Fitzgibbon, Shahram Izadi",
+      "items": [],
+      "title": "• [2015 CHI] Accurate, Robust, and Flexible Real-time Hand Tracking. [PDF] [Project]"
+    },
+    {
+      "description": "Markus Oberweger, Paul Wohlhart, Vincent Lepetit",
+      "items": [],
+      "title": "• [2015 CVWW] Hands Deep in Deep Learning for Hand Pose Estimation. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Philip Krejov, Andrew Gilbert, Richard Bowden",
+      "items": [],
+      "title": "• [2015 FG] Combining Discriminative and Model Based Approaches for Hand Pose Estimation. [PDF] [Project]"
+    },
+    {
+      "description": "Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi",
+      "items": [],
+      "title": "• [2015 SGP] Robust Articulated-ICP for Real-Time Hand Tracking. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2014 CVPR"
+    },
+    {
+      "description": "Chen Qian, Xiao Sun, Yichen Wei, Xiaoou Tang and Jian Sun",
+      "items": [],
+      "title": "• Realtime and robust hand tracking from depth. [PDF] [Project]"
+    },
+    {
+      "description": "Danhang Tang, Hyung Jin Chang, Alykhan Tejani, T-K. Kim",
+      "items": [],
+      "title": "• Latent regression forest: Structured estimation of 3d articulated hand posture. [PDF] [Project]"
+    },
+    {
+      "description": "Jonathan Taylor, Richard Stebbing, Varun Ramakrishna, Cem Keskin, Jamie Shotton, Shahram Izadi, Aaron Hertzmann, Andrew Fitzgibbon",
+      "items": [],
+      "title": "• User-specific hand modeling from monocular depth sequences. [PDF] [Project]"
+    },
+    {
+      "description": "Iason Oikonomidis, Manolis IA Lourakis, Antonis A Argyros",
+      "items": [],
+      "title": "• Evolutionary Quasi-random Search for Hand Articulations Tracking. [PDF] [Project]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2014 Others & Before"
+    },
+    {
+      "description": "Jonathan Tompson, Murphy Stein, Yann Lecun and Ken Perlin",
+      "items": [],
+      "title": "• [2014 SIGGRAPH] Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks. [PDF] [Project]"
+    },
+    {
+      "description": "Danhang Tang, Tsz Ho Yu and T-K. Kim",
+      "items": [],
+      "title": "• [2013 ICCV] Real-time Articulated Hand Pose Estimation using Semi-supervised Transductive Regression Forests. [PDF] [Project]"
+    },
+    {
+      "description": "Srinath Sridhar, Antti Oulasvirta, Christian Theobalt",
+      "items": [],
+      "title": "• [2013 ICCV] Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data. [PDF] [Project]"
+    },
+    {
+      "description": "Chi Xu, Li Cheng",
+      "items": [],
+      "title": "• [2013 ICCV] Efficient Hand Pose Estimation from a Single Depth Image. [PDF] [Project]"
+    },
+    {
+      "description": "Ballan, L. and Taneja, A. and Gall, J. and van Gool, L. and Pollefeys, M.",
+      "items": [],
+      "title": "• [2012 ECCV] Motion Capture of Hands in Action using Discriminative Salient Points. [PDF] [Project]"
+    },
+    {
+      "description": "Cem KeskinFurkan, KıraçYunus Emre, KaraLale Akarun",
+      "items": [],
+      "title": "• [2012 ECCV] Hand pose estimation and hand shape classification using multi-layered randomized decision forests."
+    },
+    {
+      "description": "Cem Keskin, Furkan Kırac, Yunus Emre Kara, Lale Akarun",
+      "items": [],
+      "title": "• [2011 CVPRW] Real Time Hand Pose Estimation using Depth Sensors. [PDF]"
+    },
+    {
+      "description": "Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros",
+      "items": [],
+      "title": "• [2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Theses"
+    },
+    {
+      "description": "Mohammad Rezaei, The University of Texas at Arlington",
+      "items": [],
+      "title": "• [2022] Hand Analysis From Depth Images. [PDF]"
+    },
+    {
+      "description": "Georg Poier, Graz University of Technology",
+      "items": [],
+      "title": "• [2020] Learning without Labeling for 3D Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Chiho Choi, Purdue University",
+      "items": [],
+      "title": "• [2018] Computational Learning for Hand Pose Estimation. [PDF]"
+    },
+    {
+      "description": "Shanxin Yuan, Imperial College London",
+      "items": [],
+      "title": "• [2018] 3D hand pose estimation: methods, datasets, and challenges. [PDF]"
+    },
+    {
+      "description": "Qi Ye, Imperial College London",
+      "items": [],
+      "title": "• [2018] 3D hand pose estimation using convolutional neural networks. [PDF]"
+    },
+    {
+      "description": "Markus Oberweger, Graz University of Technology",
+      "items": [],
+      "title": "• [2018] 3D Hand Pose Estimation from Images for Interactive Applications. [PDF]"
+    },
+    {
+      "description": "Umar Iqbal, University of Bonn",
+      "items": [],
+      "title": "• [2018] Articulated Human Pose Estimation in Unconstrained Images and Videos. [PDF]"
+    },
+    {
+      "description": "Anastasia Tkach, EPFL",
+      "items": [],
+      "title": "• [2018] Real-Time Generative Hand Modeling and Tracking. [PDF]"
+    },
+    {
+      "description": "Endri Dibra, ETH Zürich",
+      "items": [],
+      "title": "• [2018] Recovery of the 3D Virtual Human: Monocular Estimation of 3D Shape and Pose with Data Driven Priors. [PDF] [Project]"
+    },
+    {
+      "description": "Meysam Madadi, Universitat Autònoma de Barcelonato",
+      "items": [],
+      "title": "• [2017] Human Segmentation, Pose Estimation and Applications. [PDF] [Slides]"
+    },
+    {
+      "description": "Dimitrios Tzionas, University of Bonn",
+      "items": [],
+      "title": "• [2017] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [PDF] [Project]"
+    },
+    {
+      "description": "Srinath Sridhar, Max Planck Institute for Informatics",
+      "items": [],
+      "title": "• [2016] Tracking Hands in Action for Gesture-based Computer Input. [PDF]"
+    },
+    {
+      "description": "Danhang Tang, Imperial College London",
+      "items": [],
+      "title": "• [2016] 3D hand pose regression with variants of decision forests. [PDF] [Project]"
+    },
+    {
+      "description": "Natalia Neverova, National Institut of Applied Science (INSA de Lyon), France",
+      "items": [],
+      "title": "• [2016] Deep Learning for Human Motion Analysis. [PDF] [Project]"
+    },
+    {
+      "description": "Philip Krejov, University of Surrey",
+      "items": [],
+      "title": "• [2016] Real time hand pose estimation for human computer interaction. [PDF] [Project]"
+    },
+    {
+      "description": "Iason Oikonomidis, University of Crete",
+      "items": [],
+      "title": "• [2015] Efficient Tracking of the 3D Articulated Motion of Human Hands. [PDF]"
+    },
+    {
+      "description": "Hui Liang, Nanyang Technological University",
+      "items": [],
+      "title": "• [2015] Vision-based hand pose estimation and gesture recognition. [PDF]"
+    },
+    {
+      "description": "Jonathan Tompson, New York University",
+      "items": [],
+      "title": "• [2015] Localization of Humans in Images Using Convolutional Networks. [PDF]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Depth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RGB+Depth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workshops"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "[1] Workshops on Observing and Understanding Hands in Action:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "• HANDS 2019, In conjunction with ICCV 2019"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "• HANDS 2016, In conjunction with CVPR 2016"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "• HANDS 2015, In conjunction with CVPR 2015"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "[2] Workshops on Capturing and modeling human bodies, faces and hands:"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "• PeopleCap 2018, In conjunction with ECCV 2018"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "• PeopleCap 2017, In conjunction with ICCV 2017"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Challenges"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Related Papers"
+    },
+    {
+      "description": "Fanqing Lin, Tony Martinez",
+      "items": [],
+      "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]"
+    },
+    {
+      "description": "Anurag Ranjan, David T. Hoffmann, Dimitrios Tzionas, Siyu Tang, Javier Romero, and Michael J. Black",
+      "items": [],
+      "title": "• [2020 IJCV] Learning Multi-Human Optical Flow. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Supreeth Narasimhaswamy*, Zhengwei Wei*, Yang Wang, Justin Zhang, Minh Hoai",
+      "items": [],
+      "title": "• [2019 ICCV] Contextual Attention for Hand Detection in the Wild. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Shangchen Han, Beibei Liu, Robert Wang, Yuting Ye, Christopher D. Twigg, Kenrick Kin",
+      "items": [],
+      "title": "• [2018 SIGGRAPH] Online Optical Marker-based Hand Tracking with Deep Labels. [PDF] [Code]"
+    },
+    {
+      "description": "Akshay Rangesh, Mohan M. Trivedi",
+      "items": [],
+      "title": "• [2018 CVPRW] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [PDF] [Code]"
+    },
+    {
+      "description": "Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos",
+      "items": [],
+      "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]"
+    },
+    {
+      "description": "Aisha Urooj Khan, Ali Borji",
+      "items": [],
+      "title": "• [2018 CVPR] Analysis of Hand Segmentation in the Wild. [PDF] [Code]"
+    },
+    {
+      "description": "Hanbyul Joo, Tomas Simon, Yaser Sheikh",
+      "items": [],
+      "title": "• [2018 CVPR] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies. [PDF] [Project] (CVPR Best Student Paper Award)"
+    },
+    {
+      "description": "Ayan Sinha, Asim Unmesh, Qixing Huang, Karthik Ramani",
+      "items": [],
+      "title": "• [2017 CVPR] SurfNet: Generating 3D shape surfaces using deep residual networks. [PDF]"
+    },
+    {
+      "description": "Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb",
+      "items": [],
+      "title": "• [2017 CVPR] Learning from Simulated and Unsupervised Images through Adversarial Training. [PDF] [Project] [Code-Tensorflow] [Code-Keras] [Code-Tensorflow-NYU-Hand] (CVPR Best Paper Award)"
+    },
+    {
+      "description": "Julien Valentin, Angela Dai, Matthias Niessner, Pushmeet Kohli, Philip H.S. Torr, Shahram Izadi",
+      "items": [],
+      "title": "• [2016 3DV] Learning to Navigate the Energy Landscape. [PDF] [Project]"
+    },
+    {
+      "description": "Dimitrios Tzionas and Juergen Gall",
+      "items": [],
+      "title": "• [2015 ICCV] 3D Object Reconstruction from Hand-Object Interactions. [PDF] [Project]"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.\nPlease feel free to pull requests, open an issue or send me email (chenxinghaothu@gmail.com) to add awesome papers.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, xinghaochen has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:21:58.672Z",
+    "original_repository": "xinghaochen/awesome-hand-pose-estimation",
+    "original_repository_sha": "693e2ce14c1b48fd70135479daaf6027410ef97f",
+    "enhanced_repository": "enhansome/enhansome-hand-pose-estimation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hand Pose Estimation with stars"
+  }
+}
