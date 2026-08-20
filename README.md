@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,580 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,590 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -1363,7 +1363,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Seungryul Baek, Kwang In Kim, Tae-Kyun Kim*
 
-##### • Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiang_Monocular_Total_Capture_Posing_Face_Body_and_Hands_in_the_CVPR_2019_paper.pdf) [\[Project\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture) ⭐ 675 | 🐛 18 | 🌐 C++ | 📅 2023-09-18 *(Oral)*
+##### • Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiang_Monocular_Total_Capture_Posing_Face_Body_and_Hands_in_the_CVPR_2019_paper.pdf) [\[Project\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture) ⭐ 676 | 🐛 18 | 🌐 C++ | 📅 2023-09-18 *(Oral)*
 
 *Donglai Xiang, Hanbyul Joo, Yaser Sheikh*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,373 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,374 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2146,7 +2146,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-Please feel free to [pull requests](https://github.com/xinghaochen/awesome-hand-pose-estimation/pulls) ⭐ 3,387 | 🐛 6 | 🌐 Python | 📅 2026-06-28, [open an issue](https://github.com/xinghaochen/awesome-hand-pose-estimation/issues) ⭐ 3,387 | 🐛 6 | 🌐 Python | 📅 2026-06-28 or send me email (<chenxinghaothu@gmail.com>) to add awesome papers.
+Please feel free to [pull requests](https://github.com/xinghaochen/awesome-hand-pose-estimation/pulls) ⭐ 3,386 | 🐛 6 | 🌐 Python | 📅 2026-06-28, [open an issue](https://github.com/xinghaochen/awesome-hand-pose-estimation/issues) ⭐ 3,386 | 🐛 6 | 🌐 Python | 📅 2026-06-28 or send me email (<chenxinghaothu@gmail.com>) to add awesome papers.
 
 ## License
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
