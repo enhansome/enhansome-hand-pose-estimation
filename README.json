@@ -4,6 +4,582 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": "Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 503344178,
+            "language": "Python",
+            "last_commit": "2023-11-09T06:51:54Z",
+            "owner": "mrezaei92",
+            "repo": "TriHorn-Net",
+            "stars": 83
+          },
+          "title": "• [arXiv:2206.07117] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 395803641,
+            "language": "Python",
+            "last_commit": "2021-10-20T13:31:35Z",
+            "owner": "hassony2",
+            "repo": "homan",
+            "stars": 103
+          },
+          "title": "• [arXiv:2108.07044] Towards unconstrained joint hand-object reconstruction from RGB videos. [PDF] [Project] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Christian Zimmermann, Max Argus, Thomas Brox",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 375060289,
+            "language": "Python",
+            "last_commit": "2021-10-02T18:29:07Z",
+            "owner": "lmb-freiburg",
+            "repo": "contra-hand",
+            "stars": 54
+          },
+          "title": "• [arXiv:2106.04324] Contrastive Representation Learning for Hand Shape Estimation. [PDF] [Project] [Code] [Data]"
+        },
+        {
+          "children": [],
+          "description": "Zhaohui Zhang, Shipeng Xie, Mingxiu Chen, Haichao Zhu",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 262288561,
+            "language": "Python",
+            "last_commit": "2020-06-30T11:28:00Z",
+            "owner": "wozhangzhaohui",
+            "repo": "HandAugment",
+            "stars": 51
+          },
+          "title": "• [arXiv:2001.00702] HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+        }
+      ],
+      "title": "arXiv Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "James Steven Supančič III, Grégory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 42967821,
+                "language": "C++",
+                "last_commit": "2017-01-20T18:18:29Z",
+                "owner": "jsupancic",
+                "repo": "deep_hand_pose",
+                "stars": 185
+              },
+              "title": "• [2018 IJCV] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Chi Xu, Ashwin Nanjappa, Xiaowei Zhang, Li Cheng",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 68912045,
+                "language": "C++",
+                "last_commit": "2019-07-16T04:47:33Z",
+                "owner": "lzddzh",
+                "repo": "HandPoseEstimation",
+                "stars": 27
+              },
+              "title": "• [2015 IJCV] Estimate Hand Poses Efficiently from Single Depth Images. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TPAMI / IJCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 503344178,
+                "language": "Python",
+                "last_commit": "2023-11-09T06:51:54Z",
+                "owner": "mrezaei92",
+                "repo": "TriHorn-Net",
+                "stars": 83
+              },
+              "title": "• [2023 ESWA] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Pengfei Ren, Haifeng Sun, Jiachang Hao, Qi Qi, Jingyu Wang, Jianxin Liao",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 468987182,
+                "language": "Python",
+                "last_commit": "2023-09-15T05:58:35Z",
+                "owner": "PengfeiRen96",
+                "repo": "DSF",
+                "stars": 26
+              },
+              "title": "• [2022 TIP] A Dual-Branch Self-Boosting Framework for Self-Supervised 3D Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xingyuan Zhang, Fuhai Zhang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 208460165,
+                "language": "Python",
+                "last_commit": "2023-07-10T12:45:44Z",
+                "owner": "IcarusWizard",
+                "repo": "PixelwiseRegression",
+                "stars": 34
+              },
+              "title": "• [2021 TMM] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yafei Gao*, Yida Wang*, Pietro Falco, Nassir Navab, Federico Tombari",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 197365008,
+                "language": "Python",
+                "last_commit": "2020-12-10T13:29:01Z",
+                "owner": "wangyida",
+                "repo": "VO-handpose",
+                "stars": 25
+              },
+              "title": "• [2019 RA-L] Variational Object-aware 3D Hand Pose from a Single RGB Image. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 131263441,
+                "language": "Python",
+                "last_commit": "2023-03-18T13:12:19Z",
+                "owner": "xinghaochen",
+                "repo": "Pose-REN",
+                "stars": 168
+              },
+              "title": "• [2018 Neurocomputing] Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Guijin Wang, Xinghao Chen*, Hengkai Guo*, Cairong Zhang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 87610481,
+                "language": "Python",
+                "last_commit": "2020-02-11T02:35:32Z",
+                "owner": "guohengkai",
+                "repo": "region-ensemble-network",
+                "stars": 114
+              },
+              "title": "• [2018 JVCI] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Hui Liang, Junsong Yuan, Daniel Thalmann",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 40749777,
+                "language": "C++",
+                "last_commit": "2015-08-15T07:41:44Z",
+                "owner": "shrekei",
+                "repo": "RandomDecisionForest",
+                "stars": 12
+              },
+              "title": "• [2014 TMM] Parsing the Hand in Depth Images. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Journals"
+        }
+      ],
+      "title": "Journal Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Nie Lin*, Takehiko Ohkawa*, Yifei Huang, Mingfang Zhang, Minjie Cai, Ming Li, Ryosuke Furuta, Yoichi Sato (*equal contribution).",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 926442617,
+                "language": "Python",
+                "last_commit": "2025-04-04T06:16:26Z",
+                "owner": "ut-vision",
+                "repo": "SiMHand",
+                "stars": 41
+              },
+              "title": "• [2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2025 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Eugene Valassakis, Guillermo Garcia-Hernando",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 831729291,
+                "language": "Python",
+                "last_commit": "2025-02-12T14:56:10Z",
+                "owner": "nianticlabs",
+                "repo": "HandDGP",
+                "stars": 41
+              },
+              "title": "• HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Junho Park, Kyeongbo Kong, Suk-Ju Kang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 769439480,
+                "language": "Python",
+                "last_commit": "2026-05-11T11:23:01Z",
+                "owner": "redorangeyellowy",
+                "repo": "AttentionHand",
+                "stars": 12
+              },
+              "title": "• AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild. [PDF] [Project] [Code] (Oral)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024 ECCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 725535660,
+                "language": "Python",
+                "last_commit": "2026-03-10T17:45:07Z",
+                "owner": "zc-alexfan",
+                "repo": "hold",
+                "stars": 490
+              },
+              "title": "• HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Haoye Dong*, Aviral Chharia*, Wenbo Gou*, Francisco Vicente Carrasco, Fernando De la Torre",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 816559515,
+                "language": "Python",
+                "last_commit": "2026-02-01T15:32:50Z",
+                "owner": "humansensinglab",
+                "repo": "Hamba",
+                "stars": 189
+              },
+              "title": "• [2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2024 Others"
+        }
+      ],
+      "title": "Conference Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Changlong Jiang, Yang Xiao, Cunlin Wu, Mingyang Zhang, Jinghong Zheng, Zhiguo Cao, Joey Tianyi Zhou",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 618003850,
+                "language": "Python",
+                "last_commit": "2026-01-19T11:31:55Z",
+                "owner": "ChanglongJiangGit",
+                "repo": "A2J-Transformer",
+                "stars": 109
+              },
+              "title": "• A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Lixin Yang, Jian Xu, Licheng Zhong, Xinyu Zhan, Zhicheng Wang, Kejian Wu, Cewu Lu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 616986739,
+                "language": "Python",
+                "last_commit": "2024-07-12T11:37:51Z",
+                "owner": "lixiny",
+                "repo": "POEM",
+                "stars": 67
+              },
+              "title": "• POEM: Reconstructing Hand in a Point Embedded Multi-view Stereo. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yilin Wen, Hao Pan, Lei Yang, Jia Pan, Taku Komura, Wenping Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 607528115,
+                "language": "Python",
+                "last_commit": "2024-04-17T10:58:29Z",
+                "owner": "fylwen",
+                "repo": "HTT",
+                "stars": 62
+              },
+              "title": "• Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Jihyun Lee, Minhyuk Sung, Honggyu Choi, Tae-Kyun Kim",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 607491682,
+                "language": "Python",
+                "last_commit": "2023-06-28T23:50:16Z",
+                "owner": "jyunlee",
+                "repo": "Im2Hands",
+                "stars": 79
+              },
+              "title": "• Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 607350660,
+                "language": "Python",
+                "last_commit": "2024-12-02T00:21:28Z",
+                "owner": "ZhengdiYu",
+                "repo": "Arbitrary-Hands-3D-Reconstruction",
+                "stars": 228
+              },
+              "title": "• ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Wentian Qu, Zhaopeng Cui, Yinda Zhang, Chenyu Meng, Cuixia Ma, Xiaoming Deng, Hongan Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 694918941,
+                "language": "Python",
+                "last_commit": "2023-10-09T08:40:41Z",
+                "owner": "iscas3dv",
+                "repo": "HO-NeRF",
+                "stars": 14
+              },
+              "title": "• Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views. [PDF] Project] [Code] [Data]"
+            },
+            {
+              "children": [],
+              "description": "Shaowei Liu, Yang Zhou, Jimei Yang, Saurabh Gupta, Shenlong Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 700726042,
+                "language": "Python",
+                "last_commit": "2023-10-18T08:37:10Z",
+                "owner": "stevenlsw",
+                "repo": "contactgen",
+                "stars": 81
+              },
+              "title": "• ContactGen: Generative Contact Modeling for Grasp Generation [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xiaozheng Zheng, Chao Wen, Zhou Xue, Pengfei Ren, Jingyu Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 594593837,
+                "language": "Python",
+                "last_commit": "2024-02-29T13:07:26Z",
+                "owner": "zxz267",
+                "repo": "HaMuCo",
+                "stars": 51
+              },
+              "title": "• HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 151619717,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-21T19:58:51Z",
+                "owner": "google-research",
+                "repo": "google-research",
+                "stars": 38611
+              },
+              "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Pengfei Ren, Chao Wen, Xiaozheng Zheng, Zhou Xue, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 669351712,
+                "language": "Python",
+                "last_commit": "2024-06-05T11:53:44Z",
+                "owner": "PengfeiRen96",
+                "repo": "DIR",
+                "stars": 78
+              },
+              "title": "• Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Lijun Li, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng Bo, Mengyuan Liu, Chen Chen",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 668090708,
+                "language": "Python",
+                "last_commit": "2024-03-28T11:31:28Z",
+                "owner": "adwardlee",
+                "repo": "RenderIH",
+                "stars": 284
+              },
+              "title": "• RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Qucheng Peng, Ce Zheng, Chen Chen",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 675727477,
+                "language": "Python",
+                "last_commit": "2023-08-17T01:06:26Z",
+                "owner": "davidpengucf",
+                "repo": "SFDAHPE",
+                "stars": 11
+              },
+              "title": "• Source-free Domain Adaptive Human Pose Estimation [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt, Mohamed Elgharib",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 676664308,
+                "language": "Python",
+                "last_commit": "2024-02-09T14:26:35Z",
+                "owner": "amundra15",
+                "repo": "livehand",
+                "stars": 74
+              },
+              "title": "• LiveHand: Real-time and Photorealistic Neural Hand Rendering [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023 ICCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Anilkumar Swamy, Vincent Leroy, Philippe Weinzaepfel, Fabien Baradel, Salma Galaaoui, Romain Bregier, Matthieu Armando, Jean-Sebastien Franco, Gregory Rogez",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 693391647,
+                "language": "Python",
+                "last_commit": "2023-12-18T16:54:27Z",
+                "owner": "naver",
+                "repo": "showme",
+                "stars": 22
+              },
+              "title": "• [2023 ICCVW] SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction. [PDF] [Project] [Code] [Data]"
+            },
+            {
+              "children": [],
+              "description": "Ahmed Tawfik Aboukhadra, Jameel Malik, Ahmed Elhayek, Nadia Robertini, Didier Stricker",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 530332816,
+                "language": "Python",
+                "last_commit": "2023-05-15T12:09:50Z",
+                "owner": "ATAboukhadra",
+                "repo": "THOR-Net",
+                "stars": 21
+              },
+              "title": "• [2023 WACV] THOR-Net: End-to-End Graformer-Based Realistic Two Hands and Object Reconstruction With Self-Supervision. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023 Others"
+        },
+        {
           "children": [
             {
               "children": [],
@@ -19,18 +595,1840 @@
                 "stars": 44
               },
               "title": "• Identity-aware Hand Mesh Estimation and Personalization from RGB Images . [[PDF]] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Zerui Chen, Yana Hasson, Cordelia Schmid, Ivan Laptev",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 514419908,
+                "language": "Python",
+                "last_commit": "2022-11-23T17:39:00Z",
+                "owner": "zerchen",
+                "repo": "AlignSDF",
+                "stars": 83
+              },
+              "title": "• AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Tze Ho Elden Tse, Zhongqun Zhang, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 513985601,
+                "language": "Python",
+                "last_commit": "2023-09-21T18:10:25Z",
+                "owner": "eldentse",
+                "repo": "s2contact",
+                "stars": 19
+              },
+              "title": "• S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Junhyeong Cho, Kim Youwang, Tae-Hyun Oh",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 515150072,
+                "language": "Python",
+                "last_commit": "2024-07-21T09:47:44Z",
+                "owner": "kaist-ami",
+                "repo": "FastMETRO",
+                "stars": 172
+              },
+              "title": "• Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers. [PDF] [Project] [Code]"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "2022 ECCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Yufei Ye, Abhinav Gupta, Shubham Tulsiani",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 473780034,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-01-21T19:26:40Z",
+                "owner": "JudyYe",
+                "repo": "ihoi",
+                "stars": 123
+              },
+              "title": "• What's in your hands? 3D Reconstruction of Generic Objects in Hands. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "JoonKyu Park, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, Kyoung Mu Lee",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 473440514,
+                "language": "Python",
+                "last_commit": "2024-07-15T01:30:19Z",
+                "owner": "namepllet",
+                "repo": "HandOccNet",
+                "stars": 172
+              },
+              "title": "• HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Lixin Yang, Kailin Li Xinyu Zhan, Fei Wu, Anran Xu, Liu Liu, Cewu Lu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 475304106,
+                "language": "Python",
+                "last_commit": "2024-12-01T09:43:18Z",
+                "owner": "oakink",
+                "repo": "OakInk",
+                "stars": 146
+              },
+              "title": "• OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 402648132,
+                "language": "Python",
+                "last_commit": "2024-06-13T10:34:04Z",
+                "owner": "lixiny",
+                "repo": "ArtiBoost",
+                "stars": 132
+              },
+              "title": "• ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin Liu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 470860897,
+                "language": "Python",
+                "last_commit": "2023-11-27T09:41:36Z",
+                "owner": "Dw1010",
+                "repo": "IntagHand",
+                "stars": 275
+              },
+              "title": "• Interacting Attention Graph for Single Image Two-Hand Reconstruction. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 344030439,
+                "language": "Python",
+                "last_commit": "2023-11-03T03:38:22Z",
+                "owner": "SeanChenxy",
+                "repo": "HandMesh",
+                "stars": 374
+              },
+              "title": "• MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2022 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Jian Cheng, Yanguang Wan, Dexin Zuo, Cuixia Ma, Jian Gu, Ping Tan, Hongan Wang, Xiaoming Deng, Yinda Zhang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 437904107,
+                "language": "Python",
+                "last_commit": "2022-06-27T13:42:59Z",
+                "owner": "iscas3dv",
+                "repo": "handpose-virtualview",
+                "stars": 80
+              },
+              "title": "• [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2022 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Adrian Spurr, Aneesh Dahiya, Xucong Zhang, Xi Wang, Otmar Hilliges",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 408087830,
+                "language": "Python",
+                "last_commit": "2022-09-14T08:24:20Z",
+                "owner": "dahiyaaneesh",
+                "repo": "peclr",
+                "stars": 87
+              },
+              "title": "• Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [PDF] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Xiao Tang, Tianyu Wang, Chi-Wing Fu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 395565480,
+                "language": "Python",
+                "last_commit": "2021-11-01T10:44:52Z",
+                "owner": "wbstx",
+                "repo": "handAR",
+                "stars": 119
+              },
+              "title": "• Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Wencan Cheng, Jae Hyun Park, Jong Hwan Ko",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 350383424,
+                "language": "Python",
+                "last_commit": "2022-03-21T02:47:29Z",
+                "owner": "cwc1260",
+                "repo": "HandFold",
+                "stars": 33
+              },
+              "title": "• HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 367454283,
+                "language": "Python",
+                "last_commit": "2023-02-05T06:38:38Z",
+                "owner": "taeinkwon",
+                "repo": "h2odataset",
+                "stars": 77
+              },
+              "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xiong Zhang, Hongsheng Huang, Jianchao Tan, Hongmin Xu, Cheng Yang, Guozhu Peng, Lei Wang, Ji Liu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 392594878,
+                "language": "Python",
+                "last_commit": "2021-12-19T16:49:01Z",
+                "owner": "MandyMo",
+                "repo": "HIU-DMTL",
+                "stars": 24
+              },
+              "title": "• Hand Image Understanding via Deep Multi-Task Learning. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 317221272,
+                "language": "Python",
+                "last_commit": "2024-09-13T08:21:13Z",
+                "owner": "lixiny",
+                "repo": "CPF",
+                "stars": 140
+              },
+              "title": "• CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Baowen Zhang, Yangang Wang, Xiaoming Deng, Yinda Zhang, Ping Tan, Cuixia Ma and Hongan Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 398720949,
+                "language": "Python",
+                "last_commit": "2023-02-10T09:40:42Z",
+                "owner": "BaowenZ",
+                "repo": "Two-Hand-Shape-Pose",
+                "stars": 104
+              },
+              "title": "• Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2021 ICCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Kevin Lin, Lijuan Wang, Zicheng Liu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 357447788,
+                "language": "Python",
+                "last_commit": "2023-07-06T22:02:20Z",
+                "owner": "microsoft",
+                "repo": "MeshTransformer",
+                "stars": 646
+              },
+              "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 356137204,
+                "language": "Python",
+                "last_commit": "2022-05-22T01:17:02Z",
+                "owner": "NVlabs",
+                "repo": "dex-ycb-toolkit",
+                "stars": 213
+              },
+              "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 352009177,
+                "language": "Python",
+                "last_commit": "2024-03-29T16:30:05Z",
+                "owner": "stevenlsw",
+                "repo": "Semi-Hand-Object",
+                "stars": 134
+              },
+              "title": "• Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2021 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Korrawe Karunratanakul, Adrian Spurr, Zicong Fan, Otmar Hilliges, Siyu Tang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 417515197,
+                "language": "Python",
+                "last_commit": "2022-05-16T13:11:19Z",
+                "owner": "korrawe",
+                "repo": "halo",
+                "stars": 79
+              },
+              "title": "• [2021 3DV] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [PDF] [Project] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Zicong Fan, Adrian Spurr, Muhammed Kocabas, Siyu Tang, Michael J. Black, Otmar Hilliges",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 431869702,
+                "language": "Python",
+                "last_commit": "2024-09-29T11:58:01Z",
+                "owner": "zc-alexfan",
+                "repo": "digit-interacting",
+                "stars": 55
+              },
+              "title": "• [2021 3DV] Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [PDF] [Project] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Ziwei Yu, Linlin Yang, Shicheng Chen and Angela Yao",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 358330102,
+                "language": "Python",
+                "last_commit": "2021-12-27T08:41:49Z",
+                "owner": "ShichengChen",
+                "repo": "multiviewDataset",
+                "stars": 29
+              },
+              "title": "• [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. [PDF] [Data]"
+            },
+            {
+              "children": [],
+              "description": "Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 339664606,
+                "language": "Python",
+                "last_commit": "2022-03-07T15:15:58Z",
+                "owner": "LyuJ1998",
+                "repo": "HandTailor",
+                "stars": 137
+              },
+              "title": "• [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 372325361,
+                "language": "C++",
+                "last_commit": "2021-12-22T08:32:47Z",
+                "owner": "cghezhang",
+                "repo": "ManipNet",
+                "stars": 254
+              },
+              "title": "• [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Moran Li, Yuan Gao, Nong Sang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 318983179,
+                "language": "Python",
+                "last_commit": "2021-03-02T06:04:26Z",
+                "owner": "moranli-aca",
+                "repo": "LearnableGroups-Hand",
+                "stars": 42
+              },
+              "title": "• [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 300322690,
+                "language": "Python",
+                "last_commit": "2020-10-05T14:38:58Z",
+                "owner": "razvancaramalau",
+                "repo": "al_bhpe",
+                "stars": 20
+              },
+              "title": "• [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Fanqing Lin, Connor Wilhelm, Tony Martinez",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 235192585,
+                "language": "Python",
+                "last_commit": "2023-05-26T07:47:56Z",
+                "owner": "AlextheEngineer",
+                "repo": "Ego3DHands",
+                "stars": 60
+              },
+              "title": "• [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2021 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 206368887,
+                "language": "Python",
+                "last_commit": "2024-03-28T12:23:09Z",
+                "owner": "otaheri",
+                "repo": "GrabNet",
+                "stars": 270
+              },
+              "title": "• GRAB: A Dataset of Whole-Body Human Grasping of Objects. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 289046126,
+                "language": "Python",
+                "last_commit": "2022-09-12T12:41:40Z",
+                "owner": "vchoutas",
+                "repo": "expose",
+                "stars": 670
+              },
+              "title": "• Monocular Expressive Body Regression through Body-Driven Attention. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 279016141,
+                "language": "Python",
+                "last_commit": "2025-04-22T09:15:29Z",
+                "owner": "jin-s13",
+                "repo": "COCO-WholeBody",
+                "stars": 867
+              },
+              "title": "• Whole-Body Human Pose Estimation in the Wild. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 255693750,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-07T01:49:24Z",
+                "owner": "facebookresearch",
+                "repo": "ContactPose",
+                "stars": 429
+              },
+              "title": "• ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 278341452,
+                "language": "Python",
+                "last_commit": "2020-08-24T08:58:04Z",
+                "owner": "fanglinpu",
+                "repo": "JGR-P2O",
+                "stars": 38
+              },
+              "title": "• JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [PDF] [Code] (Spotlight)"
+            },
+            {
+              "children": [],
+              "description": "Gyeongsik Moon, Shoou-i Yu, He Wen, Takaaki Shiratori, Kyoung Mu Lee",
+              "node_type": "item",
+              "repo_info": {
+                "archived": true,
+                "id": 286620878,
+                "language": "Python",
+                "last_commit": "2024-07-10T03:45:49Z",
+                "owner": "facebookresearch",
+                "repo": "InterHand2.6M",
+                "stars": 756
+              },
+              "title": "• InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Gyeongsik Moon, Kyoung Mu Lee",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 279795687,
+                "language": "Python",
+                "last_commit": "2024-07-10T03:28:20Z",
+                "owner": "mks0601",
+                "repo": "I2L-MeshNet_RELEASE",
+                "stars": 738
+              },
+              "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren, Weiting Huang, Haifeng Sun, Marek Hrúz, Jakub Kanis, Zdeněk Krňoul, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Gregory Rogez, Vincent Lepetit, Tae-Kyun Kim",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 289274941,
+                "language": "Python",
+                "last_commit": "2020-08-21T13:49:30Z",
+                "owner": "anilarmagan",
+                "repo": "HANDS19-Challenge-Toolbox",
+                "stars": 15
+              },
+              "title": "• Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2020 ECCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Seungryul Baek, Kwang In Kim, Tae-Kyun Kim",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 246171885,
+                "language": null,
+                "last_commit": "2020-03-10T00:43:36Z",
+                "owner": "bsrvision",
+                "repo": "weak_da_hands",
+                "stars": 12
+              },
+              "title": "• Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. [PDF] [Code] (Oral) (Paper Award Nominees)"
+            },
+            {
+              "children": [],
+              "description": "Yihui He*, Rui Yan*, Shoou-I Yu, Katerina Fragkiadaki",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 251161090,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-02T06:33:41Z",
+                "owner": "ethanhe42",
+                "repo": "epipolar-transformers",
+                "stars": 428
+              },
+              "title": "• Epipolar Transformers. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 257115162,
+                "language": "Python",
+                "last_commit": "2021-02-21T10:02:53Z",
+                "owner": "hassony2",
+                "repo": "handobjectconsist",
+                "stars": 123
+              },
+              "title": "• Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 246044510,
+                "language": "Python",
+                "last_commit": "2022-01-12T12:48:45Z",
+                "owner": "CalciferZh",
+                "repo": "minimal-hand",
+                "stars": 1037
+              },
+              "title": "• Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 209097356,
+                "language": "Python",
+                "last_commit": "2020-10-01T15:16:55Z",
+                "owner": "bardiadoosti",
+                "repo": "HOPE",
+                "stars": 274
+              },
+              "title": "• HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 231906107,
+                "language": "Python",
+                "last_commit": "2026-02-04T09:56:13Z",
+                "owner": "shreyashampali",
+                "repo": "ho3d",
+                "stars": 245
+              },
+              "title": "• HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2020 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Bowen Wen, Chaitanya Mitash, Sruthi Soorian, Andrew Kimmel, Avishai Sintov, Kostas E. Bekris",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 238850525,
+                "language": "C++",
+                "last_commit": "2020-10-14T18:18:14Z",
+                "owner": "wenbowen123",
+                "repo": "icra20-hand-object-pose",
+                "stars": 55
+              },
+              "title": "• [2020 ICRA] Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands . [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol Muandet, Siyu Tang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 280181111,
+                "language": "Python",
+                "last_commit": "2020-12-08T14:37:03Z",
+                "owner": "korrawe",
+                "repo": "grasping_field",
+                "stars": 131
+              },
+              "title": "• [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [PDF] [Code] (Best Paper Award)"
+            },
+            {
+              "children": [],
+              "description": "Keunwoo Park, Sunbum Kim, Youngwoo Yoon, Tae-Kyun Kim, Geehyuk Lee",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 277833311,
+                "language": "Python",
+                "last_commit": "2020-10-31T12:17:01Z",
+                "owner": "KAIST-HCIL",
+                "repo": "DeepFisheyeNet",
+                "stars": 27
+              },
+              "title": "• [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Zhenyu Wu, Duc Hoang, Shih-Yao Lin, Yusheng Xie, Liangjian Chen, Yen-Yu Lin, Zhangyang Wang, Wei Fan",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 284333358,
+                "language": "Python",
+                "last_commit": "2022-12-08T10:20:40Z",
+                "owner": "VITA-Group",
+                "repo": "mm-hand",
+                "stars": 27
+              },
+              "title": "• [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Lixin Yang, Jiasen Li, Wenqiang Xu, Yiqun Diao, Cewu Lu",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 266301468,
+                "language": "Python",
+                "last_commit": "2021-07-01T09:07:03Z",
+                "owner": "lixiny",
+                "repo": "bihand",
+                "stars": 97
+              },
+              "title": "• [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 221929996,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:17:06Z",
+                "owner": "Elody-07",
+                "repo": "AWR-Adaptive-Weighting-Regression",
+                "stars": 124
+              },
+              "title": "• [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yifei Chen*, Haoyu Ma*, Deying Kong, Xiangyi Yan, Jianbao Wu, Wei Fan, Xiaohui Xie",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 232727606,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-03-27T18:40:50Z",
+                "owner": "HowieMa",
+                "repo": "NSRMhand",
+                "stars": 102
+              },
+              "title": "• [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2020 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 206787375,
+                "language": "Python",
+                "last_commit": "2022-01-21T07:02:52Z",
+                "owner": "lmb-freiburg",
+                "repo": "freihand",
+                "stars": 449
+              },
+              "title": "• FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Fu Xiong*, Boshen Zhang*, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, and Junsong Yuan",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 199246356,
+                "language": "Python",
+                "last_commit": "2022-09-29T08:00:42Z",
+                "owner": "zhangboshen",
+                "repo": "A2J",
+                "stars": 296
+              },
+              "title": "• A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 201485252,
+                "language": "Python",
+                "last_commit": "2020-04-24T08:08:42Z",
+                "owner": "TerenceCYJ",
+                "repo": "SO-HandNet",
+                "stars": 53
+              },
+              "title": "• SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xiong Zhang*, Qiang Li*, Wenbo Zhang, Wen Zheng",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 172504761,
+                "language": "Python",
+                "last_commit": "2022-08-07T04:28:56Z",
+                "owner": "MandyMo",
+                "repo": "HAMR",
+                "stars": 29
+              },
+              "title": "• End-to-end Hand Mesh Recovery from a Monocular RGB Image. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2019 ICCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 182981735,
+                "language": "Python",
+                "last_commit": "2021-10-11T17:40:13Z",
+                "owner": "melonwan",
+                "repo": "sphereHand",
+                "stars": 55
+              },
+              "title": "• Self supervised 3D hand pose estimation. [PDF] [Code] (Oral) (Best Paper Finalists)"
+            },
+            {
+              "children": [],
+              "description": "Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 173876402,
+                "language": "Python",
+                "last_commit": "2020-07-19T15:44:36Z",
+                "owner": "dumyy",
+                "repo": "handpose",
+                "stars": 129
+              },
+              "title": "• CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Georgios Pavlakos*, Vasileios Choutas*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 191319653,
+                "language": "Python",
+                "last_commit": "2024-02-23T12:10:19Z",
+                "owner": "vchoutas",
+                "repo": "smplify-x",
+                "stars": 2163
+              },
+              "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 175451875,
+                "language": "Python",
+                "last_commit": "2023-04-21T09:43:19Z",
+                "owner": "hassony2",
+                "repo": "manopth",
+                "stars": 697
+              },
+              "title": "• Learning joint reconstruction of hands and manipulated objects. [PDF] [Code] [Code] [Project]"
+            },
+            {
+              "children": [],
+              "description": "Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 191218999,
+                "language": "Python",
+                "last_commit": "2020-12-24T06:18:43Z",
+                "owner": "3d-hand-shape",
+                "repo": "hand-graph-cnn",
+                "stars": 602
+              },
+              "title": "• 3D Hand Shape and Pose Estimation from a Single RGB Image. [PDF] [Project] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 168429249,
+                "language": "Python",
+                "last_commit": "2020-07-09T15:17:16Z",
+                "owner": "boukhayma",
+                "repo": "3dhand",
+                "stars": 193
+              },
+              "title": "• 3D Hand Shape and Pose from Images in the Wild. [PDF] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Donglai Xiang, Hanbyul Joo, Yaser Sheikh",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 190938119,
+                "language": "C++",
+                "last_commit": "2023-09-18T17:34:32Z",
+                "owner": "CMU-Perceptual-Computing-Lab",
+                "repo": "MonocularTotalCapture",
+                "stars": 676
+              },
+              "title": "• Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [PDF] [Project] [Code] (Oral)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2019 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 184368498,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-04-07T12:43:45Z",
+                "owner": "dkulon",
+                "repo": "hand-reconstruction",
+                "stars": 116
+              },
+              "title": "• [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Shuang Li*, Xiaojian Ma*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 156513822,
+                "language": "Python",
+                "last_commit": "2022-05-12T08:55:11Z",
+                "owner": "TAMS-Group",
+                "repo": "TeachNet_Teleoperation",
+                "stars": 66
+              },
+              "title": "• [2019 ICRA] Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Georg Poier, Michael Opitz, David Schinagl and Horst Bischof",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 157540948,
+                "language": "Python",
+                "last_commit": "2020-04-10T14:16:48Z",
+                "owner": "poier",
+                "repo": "murauer",
+                "stars": 15
+              },
+              "title": "• [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2019 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 139757655,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-07-15T01:15:12Z",
+                "owner": "xkunwu",
+                "repo": "depth-hand",
+                "stars": 75
+              },
+              "title": "• HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018 ECCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 149117007,
+                "language": "Python",
+                "last_commit": "2019-02-20T17:41:37Z",
+                "owner": "guiggh",
+                "repo": "hand_pose_action",
+                "stars": 271
+              },
+              "title": "• First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Georg Poier, David Schinagl, Horst Bischof",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 126808682,
+                "language": "Python",
+                "last_commit": "2020-01-08T14:55:36Z",
+                "owner": "poier",
+                "repo": "PreView",
+                "stars": 60
+              },
+              "title": "• Learning Pose Specific Representations by Predicting Different Views. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 111709170,
+                "language": "Python",
+                "last_commit": "2018-04-30T15:15:31Z",
+                "owner": "melonwan",
+                "repo": "denseReg",
+                "stars": 180
+              },
+              "title": "• Dense 3D Regression for Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 139822896,
+                "language": "Python",
+                "last_commit": "2018-07-05T12:36:41Z",
+                "owner": "spurra",
+                "repo": "vae-hands-3d",
+                "stars": 124
+              },
+              "title": "• Cross-modal Deep Variational Hand Pose Estimation. [PDF] [Project] [Code] (Spotlight)"
+            },
+            {
+              "children": [],
+              "description": "Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 124329555,
+                "language": "MATLAB",
+                "last_commit": "2024-07-10T03:24:31Z",
+                "owner": "mks0601",
+                "repo": "V2V-PoseNet_RELEASE",
+                "stars": 391
+              },
+              "title": "• V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 135184072,
+                "language": "Python",
+                "last_commit": "2019-07-22T13:58:32Z",
+                "owner": "ekazakos",
+                "repo": "fusenet-hand-pose",
+                "stars": 25
+              },
+              "title": "• [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. [PDF] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Masoud Abdi, Ehsan Abbasnejad, Chee Peng Lim, Saeid Nahavandi",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 140230105,
+                "language": "Python",
+                "last_commit": "2021-04-09T03:05:45Z",
+                "owner": "masabdi",
+                "repo": "LSPS",
+                "stars": 61
+              },
+              "title": "• [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [PDF] [Code] (Oral)"
+            },
+            {
+              "children": [],
+              "description": "Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 179522221,
+                "language": "Python",
+                "last_commit": "2023-11-29T13:17:29Z",
+                "owner": "FORTH-ModelBasedTracker",
+                "repo": "MonocularRGB_3D_Handpose_WACV18",
+                "stars": 167
+              },
+              "title": "• [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2018 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Christian Zimmermann, Thomas Brox",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 90154376,
+                "language": "Python",
+                "last_commit": "2018-10-05T15:42:41Z",
+                "owner": "lmb-freiburg",
+                "repo": "hand3d",
+                "stars": 812
+              },
+              "title": "• Learning to Estimate 3D Hand Pose from Single RGB Images. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Edoardo Remelli*, Anastasia Tkach*, Andrea Tagliasacchi, Mark Pauly",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 99279660,
+                "language": "MATLAB",
+                "last_commit": "2019-02-13T10:52:07Z",
+                "owner": "edoRemelli",
+                "repo": "hadjust",
+                "stars": 3
+              },
+              "title": "• Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Markus Oberweger and Vincent Lepetit",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 100851203,
+                "language": "Python",
+                "last_commit": "2020-03-09T17:35:00Z",
+                "owner": "moberweger",
+                "repo": "deep-prior-pp",
+                "stars": 147
+              },
+              "title": "• [Hands17 Workshop] DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017 ICCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 89247811,
+                "language": "C++",
+                "last_commit": "2024-08-03T01:59:11Z",
+                "owner": "CMU-Perceptual-Computing-Lab",
+                "repo": "openpose",
+                "stars": 34390
+              },
+              "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 92842677,
+                "language": "Python",
+                "last_commit": "2017-12-18T17:00:34Z",
+                "owner": "melonwan",
+                "repo": "crossingNet",
+                "stars": 18
+              },
+              "title": "• Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 87610481,
+                "language": "Python",
+                "last_commit": "2020-02-11T02:35:32Z",
+                "owner": "guohengkai",
+                "repo": "region-ensemble-network",
+                "stars": 114
+              },
+              "title": "• [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [PDF] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2017 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 64273127,
+                "language": "C++",
+                "last_commit": "2017-10-01T15:14:58Z",
+                "owner": "geliuhao",
+                "repo": "CVPR2016_HandPoseEstimation",
+                "stars": 97
+              },
+              "title": "• Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 74679485,
+                "language": "Python",
+                "last_commit": "2017-06-16T07:01:06Z",
+                "owner": "moberweger",
+                "repo": "semi-auto-anno",
+                "stars": 24
+              },
+              "title": "• Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016 CVPR"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 96697199,
+                "language": "Python",
+                "last_commit": "2017-07-09T16:41:05Z",
+                "owner": "oval-group",
+                "repo": "DISCONets",
+                "stars": 4
+              },
+              "title": "• [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, Yichen Wei",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 56119524,
+                "language": "C++",
+                "last_commit": "2016-06-02T12:16:50Z",
+                "owner": "xingyizhou",
+                "repo": "DeepModel",
+                "stars": 112
+              },
+              "title": "• [2016 IJCAI] Model-based Deep Hand Pose Estimation. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 72197439,
+                "language": "C++",
+                "last_commit": "2016-10-28T10:15:33Z",
+                "owner": "OpenGP",
+                "repo": "hmodel",
+                "stars": 52
+              },
+              "title": "• [2016 SIGGRAPH Asia] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "James Supancic III, Deva Ramanan, Gregory Rogez, Yi Yang, Jamie Shotton",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 42967821,
+                "language": "C++",
+                "last_commit": "2017-01-20T18:18:29Z",
+                "owner": "jsupancic",
+                "repo": "deep_hand_pose",
+                "stars": 185
+              },
+              "title": "• Depth-based hand pose estimation: data, methods, and challenges. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2015 ICCV"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Markus Oberweger, Paul Wohlhart, Vincent Lepetit",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 74583248,
+                "language": "Python",
+                "last_commit": "2017-08-28T13:31:51Z",
+                "owner": "moberweger",
+                "repo": "deep-prior",
+                "stars": 62
+              },
+              "title": "• [2015 CVWW] Hands Deep in Deep Learning for Hand Pose Estimation. [PDF] [Project] [Code]"
+            },
+            {
+              "children": [],
+              "description": "Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 36731017,
+                "language": "C++",
+                "last_commit": "2016-10-06T21:24:28Z",
+                "owner": "OpenGP",
+                "repo": "htrack",
+                "stars": 222
+              },
+              "title": "• [2015 SGP] Robust Articulated-ICP for Real-Time Hand Tracking. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2015 Others"
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "description": "Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "id": 44676180,
+                "language": "Python",
+                "last_commit": "2017-05-05T13:16:37Z",
+                "owner": "FORTH-ModelBasedTracker",
+                "repo": "HandTracker",
+                "stars": 321
+              },
+              "title": "• [2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [PDF] [Project] [Code]"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2014 Others & Before"
         }
       ],
       "title": "Conference Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MSRA15",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64273127,
+                "language": "C++",
+                "last_commit": "2017-10-01T15:14:58Z",
+                "owner": "geliuhao",
+                "repo": "CVPR2016_HandPoseEstimation",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "No mention. Issue raised : link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64273127,
+                "language": "C++",
+                "last_commit": "2017-10-01T15:14:58Z",
+                "owner": "geliuhao",
+                "repo": "CVPR2016_HandPoseEstimation",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FPHA",
+              "description": "2018 R ❌ ✅ 21 ego 6 100k CVPR 2018 [PDF] Academic Research Only",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149117007,
+                "language": "Python",
+                "last_commit": "2019-02-20T17:41:37Z",
+                "owner": "guiggh",
+                "repo": "hand_pose_action",
+                "stars": 271
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Depth"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MVHand",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358330102,
+                "language": "Python",
+                "last_commit": "2021-12-27T08:41:49Z",
+                "owner": "ShichengChen",
+                "repo": "multiviewDataset",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358330102,
+                "language": "Python",
+                "last_commit": "2021-12-27T08:41:49Z",
+                "owner": "ShichengChen",
+                "repo": "multiviewDataset",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ContactPose",
+              "description": "2020 R ✅ ✅ 21 3rd 50 2.9M ECCV 2020 [PDF] MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255693750,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-07T01:49:24Z",
+                "owner": "facebookresearch",
+                "repo": "ContactPose",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ego3DHands",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235192585,
+                "language": "Python",
+                "last_commit": "2023-05-26T07:47:56Z",
+                "owner": "AlextheEngineer",
+                "repo": "Ego3DHands",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Non-Commercial / Scientific only",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235192585,
+                "language": "Python",
+                "last_commit": "2023-05-26T07:47:56Z",
+                "owner": "AlextheEngineer",
+                "repo": "Ego3DHands",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STB",
+              "description": "2017 R - ❌ 21 3rd 1 18k ICIP 2017 [PDF] MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174828862,
+                "language": "MATLAB",
+                "last_commit": "2023-02-14T06:09:15Z",
+                "owner": "zhjwustc",
+                "repo": "icip17_stereo_hand_pose_dataset",
+                "stars": 61
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RGB+Depth"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HIU-DMTL-Data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392594878,
+                "language": "Python",
+                "last_commit": "2021-12-19T16:49:01Z",
+                "owner": "MandyMo",
+                "repo": "HIU-DMTL",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392594878,
+                "language": "Python",
+                "last_commit": "2021-12-19T16:49:01Z",
+                "owner": "MandyMo",
+                "repo": "HIU-DMTL",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InterHand2.6M",
+              "description": "2020 R ❌ ❌ 21 3rd 27 2.6M ECCV 2020 [PDF] CC-BY-NC 4.0",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 286620878,
+                "language": "Python",
+                "last_commit": "2024-07-10T03:45:49Z",
+                "owner": "facebookresearch",
+                "repo": "InterHand2.6M",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTube 3D Hands",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276424220,
+                "language": "Python",
+                "last_commit": "2020-07-31T10:07:27Z",
+                "owner": "snap-research",
+                "repo": "arielai_youtube_3d_hands",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Non-Commercial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 276424220,
+                "language": "Python",
+                "last_commit": "2020-07-31T10:07:27Z",
+                "owner": "snap-research",
+                "repo": "arielai_youtube_3d_hands",
+                "stars": 182
+              }
+            }
+          ],
+          "description": "Credits:",
+          "node_type": "group",
+          "title": "RGB"
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Fanqing Lin, Tony Martinez",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 312904076,
+            "language": "Python",
+            "last_commit": "2023-06-27T07:29:57Z",
+            "owner": "AlextheEngineer",
+            "repo": "Ego2Hands",
+            "stars": 91
+          },
+          "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Anurag Ranjan, David T. Hoffmann, Dimitrios Tzionas, Siyu Tang, Javier Romero, and Michael J. Black",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 234532841,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:20:34Z",
+            "owner": "anuragranj",
+            "repo": "humanflow2",
+            "stars": 38
+          },
+          "title": "• [2020 IJCV] Learning Multi-Human Optical Flow. [PDF] [Project] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Supreeth Narasimhaswamy*, Zhengwei Wei*, Yang Wang, Justin Zhang, Minh Hoai",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 203299715,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:28:46Z",
+            "owner": "SupreethN",
+            "repo": "Hand-CNN",
+            "stars": 148
+          },
+          "title": "• [2019 ICCV] Contextual Attention for Hand Detection in the Wild. [PDF] [Project] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Shangchen Han, Beibei Liu, Robert Wang, Yuting Ye, Christopher D. Twigg, Kenrick Kin",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 130419857,
+            "language": null,
+            "last_commit": "2018-08-23T20:18:36Z",
+            "owner": "Beibei88",
+            "repo": "Mocap_SIG18_Data",
+            "stars": 36
+          },
+          "title": "• [2018 SIGGRAPH] Online Optical Marker-based Hand Tracking with Deep Labels. [PDF] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Akshay Rangesh, Mohan M. Trivedi",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 168256360,
+            "language": "Python",
+            "last_commit": "2020-03-25T19:26:36Z",
+            "owner": "arangesh",
+            "repo": "HandyNet",
+            "stars": 13
+          },
+          "title": "• [2018 CVPRW] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [PDF] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 136069311,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-18T17:26:59Z",
+            "owner": "facebookresearch",
+            "repo": "DensePose",
+            "stars": 7259
+          },
+          "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Aisha Urooj Khan, Ali Borji",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 127476077,
+            "language": "MATLAB",
+            "last_commit": "2021-07-14T05:57:51Z",
+            "owner": "aurooj",
+            "repo": "Hand-Segmentation-in-the-Wild",
+            "stars": 200
+          },
+          "title": "• [2018 CVPR] Analysis of Hand Segmentation in the Wild. [PDF] [Code]"
+        },
+        {
+          "children": [],
+          "description": "Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 77440857,
+            "language": "Python",
+            "last_commit": "2019-12-10T02:36:54Z",
+            "owner": "carpedm20",
+            "repo": "simulated-unsupervised-tensorflow",
+            "stars": 575
+          },
+          "title": "• [2017 CVPR] Learning from Simulated and Unsupervised Images through Adversarial Training. [PDF] [Project] [Code-Tensorflow] [Code-Keras] [Code-Tensorflow-NYU-Hand] (CVPR Best Paper Award)"
+        }
+      ],
+      "title": "Other Related Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:53:12.952Z",
+    "last_updated": "2026-08-24T14:03:12.564Z",
     "original_repository": "xinghaochen/awesome-hand-pose-estimation",
     "original_repository_id": 85847327,
     "original_repository_sha": "693e2ce14c1b48fd70135479daaf6027410ef97f",
