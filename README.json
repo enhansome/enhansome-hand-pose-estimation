@@ -470,10 +470,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38614
+                "stars": 38618
               },
               "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]"
             },
@@ -1114,7 +1114,7 @@
                 "last_commit": "2025-05-07T01:49:24Z",
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 429
+                "stars": 430
               },
               "title": "• ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [PDF] [Project] [Code]"
             },
@@ -1405,7 +1405,7 @@
                 "last_commit": "2022-01-21T07:02:52Z",
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 449
+                "stars": 448
               },
               "title": "• FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [PDF] [Project] [Code]"
             },
@@ -1844,7 +1844,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34395
+                "stars": 34403
               },
               "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]"
             },
@@ -2162,7 +2162,7 @@
                 "last_commit": "2025-05-07T01:49:24Z",
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 429
+                "stars": 430
               }
             },
             {
@@ -2389,7 +2389,7 @@
             "last_commit": "2023-01-18T17:26:59Z",
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7259
+            "stars": 7258
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]"
         },
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:11.672Z",
+    "last_updated": "2026-08-25T22:58:37.498Z",
     "original_repository": "xinghaochen/awesome-hand-pose-estimation",
     "original_repository_id": 85847327,
     "original_repository_sha": "693e2ce14c1b48fd70135479daaf6027410ef97f",
