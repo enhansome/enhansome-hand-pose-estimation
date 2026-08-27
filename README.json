@@ -470,10 +470,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-26T23:28:07Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38626
               },
               "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]"
             },
@@ -1099,7 +1099,7 @@
                 "last_commit": "2025-04-22T09:15:29Z",
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 867
+                "stars": 868
               },
               "title": "• Whole-Body Human Pose Estimation in the Wild. [PDF] [Code]"
             },
@@ -1502,7 +1502,7 @@
                 "last_commit": "2024-02-23T12:10:19Z",
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2163
+                "stars": 2164
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)"
             },
@@ -1844,7 +1844,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34403
+                "stars": 34414
               },
               "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]"
             },
@@ -2389,7 +2389,7 @@
             "last_commit": "2023-01-18T17:26:59Z",
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7258
+            "stars": 7259
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]"
         },
@@ -2428,7 +2428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:58:37.498Z",
+    "last_updated": "2026-08-27T03:31:45.869Z",
     "original_repository": "xinghaochen/awesome-hand-pose-estimation",
     "original_repository_id": 85847327,
     "original_repository_sha": "693e2ce14c1b48fd70135479daaf6027410ef97f",
