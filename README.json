@@ -470,10 +470,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T23:28:07Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38626
+                "stars": 38630
               },
               "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]"
             },
@@ -1502,7 +1502,7 @@
                 "last_commit": "2024-02-23T12:10:19Z",
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2164
+                "stars": 2165
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)"
             },
@@ -1658,7 +1658,7 @@
                 "last_commit": "2019-02-20T17:41:37Z",
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 271
+                "stars": 272
               },
               "title": "• First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [PDF] [Project] [Code]"
             },
@@ -1844,7 +1844,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34414
+                "stars": 34417
               },
               "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]"
             },
@@ -2110,7 +2110,7 @@
                 "last_commit": "2019-02-20T17:41:37Z",
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 271
+                "stars": 272
               }
             }
           ],
@@ -2428,9 +2428,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:31:45.869Z",
-    "original_repository": "xinghaochen/awesome-hand-pose-estimation",
-    "original_repository_id": 85847327,
+    "last_updated": "2026-08-27T11:47:03.625Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 85847327,
+      "language": "Python",
+      "last_commit": "2026-06-28T14:22:34Z",
+      "owner": "xinghaochen",
+      "repo": "awesome-hand-pose-estimation",
+      "stars": 3387
+    },
     "original_repository_sha": "693e2ce14c1b48fd70135479daaf6027410ef97f",
     "enhanced_repository": "enhansome/enhansome-hand-pose-estimation",
     "enhanced_repository_description": null,
