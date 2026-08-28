@@ -16,7 +16,8 @@
             "repo": "TriHorn-Net",
             "stars": 83
           },
-          "title": "• [arXiv:2206.07117] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+          "title": "• [arXiv:2206.07117] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "homan",
             "stars": 103
           },
-          "title": "• [arXiv:2108.07044] Towards unconstrained joint hand-object reconstruction from RGB videos. [PDF] [Project] [Code]"
+          "title": "• [arXiv:2108.07044] Towards unconstrained joint hand-object reconstruction from RGB videos. [PDF] [Project] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "contra-hand",
             "stars": 54
           },
-          "title": "• [arXiv:2106.04324] Contrastive Representation Learning for Hand Shape Estimation. [PDF] [Project] [Code] [Data]"
+          "title": "• [arXiv:2106.04324] Contrastive Representation Learning for Hand Shape Estimation. [PDF] [Project] [Code] [Data]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "HandAugment",
             "stars": 51
           },
-          "title": "• [arXiv:2001.00702] HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+          "title": "• [arXiv:2001.00702] HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand Pose Estimation. [PDF] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         }
       ],
       "title": "arXiv Papers"
@@ -84,7 +88,8 @@
                 "repo": "deep_hand_pose",
                 "stars": 185
               },
-              "title": "• [2018 IJCV] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [PDF] [Project] [Code]"
+              "title": "• [2018 IJCV] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -99,7 +104,8 @@
                 "repo": "HandPoseEstimation",
                 "stars": 27
               },
-              "title": "• [2015 IJCV] Estimate Hand Poses Efficiently from Single Depth Images. [PDF] [Project] [Code]"
+              "title": "• [2015 IJCV] Estimate Hand Poses Efficiently from Single Depth Images. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -121,7 +127,8 @@
                 "repo": "TriHorn-Net",
                 "stars": 83
               },
-              "title": "• [2023 ESWA] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2023 ESWA] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -136,7 +143,8 @@
                 "repo": "DSF",
                 "stars": 26
               },
-              "title": "• [2022 TIP] A Dual-Branch Self-Boosting Framework for Self-Supervised 3D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2022 TIP] A Dual-Branch Self-Boosting Framework for Self-Supervised 3D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -151,7 +159,8 @@
                 "repo": "PixelwiseRegression",
                 "stars": 34
               },
-              "title": "• [2021 TMM] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2021 TMM] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -166,7 +175,8 @@
                 "repo": "VO-handpose",
                 "stars": 25
               },
-              "title": "• [2019 RA-L] Variational Object-aware 3D Hand Pose from a Single RGB Image. [PDF] [Code]"
+              "title": "• [2019 RA-L] Variational Object-aware 3D Hand Pose from a Single RGB Image. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -181,7 +191,8 @@
                 "repo": "Pose-REN",
                 "stars": 168
               },
-              "title": "• [2018 Neurocomputing] Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [PDF] [Project] [Code]"
+              "title": "• [2018 Neurocomputing] Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -196,7 +207,8 @@
                 "repo": "region-ensemble-network",
                 "stars": 114
               },
-              "title": "• [2018 JVCI] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2018 JVCI] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -211,7 +223,8 @@
                 "repo": "RandomDecisionForest",
                 "stars": 12
               },
-              "title": "• [2014 TMM] Parsing the Hand in Depth Images. [PDF] [Project] [Code]"
+              "title": "• [2014 TMM] Parsing the Hand in Depth Images. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -239,7 +252,8 @@
                 "repo": "SiMHand",
                 "stars": 41
               },
-              "title": "• [2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [PDF] [Project] [Code]"
+              "title": "• [2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -261,7 +275,8 @@
                 "repo": "HandDGP",
                 "stars": 41
               },
-              "title": "• HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [PDF] [Project] [Code]"
+              "title": "• HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -276,7 +291,8 @@
                 "repo": "AttentionHand",
                 "stars": 12
               },
-              "title": "• AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild. [PDF] [Project] [Code] (Oral)"
+              "title": "• AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild. [PDF] [Project] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -296,9 +312,10 @@
                 "last_commit": "2026-03-10T17:45:07Z",
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 490
+                "stars": 491
               },
-              "title": "• HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [PDF] [Code]"
+              "title": "• HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -320,7 +337,8 @@
                 "repo": "Hamba",
                 "stars": 189
               },
-              "title": "• [2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [PDF] [Project] [Code]"
+              "title": "• [2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -348,7 +366,8 @@
                 "repo": "A2J-Transformer",
                 "stars": 109
               },
-              "title": "• A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Code]"
+              "title": "• A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -363,7 +382,8 @@
                 "repo": "POEM",
                 "stars": 67
               },
-              "title": "• POEM: Reconstructing Hand in a Point Embedded Multi-view Stereo. [PDF] [Code]"
+              "title": "• POEM: Reconstructing Hand in a Point Embedded Multi-view Stereo. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -378,7 +398,8 @@
                 "repo": "HTT",
                 "stars": 62
               },
-              "title": "• Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos. [PDF] [Project] [Code]"
+              "title": "• Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -393,7 +414,8 @@
                 "repo": "Im2Hands",
                 "stars": 79
               },
-              "title": "• Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [PDF] [Project] [Code]"
+              "title": "• Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -408,7 +430,8 @@
                 "repo": "Arbitrary-Hands-3D-Reconstruction",
                 "stars": 228
               },
-              "title": "• ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [PDF] [Project] [Code]"
+              "title": "• ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -430,7 +453,8 @@
                 "repo": "HO-NeRF",
                 "stars": 14
               },
-              "title": "• Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views. [PDF] Project] [Code] [Data]"
+              "title": "• Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views. [PDF] Project] [Code] [Data]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -445,7 +469,8 @@
                 "repo": "contactgen",
                 "stars": 81
               },
-              "title": "• ContactGen: Generative Contact Modeling for Grasp Generation [PDF] [Project] [Code]"
+              "title": "• ContactGen: Generative Contact Modeling for Grasp Generation [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -460,7 +485,8 @@
                 "repo": "HaMuCo",
                 "stars": 51
               },
-              "title": "• HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning. [PDF] [Project] [Code]"
+              "title": "• HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -473,9 +499,10 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38634
               },
-              "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]"
+              "title": "• Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -490,7 +517,8 @@
                 "repo": "DIR",
                 "stars": 78
               },
-              "title": "• Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image. [PDF] [Project] [Code]"
+              "title": "• Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -505,7 +533,8 @@
                 "repo": "RenderIH",
                 "stars": 284
               },
-              "title": "• RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [PDF] [Project] [Code]"
+              "title": "• RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -520,7 +549,8 @@
                 "repo": "SFDAHPE",
                 "stars": 11
               },
-              "title": "• Source-free Domain Adaptive Human Pose Estimation [PDF] [Project] [Code]"
+              "title": "• Source-free Domain Adaptive Human Pose Estimation [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -535,7 +565,8 @@
                 "repo": "livehand",
                 "stars": 74
               },
-              "title": "• LiveHand: Real-time and Photorealistic Neural Hand Rendering [PDF] [Project] [Code]"
+              "title": "• LiveHand: Real-time and Photorealistic Neural Hand Rendering [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -557,7 +588,8 @@
                 "repo": "showme",
                 "stars": 22
               },
-              "title": "• [2023 ICCVW] SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction. [PDF] [Project] [Code] [Data]"
+              "title": "• [2023 ICCVW] SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction. [PDF] [Project] [Code] [Data]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -572,7 +604,8 @@
                 "repo": "THOR-Net",
                 "stars": 21
               },
-              "title": "• [2023 WACV] THOR-Net: End-to-End Graformer-Based Realistic Two Hands and Object Reconstruction With Self-Supervision. [PDF] [Code]"
+              "title": "• [2023 WACV] THOR-Net: End-to-End Graformer-Based Realistic Two Hands and Object Reconstruction With Self-Supervision. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -594,7 +627,8 @@
                 "repo": "PersonalizedHandMeshEstimation",
                 "stars": 44
               },
-              "title": "• Identity-aware Hand Mesh Estimation and Personalization from RGB Images . [[PDF]] [Code]"
+              "title": "• Identity-aware Hand Mesh Estimation and Personalization from RGB Images . [[PDF]] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -609,7 +643,8 @@
                 "repo": "AlignSDF",
                 "stars": 83
               },
-              "title": "• AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [PDF] [Project] [Code]"
+              "title": "• AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -624,7 +659,8 @@
                 "repo": "s2contact",
                 "stars": 19
               },
-              "title": "• S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning. [PDF] [Project] [Code]"
+              "title": "• S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -639,7 +675,8 @@
                 "repo": "FastMETRO",
                 "stars": 172
               },
-              "title": "• Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers. [PDF] [Project] [Code]"
+              "title": "• Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -661,7 +698,8 @@
                 "repo": "ihoi",
                 "stars": 123
               },
-              "title": "• What's in your hands? 3D Reconstruction of Generic Objects in Hands. [PDF] [Project] [Code]"
+              "title": "• What's in your hands? 3D Reconstruction of Generic Objects in Hands. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -676,7 +714,8 @@
                 "repo": "HandOccNet",
                 "stars": 172
               },
-              "title": "• HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [PDF] [Code]"
+              "title": "• HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -691,7 +730,8 @@
                 "repo": "OakInk",
                 "stars": 146
               },
-              "title": "• OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. [PDF] [Code]"
+              "title": "• OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -706,7 +746,8 @@
                 "repo": "ArtiBoost",
                 "stars": 132
               },
-              "title": "• ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [PDF] [Code]"
+              "title": "• ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -721,7 +762,8 @@
                 "repo": "IntagHand",
                 "stars": 275
               },
-              "title": "• Interacting Attention Graph for Single Image Two-Hand Reconstruction. [PDF] [Project] [Code]"
+              "title": "• Interacting Attention Graph for Single Image Two-Hand Reconstruction. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -736,7 +778,8 @@
                 "repo": "HandMesh",
                 "stars": 374
               },
-              "title": "• MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image. [PDF] [Code]"
+              "title": "• MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -758,7 +801,8 @@
                 "repo": "handpose-virtualview",
                 "stars": 80
               },
-              "title": "• [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [PDF] [Project] [Code]"
+              "title": "• [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -780,7 +824,8 @@
                 "repo": "peclr",
                 "stars": 87
               },
-              "title": "• Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [PDF] [Code] (Oral)"
+              "title": "• Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [PDF] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -795,7 +840,8 @@
                 "repo": "handAR",
                 "stars": 119
               },
-              "title": "• Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [PDF] [Code]"
+              "title": "• Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -810,7 +856,8 @@
                 "repo": "HandFold",
                 "stars": 33
               },
-              "title": "• HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton. [PDF] [Code]"
+              "title": "• HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -825,7 +872,8 @@
                 "repo": "h2odataset",
                 "stars": 77
               },
-              "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]"
+              "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -840,7 +888,8 @@
                 "repo": "HIU-DMTL",
                 "stars": 24
               },
-              "title": "• Hand Image Understanding via Deep Multi-Task Learning. [PDF] [Code]"
+              "title": "• Hand Image Understanding via Deep Multi-Task Learning. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -855,7 +904,8 @@
                 "repo": "CPF",
                 "stars": 140
               },
-              "title": "• CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [PDF] [Code]"
+              "title": "• CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -870,7 +920,8 @@
                 "repo": "Two-Hand-Shape-Pose",
                 "stars": 104
               },
-              "title": "• Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image. [PDF] [Project] [Code]"
+              "title": "• Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -892,7 +943,8 @@
                 "repo": "MeshTransformer",
                 "stars": 646
               },
-              "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]"
+              "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -907,7 +959,8 @@
                 "repo": "dex-ycb-toolkit",
                 "stars": 213
               },
-              "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]"
+              "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -922,7 +975,8 @@
                 "repo": "Semi-Hand-Object",
                 "stars": 134
               },
-              "title": "• Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [PDF] [Project] [Code]"
+              "title": "• Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -944,7 +998,8 @@
                 "repo": "halo",
                 "stars": 79
               },
-              "title": "• [2021 3DV] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [PDF] [Project] [Code] (Oral)"
+              "title": "• [2021 3DV] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [PDF] [Project] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -959,7 +1014,8 @@
                 "repo": "digit-interacting",
                 "stars": 55
               },
-              "title": "• [2021 3DV] Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [PDF] [Project] [Code] (Oral)"
+              "title": "• [2021 3DV] Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [PDF] [Project] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -974,7 +1030,8 @@
                 "repo": "multiviewDataset",
                 "stars": 29
               },
-              "title": "• [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. [PDF] [Data]"
+              "title": "• [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. [PDF] [Data]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -989,7 +1046,8 @@
                 "repo": "HandTailor",
                 "stars": 137
               },
-              "title": "• [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [PDF] [Code]"
+              "title": "• [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1004,7 +1062,8 @@
                 "repo": "ManipNet",
                 "stars": 254
               },
-              "title": "• [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [PDF] [Code]"
+              "title": "• [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1019,7 +1078,8 @@
                 "repo": "LearnableGroups-Hand",
                 "stars": 42
               },
-              "title": "• [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1034,7 +1094,8 @@
                 "repo": "al_bhpe",
                 "stars": 20
               },
-              "title": "• [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1049,7 +1110,8 @@
                 "repo": "Ego3DHands",
                 "stars": 60
               },
-              "title": "• [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [PDF] [Code]"
+              "title": "• [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1071,7 +1133,8 @@
                 "repo": "GrabNet",
                 "stars": 270
               },
-              "title": "• GRAB: A Dataset of Whole-Body Human Grasping of Objects. [PDF] [Project] [Code]"
+              "title": "• GRAB: A Dataset of Whole-Body Human Grasping of Objects. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1086,7 +1149,8 @@
                 "repo": "expose",
                 "stars": 670
               },
-              "title": "• Monocular Expressive Body Regression through Body-Driven Attention. [PDF] [Project] [Code]"
+              "title": "• Monocular Expressive Body Regression through Body-Driven Attention. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1099,9 +1163,10 @@
                 "last_commit": "2025-04-22T09:15:29Z",
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 868
+                "stars": 869
               },
-              "title": "• Whole-Body Human Pose Estimation in the Wild. [PDF] [Code]"
+              "title": "• Whole-Body Human Pose Estimation in the Wild. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1116,7 +1181,8 @@
                 "repo": "ContactPose",
                 "stars": 430
               },
-              "title": "• ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [PDF] [Project] [Code]"
+              "title": "• ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1131,7 +1197,8 @@
                 "repo": "JGR-P2O",
                 "stars": 38
               },
-              "title": "• JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [PDF] [Code] (Spotlight)"
+              "title": "• JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [PDF] [Code] (Spotlight)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1146,7 +1213,8 @@
                 "repo": "InterHand2.6M",
                 "stars": 756
               },
-              "title": "• InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Project] [Code]"
+              "title": "• InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1161,7 +1229,8 @@
                 "repo": "I2L-MeshNet_RELEASE",
                 "stars": 738
               },
-              "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]"
+              "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1176,7 +1245,8 @@
                 "repo": "HANDS19-Challenge-Toolbox",
                 "stars": 15
               },
-              "title": "• Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [PDF] [Code]"
+              "title": "• Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1198,7 +1268,8 @@
                 "repo": "weak_da_hands",
                 "stars": 12
               },
-              "title": "• Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. [PDF] [Code] (Oral) (Paper Award Nominees)"
+              "title": "• Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. [PDF] [Code] (Oral) (Paper Award Nominees)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1213,7 +1284,8 @@
                 "repo": "epipolar-transformers",
                 "stars": 428
               },
-              "title": "• Epipolar Transformers. [PDF] [Code]"
+              "title": "• Epipolar Transformers. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1228,7 +1300,8 @@
                 "repo": "handobjectconsist",
                 "stars": 123
               },
-              "title": "• Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. [PDF] [Project] [Code]"
+              "title": "• Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1243,7 +1316,8 @@
                 "repo": "minimal-hand",
                 "stars": 1037
               },
-              "title": "• Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [PDF] [Project] [Code]"
+              "title": "• Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1258,7 +1332,8 @@
                 "repo": "HOPE",
                 "stars": 274
               },
-              "title": "• HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. [PDF] [Code]"
+              "title": "• HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1273,7 +1348,8 @@
                 "repo": "ho3d",
                 "stars": 245
               },
-              "title": "• HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [PDF] [Project] [Code]"
+              "title": "• HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1295,7 +1371,8 @@
                 "repo": "icra20-hand-object-pose",
                 "stars": 55
               },
-              "title": "• [2020 ICRA] Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands . [PDF] [Code]"
+              "title": "• [2020 ICRA] Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands . [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1310,7 +1387,8 @@
                 "repo": "grasping_field",
                 "stars": 131
               },
-              "title": "• [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [PDF] [Code] (Best Paper Award)"
+              "title": "• [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [PDF] [Code] (Best Paper Award)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1325,7 +1403,8 @@
                 "repo": "DeepFisheyeNet",
                 "stars": 27
               },
-              "title": "• [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [PDF] [Project] [Code]"
+              "title": "• [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1340,7 +1419,8 @@
                 "repo": "mm-hand",
                 "stars": 27
               },
-              "title": "• [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. [PDF] [Code]"
+              "title": "• [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1355,7 +1435,8 @@
                 "repo": "bihand",
                 "stars": 97
               },
-              "title": "• [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [PDF] [Code]"
+              "title": "• [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1370,7 +1451,8 @@
                 "repo": "AWR-Adaptive-Weighting-Regression",
                 "stars": 124
               },
-              "title": "• [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1385,7 +1467,8 @@
                 "repo": "NSRMhand",
                 "stars": 102
               },
-              "title": "• [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1407,7 +1490,8 @@
                 "repo": "freihand",
                 "stars": 448
               },
-              "title": "• FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [PDF] [Project] [Code]"
+              "title": "• FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1422,7 +1506,8 @@
                 "repo": "A2J",
                 "stars": 296
               },
-              "title": "• A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [PDF] [Code]"
+              "title": "• A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1437,7 +1522,8 @@
                 "repo": "SO-HandNet",
                 "stars": 53
               },
-              "title": "• SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [PDF] [Code]"
+              "title": "• SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1452,7 +1538,8 @@
                 "repo": "HAMR",
                 "stars": 29
               },
-              "title": "• End-to-end Hand Mesh Recovery from a Monocular RGB Image. [PDF] [Code]"
+              "title": "• End-to-end Hand Mesh Recovery from a Monocular RGB Image. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1474,7 +1561,8 @@
                 "repo": "sphereHand",
                 "stars": 55
               },
-              "title": "• Self supervised 3D hand pose estimation. [PDF] [Code] (Oral) (Best Paper Finalists)"
+              "title": "• Self supervised 3D hand pose estimation. [PDF] [Code] (Oral) (Best Paper Finalists)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1489,7 +1577,8 @@
                 "repo": "handpose",
                 "stars": 129
               },
-              "title": "• CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. [PDF] [Code]"
+              "title": "• CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1504,7 +1593,8 @@
                 "repo": "smplify-x",
                 "stars": 2165
               },
-              "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)"
+              "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1519,7 +1609,8 @@
                 "repo": "manopth",
                 "stars": 697
               },
-              "title": "• Learning joint reconstruction of hands and manipulated objects. [PDF] [Code] [Code] [Project]"
+              "title": "• Learning joint reconstruction of hands and manipulated objects. [PDF] [Code] [Code] [Project]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1534,7 +1625,8 @@
                 "repo": "hand-graph-cnn",
                 "stars": 602
               },
-              "title": "• 3D Hand Shape and Pose Estimation from a Single RGB Image. [PDF] [Project] [Code] (Oral)"
+              "title": "• 3D Hand Shape and Pose Estimation from a Single RGB Image. [PDF] [Project] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1549,7 +1641,8 @@
                 "repo": "3dhand",
                 "stars": 193
               },
-              "title": "• 3D Hand Shape and Pose from Images in the Wild. [PDF] [Code] (Oral)"
+              "title": "• 3D Hand Shape and Pose from Images in the Wild. [PDF] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1564,7 +1657,8 @@
                 "repo": "MonocularTotalCapture",
                 "stars": 676
               },
-              "title": "• Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [PDF] [Project] [Code] (Oral)"
+              "title": "• Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [PDF] [Project] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1586,7 +1680,8 @@
                 "repo": "hand-reconstruction",
                 "stars": 116
               },
-              "title": "• [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [PDF] [Code]"
+              "title": "• [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1601,7 +1696,8 @@
                 "repo": "TeachNet_Teleoperation",
                 "stars": 66
               },
-              "title": "• [2019 ICRA] Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [PDF] [Code]"
+              "title": "• [2019 ICRA] Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1616,7 +1712,8 @@
                 "repo": "murauer",
                 "stars": 15
               },
-              "title": "• [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [PDF] [Project] [Code]"
+              "title": "• [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1638,7 +1735,8 @@
                 "repo": "depth-hand",
                 "stars": 75
               },
-              "title": "• HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [PDF] [Project] [Code]"
+              "title": "• HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1660,7 +1758,8 @@
                 "repo": "hand_pose_action",
                 "stars": 272
               },
-              "title": "• First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [PDF] [Project] [Code]"
+              "title": "• First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1675,7 +1774,8 @@
                 "repo": "PreView",
                 "stars": 60
               },
-              "title": "• Learning Pose Specific Representations by Predicting Different Views. [PDF] [Project] [Code]"
+              "title": "• Learning Pose Specific Representations by Predicting Different Views. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1690,7 +1790,8 @@
                 "repo": "denseReg",
                 "stars": 180
               },
-              "title": "• Dense 3D Regression for Hand Pose Estimation. [PDF] [Code]"
+              "title": "• Dense 3D Regression for Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1705,7 +1806,8 @@
                 "repo": "vae-hands-3d",
                 "stars": 124
               },
-              "title": "• Cross-modal Deep Variational Hand Pose Estimation. [PDF] [Project] [Code] (Spotlight)"
+              "title": "• Cross-modal Deep Variational Hand Pose Estimation. [PDF] [Project] [Code] (Spotlight)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1720,7 +1822,8 @@
                 "repo": "V2V-PoseNet_RELEASE",
                 "stars": 391
               },
-              "title": "• V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [PDF] [Code]"
+              "title": "• V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1742,7 +1845,8 @@
                 "repo": "fusenet-hand-pose",
                 "stars": 25
               },
-              "title": "• [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1757,7 +1861,8 @@
                 "repo": "LSPS",
                 "stars": 61
               },
-              "title": "• [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [PDF] [Code] (Oral)"
+              "title": "• [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [PDF] [Code] (Oral)",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1772,7 +1877,8 @@
                 "repo": "MonocularRGB_3D_Handpose_WACV18",
                 "stars": 167
               },
-              "title": "• [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [PDF] [Project] [Code]"
+              "title": "• [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1794,7 +1900,8 @@
                 "repo": "hand3d",
                 "stars": 812
               },
-              "title": "• Learning to Estimate 3D Hand Pose from Single RGB Images. [PDF] [Project] [Code]"
+              "title": "• Learning to Estimate 3D Hand Pose from Single RGB Images. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1809,7 +1916,8 @@
                 "repo": "hadjust",
                 "stars": 3
               },
-              "title": "• Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [PDF] [Project] [Code]"
+              "title": "• Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1824,7 +1932,8 @@
                 "repo": "deep-prior-pp",
                 "stars": 147
               },
-              "title": "• [Hands17 Workshop] DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation. [PDF] [Project] [Code]"
+              "title": "• [Hands17 Workshop] DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1844,9 +1953,10 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417
+                "stars": 34418
               },
-              "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]"
+              "title": "• Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1861,7 +1971,8 @@
                 "repo": "crossingNet",
                 "stars": 18
               },
-              "title": "• Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [PDF] [Code]"
+              "title": "• Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1883,7 +1994,8 @@
                 "repo": "region-ensemble-network",
                 "stars": 114
               },
-              "title": "• [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [PDF] [Code]"
+              "title": "• [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [PDF] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1905,7 +2017,8 @@
                 "repo": "CVPR2016_HandPoseEstimation",
                 "stars": 97
               },
-              "title": "• Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [PDF] [Project] [Code]"
+              "title": "• Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1920,7 +2033,8 @@
                 "repo": "semi-auto-anno",
                 "stars": 24
               },
-              "title": "• Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [PDF] [Project] [Code]"
+              "title": "• Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1942,7 +2056,8 @@
                 "repo": "DISCONets",
                 "stars": 4
               },
-              "title": "• [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [PDF] [Project] [Code]"
+              "title": "• [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1957,7 +2072,8 @@
                 "repo": "DeepModel",
                 "stars": 112
               },
-              "title": "• [2016 IJCAI] Model-based Deep Hand Pose Estimation. [PDF] [Project] [Code]"
+              "title": "• [2016 IJCAI] Model-based Deep Hand Pose Estimation. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -1972,7 +2088,8 @@
                 "repo": "hmodel",
                 "stars": 52
               },
-              "title": "• [2016 SIGGRAPH Asia] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [PDF] [Project] [Code]"
+              "title": "• [2016 SIGGRAPH Asia] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -1994,7 +2111,8 @@
                 "repo": "deep_hand_pose",
                 "stars": 185
               },
-              "title": "• Depth-based hand pose estimation: data, methods, and challenges. [PDF] [Project] [Code]"
+              "title": "• Depth-based hand pose estimation: data, methods, and challenges. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -2016,7 +2134,8 @@
                 "repo": "deep-prior",
                 "stars": 62
               },
-              "title": "• [2015 CVWW] Hands Deep in Deep Learning for Hand Pose Estimation. [PDF] [Project] [Code]"
+              "title": "• [2015 CVWW] Hands Deep in Deep Learning for Hand Pose Estimation. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "children": [],
@@ -2031,7 +2150,8 @@
                 "repo": "htrack",
                 "stars": 222
               },
-              "title": "• [2015 SGP] Robust Articulated-ICP for Real-Time Hand Tracking. [PDF] [Project] [Code]"
+              "title": "• [2015 SGP] Robust Articulated-ICP for Real-Time Hand Tracking. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -2053,7 +2173,8 @@
                 "repo": "HandTracker",
                 "stars": 321
               },
-              "title": "• [2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [PDF] [Project] [Code]"
+              "title": "• [2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [PDF] [Project] [Code]",
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -2081,7 +2202,8 @@
                 "owner": "geliuhao",
                 "repo": "CVPR2016_HandPoseEstimation",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2218,8 @@
                 "owner": "geliuhao",
                 "repo": "CVPR2016_HandPoseEstimation",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2234,8 @@
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -2133,7 +2257,8 @@
                 "owner": "ShichengChen",
                 "repo": "multiviewDataset",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2148,7 +2273,8 @@
                 "owner": "ShichengChen",
                 "repo": "multiviewDataset",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2163,7 +2289,8 @@
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2178,7 +2305,8 @@
                 "owner": "AlextheEngineer",
                 "repo": "Ego3DHands",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2193,7 +2321,8 @@
                 "owner": "AlextheEngineer",
                 "repo": "Ego3DHands",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2208,7 +2337,8 @@
                 "owner": "zhjwustc",
                 "repo": "icip17_stereo_hand_pose_dataset",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": null,
@@ -2230,7 +2360,8 @@
                 "owner": "MandyMo",
                 "repo": "HIU-DMTL",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2245,7 +2376,8 @@
                 "owner": "MandyMo",
                 "repo": "HIU-DMTL",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2260,7 +2392,8 @@
                 "owner": "facebookresearch",
                 "repo": "InterHand2.6M",
                 "stars": 756
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2275,7 +2408,8 @@
                 "owner": "snap-research",
                 "repo": "arielai_youtube_3d_hands",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             },
             {
               "node_type": "item",
@@ -2290,7 +2424,8 @@
                 "owner": "snap-research",
                 "repo": "arielai_youtube_3d_hands",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T06:16:44.579Z"
             }
           ],
           "description": "Credits:",
@@ -2316,7 +2451,8 @@
             "repo": "Ego2Hands",
             "stars": 91
           },
-          "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]"
+          "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2331,7 +2467,8 @@
             "repo": "humanflow2",
             "stars": 38
           },
-          "title": "• [2020 IJCV] Learning Multi-Human Optical Flow. [PDF] [Project] [Code]"
+          "title": "• [2020 IJCV] Learning Multi-Human Optical Flow. [PDF] [Project] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2346,7 +2483,8 @@
             "repo": "Hand-CNN",
             "stars": 148
           },
-          "title": "• [2019 ICCV] Contextual Attention for Hand Detection in the Wild. [PDF] [Project] [Code]"
+          "title": "• [2019 ICCV] Contextual Attention for Hand Detection in the Wild. [PDF] [Project] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2361,7 +2499,8 @@
             "repo": "Mocap_SIG18_Data",
             "stars": 36
           },
-          "title": "• [2018 SIGGRAPH] Online Optical Marker-based Hand Tracking with Deep Labels. [PDF] [Code]"
+          "title": "• [2018 SIGGRAPH] Online Optical Marker-based Hand Tracking with Deep Labels. [PDF] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2376,7 +2515,8 @@
             "repo": "HandyNet",
             "stars": 13
           },
-          "title": "• [2018 CVPRW] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [PDF] [Code]"
+          "title": "• [2018 CVPRW] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [PDF] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2391,7 +2531,8 @@
             "repo": "DensePose",
             "stars": 7259
           },
-          "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]"
+          "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2406,7 +2547,8 @@
             "repo": "Hand-Segmentation-in-the-Wild",
             "stars": 200
           },
-          "title": "• [2018 CVPR] Analysis of Hand Segmentation in the Wild. [PDF] [Code]"
+          "title": "• [2018 CVPR] Analysis of Hand Segmentation in the Wild. [PDF] [Code]",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         },
         {
           "children": [],
@@ -2421,14 +2563,15 @@
             "repo": "simulated-unsupervised-tensorflow",
             "stars": 575
           },
-          "title": "• [2017 CVPR] Learning from Simulated and Unsupervised Images through Adversarial Training. [PDF] [Project] [Code-Tensorflow] [Code-Keras] [Code-Tensorflow-NYU-Hand] (CVPR Best Paper Award)"
+          "title": "• [2017 CVPR] Learning from Simulated and Unsupervised Images through Adversarial Training. [PDF] [Project] [Code-Tensorflow] [Code-Keras] [Code-Tensorflow-NYU-Hand] (CVPR Best Paper Award)",
+          "first_seen": "2026-08-28T06:16:44.579Z"
         }
       ],
       "title": "Other Related Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:03.625Z",
+    "last_updated": "2026-08-28T06:16:44.579Z",
     "original_repository_info": {
       "archived": false,
       "id": 85847327,
