@@ -731,7 +731,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38651,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2303,7 +2303,7 @@
                 "open_issues": 89,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2167,
+                "stars": 2169,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:18.549Z",
+    "last_updated": "2026-08-30T00:38:27.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
