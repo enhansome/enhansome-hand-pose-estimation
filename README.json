@@ -435,7 +435,7 @@
                 "open_issues": 10,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -731,7 +731,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38651,
+                "stars": 38656,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417,
+                "stars": 34419,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:38:27.695Z",
+    "last_updated": "2026-08-31T00:48:17.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
