@@ -731,7 +731,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38661,
+                "stars": 38672,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 869,
+                "stars": 868,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -2303,7 +2303,7 @@
                 "open_issues": 89,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2170,
+                "stars": 2169,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34418,
+                "stars": 34419,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:22:55.394Z",
+    "last_updated": "2026-09-02T00:29:04.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 6,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3388,
+      "stars": 3389,
       "topics": [
         "3d-hand",
         "computer-vision",
