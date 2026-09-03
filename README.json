@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T14:53:17Z",
+                "last_commit": "2026-09-02T22:34:06Z",
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38672,
+                "stars": 38681,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1249,7 +1249,7 @@
                 "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]",
@@ -1291,7 +1291,7 @@
                 "open_issues": 5,
                 "owner": "lixiny",
                 "repo": "CPF",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "title": "• CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [PDF] [Code]",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34419,
+                "stars": 34422,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7259,
+            "stars": 7258,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:29:04.416Z",
+    "last_updated": "2026-09-03T00:34:41.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
