@@ -728,10 +728,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T08:28:07Z",
-                "open_issues": 1989,
+                "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38691,
+                "stars": 38693,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2169,
+                "stars": 2168,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2324,7 +2324,7 @@
                 "open_issues": 20,
                 "owner": "hassony2",
                 "repo": "manopth",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "hand",
                   "layer",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34425,
+                "stars": 34424,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:20:25.738Z",
+    "last_updated": "2026-09-06T00:10:58.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
