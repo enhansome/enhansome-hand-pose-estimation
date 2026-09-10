@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T09:22:17Z",
+                "last_commit": "2026-09-10T00:21:25Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38713,
+                "stars": 38720,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1025,7 +1025,7 @@
                 "open_issues": 20,
                 "owner": "namepllet",
                 "repo": "HandOccNet",
-                "stars": 172,
+                "stars": 171,
                 "topics": []
               },
               "title": "• HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [PDF] [Code]",
@@ -1186,7 +1186,7 @@
                 "open_issues": 7,
                 "owner": "dahiyaaneesh",
                 "repo": "peclr",
-                "stars": 87,
+                "stars": 86,
                 "topics": []
               },
               "title": "• Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [PDF] [Code] (Oral)",
@@ -1721,7 +1721,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "InterHand2.6M",
-                "stars": 756,
+                "stars": 755,
                 "topics": []
               },
               "title": "• InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Project] [Code]",
@@ -2591,7 +2591,7 @@
                 "open_issues": 2,
                 "owner": "spurra",
                 "repo": "vae-hands-3d",
-                "stars": 124,
+                "stars": 123,
                 "topics": []
               },
               "title": "• Cross-modal Deep Variational Hand Pose Estimation. [PDF] [Project] [Code] (Spotlight)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34431,
+                "stars": 34433,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3403,7 +3403,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "InterHand2.6M",
-                "stars": 756,
+                "stars": 755,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:44.579Z"
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:30:38.591Z",
+    "last_updated": "2026-09-10T00:32:26.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
