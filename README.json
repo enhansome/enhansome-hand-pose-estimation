@@ -435,7 +435,7 @@
                 "open_issues": 10,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 491,
+                "stars": 492,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -728,10 +728,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1990,
+                "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38720,
+                "stars": 38725,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1126,7 +1126,7 @@
                 "open_issues": 8,
                 "owner": "SeanChenxy",
                 "repo": "HandMesh",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "cvpr2021",
                   "cvpr2022",
@@ -1812,7 +1812,7 @@
                 "open_issues": 4,
                 "owner": "ethanhe42",
                 "repo": "epipolar-transformers",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "3d",
                   "3dposeestimation",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34433,
+                "stars": 34436,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:32:26.006Z",
+    "last_updated": "2026-09-11T00:29:38.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3659,7 +3659,7 @@
       "language": "Python",
       "license": null,
       "last_commit": "2026-06-28T14:22:34Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
       "stars": 3393,
