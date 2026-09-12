@@ -731,7 +731,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38725,
+                "stars": 38738,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1361,7 +1361,7 @@
                 "open_issues": 24,
                 "owner": "NVlabs",
                 "repo": "dex-ycb-toolkit",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]",
@@ -1615,7 +1615,7 @@
                 "open_issues": 48,
                 "owner": "vchoutas",
                 "repo": "expose",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "3d-pose-estimation",
                   "expressive-body-capture",
@@ -1721,7 +1721,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "InterHand2.6M",
-                "stars": 755,
+                "stars": 754,
                 "topics": []
               },
               "title": "• InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [PDF] [Project] [Code]",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1039,
+                "stars": 1040,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -1930,7 +1930,7 @@
                 "open_issues": 0,
                 "owner": "shreyashampali",
                 "repo": "ho3d",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "title": "• HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [PDF] [Project] [Code]",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34436,
+                "stars": 34438,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3403,7 +3403,7 @@
                 "open_issues": 74,
                 "owner": "facebookresearch",
                 "repo": "InterHand2.6M",
-                "stars": 755,
+                "stars": 754,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:44.579Z"
@@ -3476,7 +3476,7 @@
             "open_issues": 0,
             "owner": "AlextheEngineer",
             "repo": "Ego2Hands",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]",
@@ -3612,7 +3612,7 @@
             "open_issues": 3,
             "owner": "aurooj",
             "repo": "Hand-Segmentation-in-the-Wild",
-            "stars": 200,
+            "stars": 199,
             "topics": []
           },
           "title": "• [2018 CVPR] Analysis of Hand Segmentation in the Wild. [PDF] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:29:38.251Z",
+    "last_updated": "2026-09-12T00:34:31.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",

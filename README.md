@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,725 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,738 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -941,7 +941,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kevin Lin, Lijuan Wang, Zicheng Liu*
 
-##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) ⭐ 213 | 🐛 24 | 🌐 Python | 📅 2022-05-22
+##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) ⭐ 214 | 🐛 24 | 🌐 Python | 📅 2022-05-22
 
 *Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox*
 
@@ -1041,7 +1041,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas*
 
-##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 670 | 🐛 48 | 🌐 Python | 📅 2022-09-12
+##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 671 | 🐛 48 | 🌐 Python | 📅 2022-09-12
 
 *Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black*
 
@@ -1145,7 +1145,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid*
 
-##### • Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand) ⭐ 1,039 | 🐛 6 | 🌐 Python | 📅 2022-01-12
+##### • Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand) ⭐ 1,040 | 🐛 6 | 🌐 Python | 📅 2022-01-12
 
 *Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu*
 
@@ -1153,7 +1153,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri*
 
-##### • HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf) [\[Project\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/) [\[Code\]](https://github.com/shreyashampali/ho3d) ⭐ 245 | 🐛 0 | 🌐 Python | 📅 2026-02-04
+##### • HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf) [\[Project\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/) [\[Code\]](https://github.com/shreyashampali/ho3d) ⭐ 246 | 🐛 0 | 🌐 Python | 📅 2026-02-04
 
 *Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,436 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,438 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2092,7 +2092,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ## Other Related Papers
 
-##### • [\[arXiv 2011.07252\]](https://arxiv.org/abs/2011.07252) Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [\[PDF\]](https://arxiv.org/pdf/2011.07252.pdf) [\[Code\]](https://github.com/AlextheEngineer/Ego2Hands) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2023-06-27
+##### • [\[arXiv 2011.07252\]](https://arxiv.org/abs/2011.07252) Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [\[PDF\]](https://arxiv.org/pdf/2011.07252.pdf) [\[Code\]](https://github.com/AlextheEngineer/Ego2Hands) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2023-06-27
 
 *Fanqing Lin, Tony Martinez*
 
@@ -2116,7 +2116,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos*
 
-##### • \[2018 CVPR] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf) [\[Code\]](https://github.com/aurooj/Hand-Segmentation-in-the-Wild) ⭐ 200 | 🐛 3 | 🌐 MATLAB | 📅 2021-07-14
+##### • \[2018 CVPR] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf) [\[Code\]](https://github.com/aurooj/Hand-Segmentation-in-the-Wild) ⭐ 199 | 🐛 3 | 🌐 MATLAB | 📅 2021-07-14
 
 *Aisha Urooj Khan, Ali Borji*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
