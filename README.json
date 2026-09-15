@@ -728,10 +728,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T00:21:25Z",
-                "open_issues": 1992,
+                "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38750,
+                "stars": 38759,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -973,7 +973,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-21T09:47:44Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "kaist-ami",
                 "repo": "FastMETRO",
                 "stars": 172,
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 871,
+                "stars": 872,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34444,
+                "stars": 34445,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7258,
+            "stars": 7257,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:22:31.656Z",
+    "last_updated": "2026-09-15T00:51:49.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
