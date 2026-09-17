@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T17:14:49Z",
+                "last_commit": "2026-09-16T19:46:42Z",
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38770,
+                "stars": 38776,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1669,7 +1669,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -2138,7 +2138,7 @@
                 "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 447,
+                "stars": 448,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2168,
+                "stars": 2169,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2731,7 +2731,7 @@
                 "open_issues": 12,
                 "owner": "lmb-freiburg",
                 "repo": "hand3d",
-                "stars": 812,
+                "stars": 813,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34447,
+                "stars": 34451,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3260,7 +3260,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:44:49.883Z",
+    "last_updated": "2026-09-17T00:51:05.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
