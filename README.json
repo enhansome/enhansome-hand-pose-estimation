@@ -731,7 +731,7 @@
                 "open_issues": 1994,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38785,
+                "stars": 38789,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1615,7 +1615,7 @@
                 "open_issues": 48,
                 "owner": "vchoutas",
                 "repo": "expose",
-                "stars": 671,
+                "stars": 672,
                 "topics": [
                   "3d-pose-estimation",
                   "expressive-body-capture",
@@ -2171,7 +2171,7 @@
                 "open_issues": 31,
                 "owner": "zhangboshen",
                 "repo": "A2J",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "3d-pose-estimation",
                   "a2j",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34454,
+                "stars": 34455,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3476,7 +3476,7 @@
             "open_issues": 0,
             "owner": "AlextheEngineer",
             "repo": "Ego2Hands",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7257,
+            "stars": 7258,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:44:37.163Z",
+    "last_updated": "2026-09-19T00:35:01.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
