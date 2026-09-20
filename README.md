@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,789 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,795 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -1041,7 +1041,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas*
 
-##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 672 | 🐛 48 | 🌐 Python | 📅 2022-09-12
+##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 673 | 🐛 48 | 🌐 Python | 📅 2022-09-12
 
 *Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

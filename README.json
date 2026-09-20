@@ -728,10 +728,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T19:46:42Z",
-                "open_issues": 1994,
+                "open_issues": 1995,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38789,
+                "stars": 38795,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1615,7 +1615,7 @@
                 "open_issues": 48,
                 "owner": "vchoutas",
                 "repo": "expose",
-                "stars": 672,
+                "stars": 673,
                 "topics": [
                   "3d-pose-estimation",
                   "expressive-body-capture",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:35:01.995Z",
+    "last_updated": "2026-09-20T00:20:30.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
