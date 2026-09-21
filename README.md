@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,795 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,806 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -739,7 +739,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Qucheng Peng, Ce Zheng, Chen Chen*
 
-##### • LiveHand: Real-time and Photorealistic Neural Hand Rendering [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Mundra_LiveHand_Real-time_and_Photorealistic_Neural_Hand_Rendering_ICCV_2023_paper.pdf) [\[Project\]](https://vcai.mpi-inf.mpg.de/projects/LiveHand/) [\[Code\]](https://github.com/amundra15/livehand) ⭐ 74 | 🐛 5 | 🌐 Python | 📅 2024-02-09
+##### • LiveHand: Real-time and Photorealistic Neural Hand Rendering [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Mundra_LiveHand_Real-time_and_Photorealistic_Neural_Hand_Rendering_ICCV_2023_paper.pdf) [\[Project\]](https://vcai.mpi-inf.mpg.de/projects/LiveHand/) [\[Code\]](https://github.com/amundra15/livehand) ⭐ 73 | 🐛 5 | 🌐 Python | 📅 2024-02-09
 
 *Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt, Mohamed Elgharib*
 
@@ -1041,7 +1041,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas*
 
-##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 673 | 🐛 48 | 🌐 Python | 📅 2022-09-12
+##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 674 | 🐛 48 | 🌐 Python | 📅 2022-09-12
 
 *Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,455 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,457 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2100,7 +2100,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Anurag Ranjan, David T. Hoffmann, Dimitrios Tzionas, Siyu Tang, Javier Romero, and Michael J. Black*
 
-##### • \[2019 ICCV] Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN) ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2023-03-24
+##### • \[2019 ICCV] Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN) ⭐ 149 | 🐛 7 | 🌐 Python | 📅 2023-03-24
 
 *Supreeth Narasimhaswamy\*, Zhengwei Wei\*, Yang Wang, Justin Zhang, Minh Hoai*
 
@@ -2146,7 +2146,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-Please feel free to [pull requests](https://github.com/xinghaochen/awesome-hand-pose-estimation/pulls) ⭐ 3,397 | 🐛 7 | 🌐 Python | 📅 2026-06-28, [open an issue](https://github.com/xinghaochen/awesome-hand-pose-estimation/issues) ⭐ 3,397 | 🐛 7 | 🌐 Python | 📅 2026-06-28 or send me email (<chenxinghaothu@gmail.com>) to add awesome papers.
+Please feel free to [pull requests](https://github.com/xinghaochen/awesome-hand-pose-estimation/pulls) ⭐ 3,399 | 🐛 7 | 🌐 Python | 📅 2026-06-28, [open an issue](https://github.com/xinghaochen/awesome-hand-pose-estimation/issues) ⭐ 3,399 | 🐛 7 | 🌐 Python | 📅 2026-06-28 or send me email (<chenxinghaothu@gmail.com>) to add awesome papers.
 
 ## License
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
