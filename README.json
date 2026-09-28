@@ -731,7 +731,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38832,
+                "stars": 38833,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1186,7 +1186,7 @@
                 "open_issues": 7,
                 "owner": "dahiyaaneesh",
                 "repo": "peclr",
-                "stars": 86,
+                "stars": 85,
                 "topics": []
               },
               "title": "• Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [PDF] [Code] (Oral)",
@@ -1615,7 +1615,7 @@
                 "open_issues": 48,
                 "owner": "vchoutas",
                 "repo": "expose",
-                "stars": 674,
+                "stars": 675,
                 "topics": [
                   "3d-pose-estimation",
                   "expressive-body-capture",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2171,
+                "stars": 2172,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2731,7 +2731,7 @@
                 "open_issues": 12,
                 "owner": "lmb-freiburg",
                 "repo": "hand3d",
-                "stars": 813,
+                "stars": 812,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34467,
+                "stars": 34468,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3079,7 +3079,7 @@
                 "open_issues": 2,
                 "owner": "OpenGP",
                 "repo": "htrack",
-                "stars": 222,
+                "stars": 221,
                 "topics": []
               },
               "title": "• [2015 SGP] Robust Articulated-ICP for Real-Time Hand Tracking. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:50:03.367Z",
+    "last_updated": "2026-09-28T01:07:06.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
