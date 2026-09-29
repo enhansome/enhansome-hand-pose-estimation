@@ -432,10 +432,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-10T17:45:07Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -731,7 +731,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38833,
+                "stars": 38842,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -2138,7 +2138,7 @@
                 "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2172,
+                "stars": 2173,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2324,7 +2324,7 @@
                 "open_issues": 20,
                 "owner": "hassony2",
                 "repo": "manopth",
-                "stars": 700,
+                "stars": 701,
                 "topics": [
                   "hand",
                   "layer",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34468,
+                "stars": 34475,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3424,7 +3424,7 @@
                 "open_issues": 10,
                 "owner": "snap-research",
                 "repo": "arielai_youtube_3d_hands",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:44.579Z"
@@ -3445,7 +3445,7 @@
                 "open_issues": 10,
                 "owner": "snap-research",
                 "repo": "arielai_youtube_3d_hands",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:16:44.579Z"
@@ -3476,7 +3476,7 @@
             "open_issues": 0,
             "owner": "AlextheEngineer",
             "repo": "Ego2Hands",
-            "stars": 94,
+            "stars": 93,
             "topics": []
           },
           "title": "• [arXiv 2011.07252] Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [PDF] [Code]",
@@ -3633,7 +3633,7 @@
             "open_issues": 19,
             "owner": "carpedm20",
             "repo": "simulated-unsupervised-tensorflow",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "apple",
               "deep-learning",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:07:06.515Z",
+    "last_updated": "2026-09-29T02:15:26.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",

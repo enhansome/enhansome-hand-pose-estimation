@@ -501,7 +501,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Zhishan Zhou, Shihao.zhou, Zhi Lv, Minqiang Zou, Yao Tang, Jiajun Liang*
 
-##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448) [\[Code\]](https://github.com/zc-alexfan/hold) ⭐ 493 | 🐛 10 | 🌐 Python | 📅 2026-03-10
+##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448) [\[Code\]](https://github.com/zc-alexfan/hold) ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2026-03-10
 
 *Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges*
 
@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,833 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,842 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -1049,7 +1049,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo, Andrew William Fitzgibbon, Jamie Shotton*
 
-##### • Whole-Body Human Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2007.11858.pdf) [\[Code\]](https://github.com/jin-s13/COCO-WholeBody) ⭐ 874 | 🐛 1 | 🌐 Python | 📅 2025-04-22
+##### • Whole-Body Human Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2007.11858.pdf) [\[Code\]](https://github.com/jin-s13/COCO-WholeBody) ⭐ 875 | 🐛 1 | 🌐 Python | 📅 2025-04-22
 
 *Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo*
 
@@ -1277,7 +1277,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2019 ICCV
 
-##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 449 | 🐛 15 | 🌐 Python | 📅 2022-01-21
+##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 450 | 🐛 15 | 🌐 Python | 📅 2022-01-21
 
 *Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox*
 
@@ -1343,11 +1343,11 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma*
 
-##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,172 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
+##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,173 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
 
 *Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black*
 
-##### • Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://arxiv.org/pdf/1904.05767.pdf) [\[Code\]](https://github.com/hassony2/manopth) ⭐ 700 | 🐛 20 | 🌐 Python | 📅 2023-04-21 [\[Code\]](https://github.com/hassony2/obman_train) ⭐ 196 | 🐛 13 | 🌐 Python | 📅 2021-08-11 [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
+##### • Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://arxiv.org/pdf/1904.05767.pdf) [\[Code\]](https://github.com/hassony2/manopth) ⭐ 701 | 🐛 20 | 🌐 Python | 📅 2023-04-21 [\[Code\]](https://github.com/hassony2/obman_train) ⭐ 196 | 🐛 13 | 🌐 Python | 📅 2021-08-11 [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 
 *Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,468 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,475 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2027,7 +2027,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 | ------------------------------------------------------------------------------------------------------------ | ---- | --- | ---- | ---- | -- | ------- | --- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | [HIU-DMTL-Data](https://github.com/MandyMo/HIU-DMTL/) ⭐ 24 \| 🐛 6 \| 🌐 Python \| 📅 2021-12-19             | 2021 | R   | ❌    | ❌    | 21 | 3rd/ego | 200 | 40,000           | ICCV 2021 [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Hand_Image_Understanding_via_Deep_Multi-Task_Learning_ICCV_2021_paper.pdf)                 | [MIT](https://github.com/MandyMo/HIU-DMTL/blob/main/LICENSE) ⭐ 24 \| 🐛 6 \| 🌐 Python \| 📅 2021-12-19                                      |
 | [InterHand2.6M](https://mks0601.github.io/InterHand2.6M/)                                                    | 2020 | R   | ❌    | ❌    | 21 | 3rd     | 27  | 2.6M             | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650545.pdf)                                                                                 | [CC-BY-NC 4.0](https://github.com/facebookresearch/InterHand2.6M#license) ⚠️ Archived                                                        |
-| [YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) ⭐ 182 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 | 2020 | R   | ✅    | ✅    | -  | 3rd     | -   | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf) | [Non-Commercial](https://github.com/snap-research/arielai_youtube_3d_hands/blob/master/LICENSE) ⭐ 182 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 |
+| [YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) ⭐ 183 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 | 2020 | R   | ✅    | ✅    | -  | 3rd     | -   | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf) | [Non-Commercial](https://github.com/snap-research/arielai_youtube_3d_hands/blob/master/LICENSE) ⭐ 183 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 |
 | [OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html)                                           | 2019 | R   | -    | ❌    | 21 | 3rd     | 1   | 10k/1.3k         | TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)                                                                                                  | [Non-Commercial](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)                                                                   |
 | [FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html)                | 2019 | R   | -    | ✅    | 21 | 3rd     | -   | 130k/3960        | ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)                                                                                                                  | [Research Only](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html)                                           |
 | [GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm)           | 2018 | S   | -    | Both | 21 | ego     | -   | 330k             | CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)                                                        | [Scientific / Non-commercial](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm)                               |
@@ -2092,7 +2092,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ## Other Related Papers
 
-##### • [\[arXiv 2011.07252\]](https://arxiv.org/abs/2011.07252) Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [\[PDF\]](https://arxiv.org/pdf/2011.07252.pdf) [\[Code\]](https://github.com/AlextheEngineer/Ego2Hands) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2023-06-27
+##### • [\[arXiv 2011.07252\]](https://arxiv.org/abs/2011.07252) Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [\[PDF\]](https://arxiv.org/pdf/2011.07252.pdf) [\[Code\]](https://github.com/AlextheEngineer/Ego2Hands) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2023-06-27
 
 *Fanqing Lin, Tony Martinez*
 
@@ -2128,7 +2128,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Ayan Sinha, Asim Unmesh, Qixing Huang, Karthik Ramani*
 
-##### • \[2017 CVPR] Learning from Simulated and Unsupervised Images through Adversarial Training. [\[PDF\]](https://arxiv.org/pdf/1511.06728) [\[Project\]](https://machinelearning.apple.com/2017/07/07/GAN.html) [\[Code-Tensorflow\]](https://github.com/carpedm20/simulated-unsupervised-tensorflow) ⭐ 575 | 🐛 19 | 🌐 Python | 📅 2019-12-10 [\[Code-Keras\]](https://github.com/wayaai/SimGAN) ⭐ 416 | 🐛 9 | 🌐 Python | 📅 2017-06-13 [\[Code-Tensorflow-NYU-Hand\]](https://github.com/shinseung428/simGAN_NYU_Hand) ⭐ 35 | 🐛 4 | 📅 2017-02-21 *(CVPR Best Paper Award)*
+##### • \[2017 CVPR] Learning from Simulated and Unsupervised Images through Adversarial Training. [\[PDF\]](https://arxiv.org/pdf/1511.06728) [\[Project\]](https://machinelearning.apple.com/2017/07/07/GAN.html) [\[Code-Tensorflow\]](https://github.com/carpedm20/simulated-unsupervised-tensorflow) ⭐ 576 | 🐛 19 | 🌐 Python | 📅 2019-12-10 [\[Code-Keras\]](https://github.com/wayaai/SimGAN) ⭐ 416 | 🐛 9 | 🌐 Python | 📅 2017-06-13 [\[Code-Tensorflow-NYU-Hand\]](https://github.com/shinseung428/simGAN_NYU_Hand) ⭐ 35 | 🐛 4 | 📅 2017-02-21 *(CVPR Best Paper Award)*
 
 *Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
