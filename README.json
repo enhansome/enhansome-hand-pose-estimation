@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T21:53:54Z",
+                "last_commit": "2026-09-30T21:03:49Z",
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38851,
+                "stars": 38856,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34476,
+                "stars": 34477,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:29:28.225Z",
+    "last_updated": "2026-10-01T01:30:07.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3403,
+      "stars": 3404,
       "topics": [
         "3d-hand",
         "computer-vision",
