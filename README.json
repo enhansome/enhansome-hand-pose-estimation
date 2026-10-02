@@ -731,7 +731,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38856,
+                "stars": 38859,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1249,7 +1249,7 @@
                 "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 875,
+                "stars": 874,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34477,
+                "stars": 34478,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7259,
+            "stars": 7260,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:30:07.713Z",
+    "last_updated": "2026-10-02T01:47:38.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
