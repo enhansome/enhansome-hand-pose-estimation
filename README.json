@@ -731,7 +731,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38862,
+                "stars": 38863,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34483,
+                "stars": 34484,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3129,7 +3129,7 @@
             {
               "node_type": "item",
               "title": "MSRA15",
-              "description": null,
+              "description": "geliuhao/CVPR2016_HandPoseEstimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3150,7 +3150,7 @@
             {
               "node_type": "item",
               "title": "No mention. Issue raised : link",
-              "description": null,
+              "description": "geliuhao/CVPR2016_HandPoseEstimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3205,7 +3205,7 @@
             {
               "node_type": "item",
               "title": "MVHand",
-              "description": null,
+              "description": "ShichengChen/multiviewDataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3226,7 +3226,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "ShichengChen/multiviewDataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3278,7 +3278,7 @@
             {
               "node_type": "item",
               "title": "Ego3DHands",
-              "description": null,
+              "description": "AlextheEngineer/Ego3DHands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3299,7 +3299,7 @@
             {
               "node_type": "item",
               "title": "Non-Commercial / Scientific only",
-              "description": null,
+              "description": "AlextheEngineer/Ego3DHands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3348,7 +3348,7 @@
             {
               "node_type": "item",
               "title": "HIU-DMTL-Data",
-              "description": null,
+              "description": "MandyMo/HIU-DMTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3369,7 +3369,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "MandyMo/HIU-DMTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3411,7 +3411,7 @@
             {
               "node_type": "item",
               "title": "YouTube 3D Hands",
-              "description": null,
+              "description": "snap-research/arielai_youtube_3d_hands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3432,7 +3432,7 @@
             {
               "node_type": "item",
               "title": "Non-Commercial",
-              "description": null,
+              "description": "snap-research/arielai_youtube_3d_hands",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:23:03.734Z",
+    "last_updated": "2026-10-03T04:48:26.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
