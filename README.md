@@ -47,7 +47,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Fanqing Lin, Tony Martinez*
 
-##### • [\[arXiv:2206.07117\]](https://arxiv.org/abs/2206.07117) TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://arxiv.org/abs/2206.07117)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net) ⭐ 83 | 🐛 8 | 🌐 Python | 📅 2023-11-09
+##### • [\[arXiv:2206.07117\]](https://arxiv.org/abs/2206.07117) TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://arxiv.org/abs/2206.07117)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net) ⭐ 82 | 🐛 8 | 🌐 Python | 📅 2023-11-09
 
 *Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos*
 
@@ -79,7 +79,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Michael Seeber, Martin R. Oswald, Roi Poranne*
 
-##### • [\[arXiv:2108.07044\]](https://arxiv.org/abs/2108.07044) Towards unconstrained joint hand-object reconstruction from RGB videos. [\[PDF\]](https://arxiv.org/pdf/2108.07044) [\[Project\]](https://hassony2.github.io/homan.html)  [\[Code\]](https://github.com/hassony2/homan) ⭐ 103 | 🐛 6 | 🌐 Python | 📅 2021-10-20
+##### • [\[arXiv:2108.07044\]](https://arxiv.org/abs/2108.07044) Towards unconstrained joint hand-object reconstruction from RGB videos. [\[PDF\]](https://arxiv.org/pdf/2108.07044) [\[Project\]](https://hassony2.github.io/homan.html)  [\[Code\]](https://github.com/hassony2/homan) ⭐ 102 | 🐛 6 | 🌐 Python | 📅 2021-10-20
 
 *Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid*
 
@@ -91,7 +91,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Adrian Spurr, Pavlo Molchanov, Umar Iqbal, Jan Kautz, Otmar Hilliges*
 
-##### • [\[arXiv:2106.04324\]](https://arxiv.org/abs/2106.04324) Contrastive Representation Learning for Hand Shape Estimation. [\[PDF\]](https://arxiv.org/pdf/2106.04324)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/contra-hand/)  [\[Code\]](https://github.com/lmb-freiburg/contra-hand) ⭐ 54 | 🐛 5 | 🌐 Python | 📅 2021-10-02  [\[Data\]](https://lmb.informatik.uni-freiburg.de/resources/datasets/HanCo.en.html)
+##### • [\[arXiv:2106.04324\]](https://arxiv.org/abs/2106.04324) Contrastive Representation Learning for Hand Shape Estimation. [\[PDF\]](https://arxiv.org/pdf/2106.04324)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/contra-hand/)  [\[Code\]](https://github.com/lmb-freiburg/contra-hand) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2021-10-02  [\[Data\]](https://lmb.informatik.uni-freiburg.de/resources/datasets/HanCo.en.html)
 
 *Christian Zimmermann, Max Argus, Thomas Brox*
 
@@ -229,7 +229,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 ### Other Journals
 
-##### • \[2023 ESWA] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0957417423004232)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net) ⭐ 83 | 🐛 8 | 🌐 Python | 📅 2023-11-09
+##### • \[2023 ESWA] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0957417423004232)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net) ⭐ 82 | 🐛 8 | 🌐 Python | 📅 2023-11-09
 
 *Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos*
 
@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,873 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,874 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -839,7 +839,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu*
 
-##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2203.09364)  [\[Project\]](http://www.liuyebin.com/IntagHand/Intaghand.html)  [\[Code\]](https://github.com/Dw1010/IntagHand) ⭐ 275 | 🐛 15 | 🌐 Python | 📅 2023-11-27
+##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2203.09364)  [\[Project\]](http://www.liuyebin.com/IntagHand/Intaghand.html)  [\[Code\]](https://github.com/Dw1010/IntagHand) ⭐ 274 | 🐛 15 | 🌐 Python | 📅 2023-11-27
 
 *Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin Liu*
 
@@ -1049,7 +1049,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo, Andrew William Fitzgibbon, Jamie Shotton*
 
-##### • Whole-Body Human Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2007.11858.pdf) [\[Code\]](https://github.com/jin-s13/COCO-WholeBody) ⭐ 874 | 🐛 1 | 🌐 Python | 📅 2025-04-22
+##### • Whole-Body Human Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2007.11858.pdf) [\[Code\]](https://github.com/jin-s13/COCO-WholeBody) ⭐ 871 | 🐛 1 | 🌐 Python | 📅 2025-04-22
 
 *Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo*
 
@@ -1281,7 +1281,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox*
 
-##### • A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/A2J.pdf) [\[Code\]](https://github.com/zhangboshen/A2J) ⭐ 296 | 🐛 31 | 🌐 Python | 📅 2022-09-29
+##### • A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/A2J.pdf) [\[Code\]](https://github.com/zhangboshen/A2J) ⭐ 295 | 🐛 31 | 🌐 Python | 📅 2022-09-29
 
 *Fu Xiong\*, Boshen Zhang\*, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, and Junsong Yuan*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,483 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,482 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
