@@ -731,7 +731,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38871,
+                "stars": 38873,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1041,
+                "stars": 1042,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2175,
+                "stars": 2176,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2518,7 +2518,7 @@
                 "open_issues": 2,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "action-recognition",
                   "benchmark",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34485,
+                "stars": 34483,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3184,7 +3184,7 @@
                 "open_issues": 2,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "action-recognition",
                   "benchmark",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T01:12:47.997Z",
+    "last_updated": "2026-10-06T02:28:16.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
