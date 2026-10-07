@@ -731,7 +731,7 @@
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38874,
+                "stars": 38879,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1742,7 +1742,7 @@
                 "open_issues": 51,
                 "owner": "mks0601",
                 "repo": "I2L-MeshNet_RELEASE",
-                "stars": 738,
+                "stars": 737,
                 "topics": []
               },
               "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34482,
+                "stars": 34483,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7262,
+            "stars": 7261,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:34:35.430Z",
+    "last_updated": "2026-10-07T01:46:27.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
