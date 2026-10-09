@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T21:04:37Z",
+                "last_commit": "2026-10-08T17:38:14Z",
                 "open_issues": 1997,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38880,
+                "stars": 38884,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1042,
+                "stars": 1043,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34485,
+                "stars": 34487,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3079,7 +3079,7 @@
                 "open_issues": 2,
                 "owner": "OpenGP",
                 "repo": "htrack",
-                "stars": 221,
+                "stars": 222,
                 "topics": []
               },
               "title": "• [2015 SGP] Robust Articulated-ICP for Real-Time Hand Tracking. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:14:09.341Z",
+    "last_updated": "2026-10-09T02:31:22.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
