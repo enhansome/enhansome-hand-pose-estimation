@@ -435,7 +435,7 @@
                 "open_issues": 9,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 493,
+                "stars": 492,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T17:38:14Z",
-                "open_issues": 1997,
+                "last_commit": "2026-10-09T17:22:43Z",
+                "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38884,
+                "stars": 38887,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1361,7 +1361,7 @@
                 "open_issues": 24,
                 "owner": "NVlabs",
                 "repo": "dex-ycb-toolkit",
-                "stars": 214,
+                "stars": 213,
                 "topics": []
               },
               "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34487,
+                "stars": 34493,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:31:22.883Z",
+    "last_updated": "2026-10-10T01:53:41.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
