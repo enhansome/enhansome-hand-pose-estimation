@@ -47,7 +47,7 @@
             "open_issues": 6,
             "owner": "hassony2",
             "repo": "homan",
-            "stars": 102,
+            "stars": 101,
             "topics": []
           },
           "title": "• [arXiv:2108.07044] Towards unconstrained joint hand-object reconstruction from RGB videos. [PDF] [Project] [Code]",
@@ -68,7 +68,7 @@
             "open_issues": 5,
             "owner": "lmb-freiburg",
             "repo": "contra-hand",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "title": "• [arXiv:2106.04324] Contrastive Representation Learning for Hand Shape Estimation. [PDF] [Project] [Code] [Data]",
@@ -698,7 +698,7 @@
                 "open_issues": 2,
                 "owner": "zxz267",
                 "repo": "HaMuCo",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "3d-hand-reconstruction",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T17:22:43Z",
+                "last_commit": "2026-10-10T14:34:09Z",
                 "open_issues": 1998,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38887,
+                "stars": 38889,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1669,7 +1669,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -1812,7 +1812,7 @@
                 "open_issues": 4,
                 "owner": "ethanhe42",
                 "repo": "epipolar-transformers",
-                "stars": 429,
+                "stars": 428,
                 "topics": [
                   "3d",
                   "3dposeestimation",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2176,
+                "stars": 2178,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34493,
+                "stars": 34494,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3260,7 +3260,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:53:41.771Z",
+    "last_updated": "2026-10-11T01:12:25.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
