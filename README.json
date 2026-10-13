@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T14:34:09Z",
+                "last_commit": "2026-10-12T13:39:16Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38897,
+                "stars": 38903,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 871,
+                "stars": 872,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -1669,7 +1669,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2178,
+                "stars": 2179,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34493,
+                "stars": 34495,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3260,7 +3260,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7262,
+            "stars": 7261,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:41:59.673Z",
+    "last_updated": "2026-10-13T03:08:37.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
