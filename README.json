@@ -432,7 +432,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-10T17:45:07Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "zc-alexfan",
                 "repo": "hold",
                 "stars": 492,
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T06:27:55Z",
+                "last_commit": "2026-10-14T21:40:54Z",
                 "open_issues": 2005,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38909,
+                "stars": 38915,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1473,7 +1473,7 @@
                 "open_issues": 1,
                 "owner": "LyuJ1998",
                 "repo": "HandTailor",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "title": "• [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [PDF] [Code]",
@@ -1585,7 +1585,7 @@
                 "open_issues": 13,
                 "owner": "otaheri",
                 "repo": "GrabNet",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "generating-grasp",
                   "generative-model",
@@ -1669,7 +1669,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 436,
+                "stars": 438,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2179,
+                "stars": 2180,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2515,7 +2515,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-20T17:41:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 273,
@@ -3181,7 +3181,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-20T17:41:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 273,
@@ -3260,7 +3260,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 436,
+                "stars": 438,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T01:21:33.409Z",
+    "last_updated": "2026-10-15T00:48:00.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3405,
+      "stars": 3406,
       "topics": [
         "3d-hand",
         "computer-vision",
