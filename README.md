@@ -413,7 +413,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Xingyu Liu, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun, Zirui Zhuang, Jianxin Liao*
 
-##### • HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05563.pdf) [\[Project\]](https://nianticlabs.github.io/handdgp/) [\[Code\]](https://github.com/nianticlabs/HandDGP) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2025-02-12
+##### • HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05563.pdf) [\[Project\]](https://nianticlabs.github.io/handdgp/) [\[Code\]](https://github.com/nianticlabs/HandDGP) ⭐ 42 | 🐛 2 | 🌐 Python | 📅 2025-02-12
 
 *Eugene Valassakis, Guillermo Garcia-Hernando*
 
@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,915 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-14
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 38,924 | 🐛 2,006 | 🌐 Jupyter Notebook | 📅 2026-10-15
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -1061,7 +1061,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Lin Huang, Jianchao Tan, Ji Liu, and Junsong Yuan*
 
-##### • ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)  [\[Project\]](https://contactpose.cc.gatech.edu/) [\[Code\]](https://github.com/facebookresearch/ContactPose) ⭐ 438 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-05-07
+##### • ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)  [\[Project\]](https://contactpose.cc.gatech.edu/) [\[Code\]](https://github.com/facebookresearch/ContactPose) ⭐ 439 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-05-07
 
 *Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays*
 
@@ -1281,7 +1281,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox*
 
-##### • A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/A2J.pdf) [\[Code\]](https://github.com/zhangboshen/A2J) ⭐ 295 | 🐛 31 | 🌐 Python | 📅 2022-09-29
+##### • A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/A2J.pdf) [\[Code\]](https://github.com/zhangboshen/A2J) ⭐ 294 | 🐛 31 | 🌐 Python | 📅 2022-09-29
 
 *Fu Xiong\*, Boshen Zhang\*, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, and Junsong Yuan*
 
@@ -1343,7 +1343,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma*
 
-##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,180 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
+##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,181 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
 
 *Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black*
 
@@ -2010,7 +2010,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 | Dataset                                                                                                | Year | S/R | Mesh | Obj  | #J | V   | #S | #F       | Paper                                                                                                                                                                 | License                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------ | ---- | --- | ---- | ---- | -- | --- | -- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | [MVHand](https://github.com/ShichengChen/multiviewDataset) ⭐ 29 \| 🐛 3 \| 🌐 Python \| 📅 2021-12-27  | 2021 | R   | ✅    | ❌    | 21 | 3rd | 4  | 83k      | BMVC 2021 [\[PDF\]](https://arxiv.org/pdf/2112.06389.pdf)                                                                                                             | [MIT](https://github.com/ShichengChen/multiviewDataset/blob/main/LICENSE) ⭐ 29 \| 🐛 3 \| 🌐 Python \| 📅 2021-12-27                 |
-| [ContactPose](https://contactpose.cc.gatech.edu/)                                                      | 2020 | R   | ✅    | ✅    | 21 | 3rd | 50 | 2.9M     | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)                                                                            | [MIT](https://github.com/facebookresearch/ContactPose/blob/main/LICENSE.txt) ⭐ 438 \| 🐛 7 \| 🌐 Jupyter Notebook \| 📅 2025-05-07   |
+| [ContactPose](https://contactpose.cc.gatech.edu/)                                                      | 2020 | R   | ✅    | ✅    | 21 | 3rd | 50 | 2.9M     | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)                                                                            | [MIT](https://github.com/facebookresearch/ContactPose/blob/main/LICENSE.txt) ⭐ 439 \| 🐛 7 \| 🌐 Jupyter Notebook \| 📅 2025-05-07   |
 | [Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) ⭐ 60 \| 🐛 1 \| 🌐 Python \| 📅 2023-05-26 | 2020 | S   | -    | ❌    | 21 | ego | 1  | 50k/5k   | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)                                                                                                            | [Non-Commercial / Scientific only](https://github.com/AlextheEngineer/Ego3DHands#license) ⭐ 60 \| 🐛 1 \| 🌐 Python \| 📅 2023-05-26 |
 | [ObMan](https://www.di.ens.fr/willow/research/obman/data/)                                             | 2019 | S   | ✅    | ✅    | -  | -   | -  | 150k     | CVPR 2019 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf) | [Non-Commercial / Scientific](https://www.di.ens.fr/willow/research/obman/data/requestaccess.php)                                    |
 | [EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm)                    | 2017 | R   | -    | ✅    | 5  | ego | 4  | 1485     | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)                                                      | [Non-Commerical / Scientific](https://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm)                               |
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

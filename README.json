@@ -382,7 +382,7 @@
                 "open_issues": 2,
                 "owner": "nianticlabs",
                 "repo": "HandDGP",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "eccv2024",
                   "hand-pose-estimation",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:40:54Z",
-                "open_issues": 2005,
+                "last_commit": "2026-10-15T02:18:00Z",
+                "open_issues": 2006,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38915,
+                "stars": 38924,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1669,7 +1669,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -2171,7 +2171,7 @@
                 "open_issues": 31,
                 "owner": "zhangboshen",
                 "repo": "A2J",
-                "stars": 295,
+                "stars": 294,
                 "topics": [
                   "3d-pose-estimation",
                   "a2j",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2180,
+                "stars": 2181,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -3260,7 +3260,7 @@
                 "open_issues": 7,
                 "owner": "facebookresearch",
                 "repo": "ContactPose",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "computer-vision",
                   "contact",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:48:00.654Z",
+    "last_updated": "2026-10-16T00:41:23.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
