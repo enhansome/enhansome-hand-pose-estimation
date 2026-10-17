@@ -728,10 +728,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2006,
+                "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38924,
+                "stars": 38927,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1046,7 +1046,7 @@
                 "open_issues": 2,
                 "owner": "oakink",
                 "repo": "OakInk",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -2138,7 +2138,7 @@
                 "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 450,
+                "stars": 451,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34497,
+                "stars": 34495,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:41:23.655Z",
+    "last_updated": "2026-10-17T00:44:27.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
