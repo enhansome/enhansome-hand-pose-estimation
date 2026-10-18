@@ -435,7 +435,7 @@
                 "open_issues": 10,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 492,
+                "stars": 493,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -731,7 +731,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38927,
+                "stars": 38931,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1046,7 +1046,7 @@
                 "open_issues": 2,
                 "owner": "oakink",
                 "repo": "OakInk",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -1930,7 +1930,7 @@
                 "open_issues": 0,
                 "owner": "shreyashampali",
                 "repo": "ho3d",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "title": "• HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [PDF] [Project] [Code]",
@@ -2808,7 +2808,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34495,
+                "stars": 34498,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:44:27.534Z",
+    "last_updated": "2026-10-18T00:14:19.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
