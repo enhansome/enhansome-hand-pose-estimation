@@ -731,7 +731,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38947,
+                "stars": 38963,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2102,7 +2102,7 @@
                 "open_issues": 9,
                 "owner": "HowieMa",
                 "repo": "NSRMhand",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "cpm",
                   "hand-limbs",
@@ -2805,10 +2805,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-03T01:59:11Z",
-                "open_issues": 359,
+                "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34504,
+                "stars": 34509,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:26:16.043Z",
+    "last_updated": "2026-10-20T01:12:41.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
