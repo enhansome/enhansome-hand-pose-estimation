@@ -731,7 +731,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38963,
+                "stars": 38988,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1494,7 +1494,7 @@
                 "open_issues": 3,
                 "owner": "cghezhang",
                 "repo": "ManipNet",
-                "stars": 254,
+                "stars": 255,
                 "topics": []
               },
               "title": "• [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [PDF] [Code]",
@@ -1585,7 +1585,7 @@
                 "open_issues": 13,
                 "owner": "otaheri",
                 "repo": "GrabNet",
-                "stars": 274,
+                "stars": 273,
                 "topics": [
                   "generating-grasp",
                   "generative-model",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34509,
+                "stars": 34514,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:12:41.546Z",
+    "last_updated": "2026-10-21T00:51:02.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
