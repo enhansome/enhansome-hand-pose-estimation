@@ -612,7 +612,7 @@
                 "open_issues": 11,
                 "owner": "ZhengdiYu",
                 "repo": "Arbitrary-Hands-3D-Reconstruction",
-                "stars": 229,
+                "stars": 230,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "3d-hand-shape",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T02:18:00Z",
-                "open_issues": 2008,
+                "last_commit": "2026-10-21T07:52:25Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38988,
+                "stars": 39000,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1896,7 +1896,7 @@
                 "open_issues": 17,
                 "owner": "bardiadoosti",
                 "repo": "HOPE",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "computer-vision",
                   "cvpr2020",
@@ -2515,7 +2515,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-20T17:41:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 273,
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34514,
+                "stars": 34516,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3181,7 +3181,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2019-02-20T17:41:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
                 "stars": 273,
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:51:02.472Z",
+    "last_updated": "2026-10-22T00:51:26.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
