@@ -435,7 +435,7 @@
                 "open_issues": 10,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -478,7 +478,7 @@
                 "open_issues": 0,
                 "owner": "humansensinglab",
                 "repo": "Hamba",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "3d-hand-reconstruction",
                   "computer-vision",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:52:55Z",
+                "last_commit": "2026-10-23T21:57:07Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39009,
+                "stars": 39015,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1025,7 +1025,7 @@
                 "open_issues": 20,
                 "owner": "namepllet",
                 "repo": "HandOccNet",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "title": "• HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [PDF] [Code]",
@@ -2138,7 +2138,7 @@
                 "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 451,
+                "stars": 452,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2183,
+                "stars": 2182,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:53:33.394Z",
+    "last_updated": "2026-10-24T01:00:03.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3408,
+      "stars": 3409,
       "topics": [
         "3d-hand",
         "computer-vision",

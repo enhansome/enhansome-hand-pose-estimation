@@ -501,7 +501,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Zhishan Zhou, Shihao.zhou, Zhi Lv, Minqiang Zou, Yao Tang, Jiajun Liang*
 
-##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448) [\[Code\]](https://github.com/zc-alexfan/hold) ⭐ 493 | 🐛 10 | 🌐 Python | 📅 2026-03-10
+##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448) [\[Code\]](https://github.com/zc-alexfan/hold) ⭐ 494 | 🐛 10 | 🌐 Python | 📅 2026-03-10
 
 *Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges*
 
@@ -549,7 +549,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 ### 2024 Others
 
-##### • \[2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [\[PDF\]](https://arxiv.org/pdf/2407.09646) [\[Project\]](https://humansensinglab.github.io/Hamba/) [\[Code\]](https://github.com/humansensinglab/Hamba) ⭐ 192 | 🐛 0 | 🌐 Python | 📅 2026-02-01
+##### • \[2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [\[PDF\]](https://arxiv.org/pdf/2407.09646) [\[Project\]](https://humansensinglab.github.io/Hamba/) [\[Code\]](https://github.com/humansensinglab/Hamba) ⭐ 193 | 🐛 0 | 🌐 Python | 📅 2026-02-01
 
 *Haoye Dong\*, Aviral Chharia\*, Wenbo Gou\*, Francisco Vicente Carrasco, Fernando De la Torre*
 
@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,009 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-23
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,015 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-23
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -807,7 +807,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Pengfei Ren, Haifeng Sun, Jiachang Hao, Jingyu Wang, Qi Qi,Jianxin Liao*
 
-##### • HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [\[PDF\]](https://arxiv.org/pdf/2203.14564) [\[Code\]](https://github.com/namepllet/HandOccNet) ⭐ 171 | 🐛 20 | 🌐 Python | 📅 2024-07-15
+##### • HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [\[PDF\]](https://arxiv.org/pdf/2203.14564) [\[Code\]](https://github.com/namepllet/HandOccNet) ⭐ 172 | 🐛 20 | 🌐 Python | 📅 2024-07-15
 
 *JoonKyu Park, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, Kyoung Mu Lee*
 
@@ -1277,7 +1277,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2019 ICCV
 
-##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 451 | 🐛 15 | 🌐 Python | 📅 2022-01-21
+##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 452 | 🐛 15 | 🌐 Python | 📅 2022-01-21
 
 *Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox*
 
@@ -1343,7 +1343,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma*
 
-##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,183 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
+##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,182 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
 
 *Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
