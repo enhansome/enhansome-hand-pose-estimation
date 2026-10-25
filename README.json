@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T21:57:07Z",
-                "open_issues": 2009,
+                "last_commit": "2026-10-25T00:00:25Z",
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39015,
+                "stars": 39019,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1742,7 +1742,7 @@
                 "open_issues": 51,
                 "owner": "mks0601",
                 "repo": "I2L-MeshNet_RELEASE",
-                "stars": 736,
+                "stars": 735,
                 "topics": []
               },
               "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34517,
+                "stars": 34519,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:00:03.764Z",
+    "last_updated": "2026-10-25T00:29:52.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
