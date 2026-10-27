@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T00:00:25Z",
+                "last_commit": "2026-10-26T20:10:08Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39025,
+                "stars": 39037,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1361,7 +1361,7 @@
                 "open_issues": 24,
                 "owner": "NVlabs",
                 "repo": "dex-ycb-toolkit",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1041,
+                "stars": 1042,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -1989,7 +1989,7 @@
                 "open_issues": 6,
                 "owner": "korrawe",
                 "repo": "grasping_field",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "title": "• [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [PDF] [Code] (Best Paper Award)",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2182,
+                "stars": 2184,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34521,
+                "stars": 34524,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:40:01.148Z",
+    "last_updated": "2026-10-27T01:36:05.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3409,
+      "stars": 3410,
       "topics": [
         "3d-hand",
         "computer-vision",
