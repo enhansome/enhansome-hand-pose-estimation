@@ -354,7 +354,7 @@
                 "open_issues": 0,
                 "owner": "ut-vision",
                 "repo": "SiMHand",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "title": "• [2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [PDF] [Project] [Code]",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T20:10:08Z",
+                "last_commit": "2026-10-27T19:38:57Z",
                 "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39037,
+                "stars": 39042,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -785,7 +785,7 @@
                 "open_issues": 3,
                 "owner": "adwardlee",
                 "repo": "RenderIH",
-                "stars": 284,
+                "stars": 286,
                 "topics": []
               },
               "title": "• RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [PDF] [Project] [Code]",
@@ -1340,7 +1340,7 @@
                 "open_issues": 30,
                 "owner": "microsoft",
                 "repo": "MeshTransformer",
-                "stars": 648,
+                "stars": 647,
                 "topics": []
               },
               "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1042,
+                "stars": 1043,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -2135,7 +2135,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2022-01-21T07:02:52Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
                 "stars": 452,
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34524,
+                "stars": 34531,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3107,7 +3107,7 @@
                 "open_issues": 9,
                 "owner": "FORTH-ModelBasedTracker",
                 "repo": "HandTracker",
-                "stars": 321,
+                "stars": 320,
                 "topics": []
               },
               "title": "• [2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:36:05.153Z",
+    "last_updated": "2026-10-28T01:38:15.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",

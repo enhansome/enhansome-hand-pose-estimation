@@ -371,7 +371,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 ### 2025 Others
 
-##### • \[2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [\[PDF\]](https://openreview.net/pdf?id=96jZFqM5E0) [\[Project\]](https://lin-nie.github.io/projects/simhand/index.html)  [\[Code\]](https://github.com/ut-vision/SiMHand) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-04-04
+##### • \[2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [\[PDF\]](https://openreview.net/pdf?id=96jZFqM5E0) [\[Project\]](https://lin-nie.github.io/projects/simhand/index.html)  [\[Code\]](https://github.com/ut-vision/SiMHand) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-04-04
 
 *[Nie Lin\*](https://lin-nie.github.io/), [Takehiko Ohkawa\*](https://tkhkaeio.github.io/), [Yifei Huang](https://hyf015.github.io/), [Mingfang Zhang](https://mf-zhang.github.io/), [Minjie Cai](https://cai-mj.github.io/), [Ming Li](), [Ryosuke Furuta](https://rfuruta.github.io/), [Yoichi Sato](https://sites.google.com/ut-vision.org/ysato/) (\*equal contribution).*
 
@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,037 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-26
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,042 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-27
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -731,7 +731,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Yue Xu, Yong-Lu Li, Zhemin Huang, Michael Xu Liu, Cewu Lu, Yu-Wing Tai, Chi-Keung Tang*
 
-##### • RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) [\[Project\]](https://github.com/adwardlee/RenderIH/tree/main) ⭐ 284 | 🐛 3 | 🌐 Python | 📅 2024-03-28 [\[Code\]](https://github.com/adwardlee/RenderIH/tree/main) ⭐ 284 | 🐛 3 | 🌐 Python | 📅 2024-03-28
+##### • RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_RenderIH_A_Large-Scale_Synthetic_Dataset_for_3D_Interacting_Hand_Pose_ICCV_2023_paper.pdf) [\[Project\]](https://github.com/adwardlee/RenderIH/tree/main) ⭐ 286 | 🐛 3 | 🌐 Python | 📅 2024-03-28 [\[Code\]](https://github.com/adwardlee/RenderIH/tree/main) ⭐ 286 | 🐛 3 | 🌐 Python | 📅 2024-03-28
 
 *Lijun Li, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng Bo, Mengyuan Liu, Chen Chen*
 
@@ -937,7 +937,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Yuxiao Zhou, Marc Habermann, Ikhsanul Habibie, Ayush Tewari, Christian Theobalt, Feng Xu*
 
-##### • End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf) [\[Code\]](https://github.com/microsoft/MeshTransformer) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2023-07-06
+##### • End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf) [\[Code\]](https://github.com/microsoft/MeshTransformer) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2023-07-06
 
 *Kevin Lin, Lijuan Wang, Zicheng Liu*
 
@@ -1145,7 +1145,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid*
 
-##### • Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand) ⭐ 1,042 | 🐛 6 | 🌐 Python | 📅 2022-01-12
+##### • Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand) ⭐ 1,043 | 🐛 6 | 🌐 Python | 📅 2022-01-12
 
 *Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu*
 
@@ -1277,7 +1277,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2019 ICCV
 
-##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 452 | 🐛 15 | 🌐 Python | 📅 2022-01-21
+##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 452 | 🐛 16 | 🌐 Python | 📅 2022-01-21
 
 *Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,524 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,531 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -1895,7 +1895,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Cem Keskin, Furkan Kırac, Yunus Emre Kara, Lale Akarun*
 
-##### • \[2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [\[PDF\]](http://www.cp.jku.at/teaching/praktika/imageproc/bodyparts_Algorithmus1.pdf) [\[Project\]](http://users.ics.forth.gr/~argyros/research/kinecthandtracking.htm) [\[Code\]](https://github.com/FORTH-ModelBasedTracker/HandTracker) ⭐ 321 | 🐛 9 | 🌐 Python | 📅 2017-05-05
+##### • \[2011 BMVC] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [\[PDF\]](http://www.cp.jku.at/teaching/praktika/imageproc/bodyparts_Algorithmus1.pdf) [\[Project\]](http://users.ics.forth.gr/~argyros/research/kinecthandtracking.htm) [\[Code\]](https://github.com/FORTH-ModelBasedTracker/HandTracker) ⭐ 320 | 🐛 9 | 🌐 Python | 📅 2017-05-05
 
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
