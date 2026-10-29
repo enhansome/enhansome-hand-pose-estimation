@@ -591,7 +591,7 @@
                 "open_issues": 3,
                 "owner": "jyunlee",
                 "repo": "Im2Hands",
-                "stars": 79,
+                "stars": 78,
                 "topics": []
               },
               "title": "• Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [PDF] [Project] [Code]",
@@ -612,7 +612,7 @@
                 "open_issues": 11,
                 "owner": "ZhengdiYu",
                 "repo": "Arbitrary-Hands-3D-Reconstruction",
-                "stars": 230,
+                "stars": 229,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "3d-hand-shape",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T19:38:57Z",
-                "open_issues": 2024,
+                "last_commit": "2026-10-28T13:44:13Z",
+                "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39042,
+                "stars": 39048,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1494,7 +1494,7 @@
                 "open_issues": 3,
                 "owner": "cghezhang",
                 "repo": "ManipNet",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "title": "• [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [PDF] [Code]",
@@ -1615,7 +1615,7 @@
                 "open_issues": 48,
                 "owner": "vchoutas",
                 "repo": "expose",
-                "stars": 676,
+                "stars": 677,
                 "topics": [
                   "3d-pose-estimation",
                   "expressive-body-capture",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 872,
+                "stars": 874,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1043,
+                "stars": 1042,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -2135,7 +2135,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2022-01-21T07:02:52Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
                 "stars": 452,
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2184,
+                "stars": 2185,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34531,
+                "stars": 34534,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:38:15.202Z",
+    "last_updated": "2026-10-29T01:55:33.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3410,
+      "stars": 3412,
       "topics": [
         "3d-hand",
         "computer-vision",

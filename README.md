@@ -635,7 +635,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Yilin Wen, Hao Pan, Lei Yang, Jia Pan, Taku Komura, Wenping Wang*
 
-##### • Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [\[PDF\]](https://arxiv.org/pdf/2302.14348)  [\[Project\]](https://jyunlee.github.io/projects/implicit-two-hands/) [\[Code\]](https://github.com/jyunlee/Im2Hands) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2023-06-28
+##### • Im2Hands: Learning Attentive Implicit Representation of Interacting Two-Hand Shapes. [\[PDF\]](https://arxiv.org/pdf/2302.14348)  [\[Project\]](https://jyunlee.github.io/projects/implicit-two-hands/) [\[Code\]](https://github.com/jyunlee/Im2Hands) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2023-06-28
 
 *Jihyun Lee, Minhyuk Sung, Honggyu Choi, Tae-Kyun Kim*
 
@@ -659,7 +659,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, Seungryul Baek*
 
-##### • ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2303.05938)  [\[Project\]](https://zhengdiyu.github.io/ACR-page/) [\[Code\]](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction) ⭐ 230 | 🐛 11 | 🌐 Python | 📅 2024-12-02
+##### • ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2303.05938)  [\[Project\]](https://zhengdiyu.github.io/ACR-page/) [\[Code\]](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction) ⭐ 229 | 🐛 11 | 🌐 Python | 📅 2024-12-02
 
 *Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang*
 
@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,042 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-27
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,048 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-28
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -993,7 +993,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Giorgos Karvounas, Nikolaos Kyriazis, Iason Oikonomidis, Aggeliki Tsoli, Antonis A. Argyros*
 
-##### • \[2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [\[PDF\]](http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf)  [\[Code\]](https://github.com/cghezhang/ManipNet) ⭐ 255 | 🐛 3 | 🌐 C++ | 📅 2021-12-22
+##### • \[2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [\[PDF\]](http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf)  [\[Code\]](https://github.com/cghezhang/ManipNet) ⭐ 254 | 🐛 3 | 🌐 C++ | 📅 2021-12-22
 
 *He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura*
 
@@ -1041,7 +1041,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas*
 
-##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 676 | 🐛 48 | 🌐 Python | 📅 2022-09-12
+##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 677 | 🐛 48 | 🌐 Python | 📅 2022-09-12
 
 *Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black*
 
@@ -1049,7 +1049,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo, Andrew William Fitzgibbon, Jamie Shotton*
 
-##### • Whole-Body Human Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2007.11858.pdf) [\[Code\]](https://github.com/jin-s13/COCO-WholeBody) ⭐ 872 | 🐛 1 | 🌐 Python | 📅 2025-04-22
+##### • Whole-Body Human Pose Estimation in the Wild. [\[PDF\]](https://arxiv.org/pdf/2007.11858.pdf) [\[Code\]](https://github.com/jin-s13/COCO-WholeBody) ⭐ 874 | 🐛 1 | 🌐 Python | 📅 2025-04-22
 
 *Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Ping Luo*
 
@@ -1145,7 +1145,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid*
 
-##### • Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand) ⭐ 1,043 | 🐛 6 | 🌐 Python | 📅 2022-01-12
+##### • Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand) ⭐ 1,042 | 🐛 6 | 🌐 Python | 📅 2022-01-12
 
 *Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu*
 
@@ -1277,7 +1277,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2019 ICCV
 
-##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 452 | 🐛 16 | 🌐 Python | 📅 2022-01-21
+##### • FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand) ⭐ 452 | 🐛 15 | 🌐 Python | 📅 2022-01-21
 
 *Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox*
 
@@ -1343,7 +1343,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma*
 
-##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,184 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
+##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,185 | 🐛 88 | 🌐 Python | 📅 2024-02-23 *(Oral)*
 
 *Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,531 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,534 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
