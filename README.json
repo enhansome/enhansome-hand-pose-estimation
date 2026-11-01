@@ -731,7 +731,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39065,
+                "stars": 39076,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1340,7 +1340,7 @@
                 "open_issues": 30,
                 "owner": "microsoft",
                 "repo": "MeshTransformer",
-                "stars": 647,
+                "stars": 648,
                 "topics": []
               },
               "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]",
@@ -1812,7 +1812,7 @@
                 "open_issues": 4,
                 "owner": "ethanhe42",
                 "repo": "epipolar-transformers",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "3d",
                   "3dposeestimation",
@@ -2138,7 +2138,7 @@
                 "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34543,
+                "stars": 34550,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:46:04.872Z",
+    "last_updated": "2026-11-01T01:25:05.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
