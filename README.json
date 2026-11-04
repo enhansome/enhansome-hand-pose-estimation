@@ -435,7 +435,7 @@
                 "open_issues": 10,
                 "owner": "zc-alexfan",
                 "repo": "hold",
-                "stars": 494,
+                "stars": 496,
                 "topics": [
                   "3d-reconstruction",
                   "ai",
@@ -731,7 +731,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39098,
+                "stars": 39103,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1046,7 +1046,7 @@
                 "open_issues": 2,
                 "owner": "oakink",
                 "repo": "OakInk",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -1361,7 +1361,7 @@
                 "open_issues": 24,
                 "owner": "NVlabs",
                 "repo": "dex-ycb-toolkit",
-                "stars": 214,
+                "stars": 215,
                 "topics": []
               },
               "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]",
@@ -1410,7 +1410,7 @@
                 "open_issues": 5,
                 "owner": "korrawe",
                 "repo": "halo",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "title": "• [2021 3DV] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [PDF] [Project] [Code] (Oral)",
@@ -1642,7 +1642,7 @@
                 "open_issues": 1,
                 "owner": "jin-s13",
                 "repo": "COCO-WholeBody",
-                "stars": 874,
+                "stars": 875,
                 "topics": [
                   "coco-wholebody",
                   "face",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2186,
+                "stars": 2185,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2518,7 +2518,7 @@
                 "open_issues": 4,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "action-recognition",
                   "benchmark",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34553,
+                "stars": 34552,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3184,7 +3184,7 @@
                 "open_issues": 4,
                 "owner": "guiggh",
                 "repo": "hand_pose_action",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "action-recognition",
                   "benchmark",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:40:34.209Z",
+    "last_updated": "2026-11-04T02:39:39.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
