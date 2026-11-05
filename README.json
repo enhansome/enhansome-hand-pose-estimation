@@ -668,7 +668,7 @@
                 "open_issues": 2,
                 "owner": "stevenlsw",
                 "repo": "contactgen",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "contact-modeling",
                   "generating-grasp",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T23:22:33Z",
-                "open_issues": 2009,
+                "last_commit": "2026-11-04T16:49:43Z",
+                "open_issues": 2010,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39103,
+                "stars": 39112,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1044,
+                "stars": 1043,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -2138,7 +2138,7 @@
                 "open_issues": 15,
                 "owner": "lmb-freiburg",
                 "repo": "freihand",
-                "stars": 453,
+                "stars": 452,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -2324,7 +2324,7 @@
                 "open_issues": 20,
                 "owner": "hassony2",
                 "repo": "manopth",
-                "stars": 701,
+                "stars": 702,
                 "topics": [
                   "hand",
                   "layer",
@@ -3523,7 +3523,7 @@
             "open_issues": 7,
             "owner": "SupreethN",
             "repo": "Hand-CNN",
-            "stars": 149,
+            "stars": 148,
             "topics": []
           },
           "title": "• [2019 ICCV] Contextual Attention for Hand Detection in the Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:39:39.933Z",
+    "last_updated": "2026-11-05T02:43:38.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
