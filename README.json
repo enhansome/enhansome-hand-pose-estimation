@@ -47,7 +47,7 @@
             "open_issues": 6,
             "owner": "hassony2",
             "repo": "homan",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "title": "• [arXiv:2108.07044] Towards unconstrained joint hand-object reconstruction from RGB videos. [PDF] [Project] [Code]",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T02:01:32Z",
+                "last_commit": "2026-11-06T18:41:04Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39120,
+                "stars": 39122,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1105,7 +1105,7 @@
                 "open_issues": 15,
                 "owner": "Dw1010",
                 "repo": "IntagHand",
-                "stars": 274,
+                "stars": 273,
                 "topics": []
               },
               "title": "• Interacting Attention Graph for Single Image Two-Hand Reconstruction. [PDF] [Project] [Code]",
@@ -1249,7 +1249,7 @@
                 "open_issues": 7,
                 "owner": "taeinkwon",
                 "repo": "h2odataset",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "title": "• H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [PDF] [Project] [Code]",
@@ -1869,7 +1869,7 @@
                 "open_issues": 6,
                 "owner": "CalciferZh",
                 "repo": "minimal-hand",
-                "stars": 1043,
+                "stars": 1044,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "computer-vision",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2185,
+                "stars": 2186,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2324,7 +2324,7 @@
                 "open_issues": 20,
                 "owner": "hassony2",
                 "repo": "manopth",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "hand",
                   "layer",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34561,
+                "stars": 34562,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7263,
+            "stars": 7260,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:46:59.581Z",
+    "last_updated": "2026-11-07T02:19:10.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3415,
+      "stars": 3416,
       "topics": [
         "3d-hand",
         "computer-vision",
