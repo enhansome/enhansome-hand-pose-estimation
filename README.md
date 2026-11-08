@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,122 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,128 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-11-06
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,562 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,564 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2027,7 +2027,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 | ------------------------------------------------------------------------------------------------------------ | ---- | --- | ---- | ---- | -- | ------- | --- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | [HIU-DMTL-Data](https://github.com/MandyMo/HIU-DMTL/) ⭐ 24 \| 🐛 6 \| 🌐 Python \| 📅 2021-12-19             | 2021 | R   | ❌    | ❌    | 21 | 3rd/ego | 200 | 40,000           | ICCV 2021 [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Hand_Image_Understanding_via_Deep_Multi-Task_Learning_ICCV_2021_paper.pdf)                 | [MIT](https://github.com/MandyMo/HIU-DMTL/blob/main/LICENSE) ⭐ 24 \| 🐛 6 \| 🌐 Python \| 📅 2021-12-19                                      |
 | [InterHand2.6M](https://mks0601.github.io/InterHand2.6M/)                                                    | 2020 | R   | ❌    | ❌    | 21 | 3rd     | 27  | 2.6M             | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650545.pdf)                                                                                 | [CC-BY-NC 4.0](https://github.com/facebookresearch/InterHand2.6M#license) ⚠️ Archived                                                        |
-| [YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) ⭐ 184 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 | 2020 | R   | ✅    | ✅    | -  | 3rd     | -   | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf) | [Non-Commercial](https://github.com/snap-research/arielai_youtube_3d_hands/blob/master/LICENSE) ⭐ 184 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 |
+| [YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) ⭐ 185 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 | 2020 | R   | ✅    | ✅    | -  | 3rd     | -   | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf) | [Non-Commercial](https://github.com/snap-research/arielai_youtube_3d_hands/blob/master/LICENSE) ⭐ 185 \| 🐛 10 \| 🌐 Python \| 📅 2020-07-31 |
 | [OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html)                                           | 2019 | R   | -    | ❌    | 21 | 3rd     | 1   | 10k/1.3k         | TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)                                                                                                  | [Non-Commercial](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)                                                                   |
 | [FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html)                | 2019 | R   | -    | ✅    | 21 | 3rd     | -   | 130k/3960        | ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)                                                                                                                  | [Research Only](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html)                                           |
 | [GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm)           | 2018 | S   | -    | Both | 21 | ego     | -   | 330k             | CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)                                                        | [Scientific / Non-commercial](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm)                               |
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
