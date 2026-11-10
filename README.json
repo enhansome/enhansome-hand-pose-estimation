@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:41:04Z",
+                "last_commit": "2026-11-09T18:10:16Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39141,
+                "stars": 39149,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1046,7 +1046,7 @@
                 "open_issues": 2,
                 "owner": "oakink",
                 "repo": "OakInk",
-                "stars": 154,
+                "stars": 153,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -1081,7 +1081,7 @@
                 "open_issues": 2,
                 "owner": "lixiny",
                 "repo": "ArtiBoost",
-                "stars": 132,
+                "stars": 131,
                 "topics": [
                   "computer-vision",
                   "hand-object-interaction"
@@ -1291,7 +1291,7 @@
                 "open_issues": 5,
                 "owner": "lixiny",
                 "repo": "CPF",
-                "stars": 140,
+                "stars": 139,
                 "topics": []
               },
               "title": "• CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [PDF] [Code]",
@@ -1340,7 +1340,7 @@
                 "open_issues": 30,
                 "owner": "microsoft",
                 "repo": "MeshTransformer",
-                "stars": 648,
+                "stars": 647,
                 "topics": []
               },
               "title": "• End-to-End Human Pose and Mesh Reconstruction with Transformers. [PDF] [Code]",
@@ -1382,7 +1382,7 @@
                 "open_issues": 11,
                 "owner": "stevenlsw",
                 "repo": "Semi-Hand-Object",
-                "stars": 134,
+                "stars": 133,
                 "topics": []
               },
               "title": "• Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [PDF] [Project] [Code]",
@@ -1742,7 +1742,7 @@
                 "open_issues": 51,
                 "owner": "mks0601",
                 "repo": "I2L-MeshNet_RELEASE",
-                "stars": 736,
+                "stars": 737,
                 "topics": []
               },
               "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2187,
+                "stars": 2189,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34567,
+                "stars": 34574,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:55:18.467Z",
+    "last_updated": "2026-11-10T04:17:22.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
