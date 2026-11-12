@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T18:10:16Z",
+                "last_commit": "2026-11-11T11:58:31Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39152,
+                "stars": 39158,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:11:51.955Z",
+    "last_updated": "2026-11-12T03:18:01.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
@@ -3662,7 +3662,7 @@
       "open_issues": 7,
       "owner": "xinghaochen",
       "repo": "awesome-hand-pose-estimation",
-      "stars": 3417,
+      "stars": 3418,
       "topics": [
         "3d-hand",
         "computer-vision",
