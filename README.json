@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T17:37:12Z",
+                "last_commit": "2026-11-14T12:36:20Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39169,
+                "stars": 39177,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34578,
+                "stars": 34579,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3591,7 +3591,7 @@
             "open_issues": 151,
             "owner": "facebookresearch",
             "repo": "DensePose",
-            "stars": 7260,
+            "stars": 7259,
             "topics": []
           },
           "title": "• [2018 CVPR] DensePose: Dense Human Pose Estimation In The Wild. [PDF] [Project] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:39:26.282Z",
+    "last_updated": "2026-11-15T02:05:13.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
