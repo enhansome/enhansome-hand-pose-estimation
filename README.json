@@ -518,7 +518,7 @@
                 "open_issues": 22,
                 "owner": "ChanglongJiangGit",
                 "repo": "A2J-Transformer",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "a2j-transformer",
@@ -612,7 +612,7 @@
                 "open_issues": 11,
                 "owner": "ZhengdiYu",
                 "repo": "Arbitrary-Hands-3D-Reconstruction",
-                "stars": 229,
+                "stars": 230,
                 "topics": [
                   "3d-hand-pose-estimation",
                   "3d-hand-shape",
@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T17:57:37Z",
+                "last_commit": "2026-11-18T22:14:55Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39214,
+                "stars": 39224,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2303,7 +2303,7 @@
                 "open_issues": 88,
                 "owner": "vchoutas",
                 "repo": "smplify-x",
-                "stars": 2191,
+                "stars": 2192,
                 "topics": []
               },
               "title": "• Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. [PDF] [Project] [Code] (Oral)",
@@ -2392,7 +2392,7 @@
                 "open_issues": 18,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "MonocularTotalCapture",
-                "stars": 678,
+                "stars": 677,
                 "topics": []
               },
               "title": "• Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [PDF] [Project] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34590,
+                "stars": 34598,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:49:48.187Z",
+    "last_updated": "2026-11-19T03:47:44.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
