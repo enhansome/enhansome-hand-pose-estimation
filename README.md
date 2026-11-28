@@ -703,7 +703,7 @@ See folder [`evaluation`](./evaluation) to get more details about performance ev
 
 *Wentao Bao, Lele Chen, Libing Zeng, Zhong Li, Yi Xu, Junsong Yuan, Yu Kong*
 
-##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,535 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-26
+##### • Spectral Graphormer: Spectral Graph-Based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tse_Spectral_Graphormer_Spectral_Graph-Based_Transformer_for_Egocentric_Two-Hand_Reconstruction_using_ICCV_2023_paper.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/tree/master/spectral_graphormer) ⭐ 39,567 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27
 
 *Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti*
 
@@ -941,7 +941,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Kevin Lin, Lijuan Wang, Zicheng Liu*
 
-##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) ⭐ 215 | 🐛 24 | 🌐 Python | 📅 2022-05-22
+##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) ⭐ 216 | 🐛 24 | 🌐 Python | 📅 2022-05-22
 
 *Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox*
 
@@ -1093,7 +1093,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Gyeongsik Moon, Shoou-i Yu, He Wen, Takaaki Shiratori, Kyoung Mu Lee*
 
-##### • I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2008.03713) \[[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE) ⭐ 737 | 🐛 51 | 🌐 Python | 📅 2024-07-10
+##### • I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2008.03713) \[[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE) ⭐ 738 | 🐛 51 | 🌐 Python | 📅 2024-07-10
 
 *Gyeongsik Moon, Kyoung Mu Lee*
 
@@ -1351,11 +1351,11 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid*
 
-##### • 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) ⭐ 602 | 🐛 16 | 🌐 Python | 📅 2020-12-24 *(Oral)*
+##### • 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) ⭐ 603 | 🐛 16 | 🌐 Python | 📅 2020-12-24 *(Oral)*
 
 *Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan*
 
-##### • 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand) ⭐ 193 | 🐛 10 | 🌐 Python | 📅 2020-07-09 *(Oral)*
+##### • 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand) ⭐ 194 | 🐛 10 | 🌐 Python | 📅 2020-07-09 *(Oral)*
 
 *Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr*
 
@@ -1631,7 +1631,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 ### 2017 CVPR
 
-##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,619 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+##### • Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,621 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
 
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
@@ -2116,7 +2116,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 
 *Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos*
 
-##### • \[2018 CVPR] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf) [\[Code\]](https://github.com/aurooj/Hand-Segmentation-in-the-Wild) ⭐ 199 | 🐛 3 | 🌐 MATLAB | 📅 2021-07-14
+##### • \[2018 CVPR] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf) [\[Code\]](https://github.com/aurooj/Hand-Segmentation-in-the-Wild) ⭐ 198 | 🐛 3 | 🌐 MATLAB | 📅 2021-07-14
 
 *Aisha Urooj Khan, Ali Borji*
 
@@ -2157,4 +2157,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

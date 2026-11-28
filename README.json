@@ -727,11 +727,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T08:37:24Z",
+                "last_commit": "2026-11-27T16:02:30Z",
                 "open_issues": 2023,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39535,
+                "stars": 39567,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1361,7 +1361,7 @@
                 "open_issues": 24,
                 "owner": "NVlabs",
                 "repo": "dex-ycb-toolkit",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "title": "• DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [PDF] [Project] [Code]",
@@ -1742,7 +1742,7 @@
                 "open_issues": 51,
                 "owner": "mks0601",
                 "repo": "I2L-MeshNet_RELEASE",
-                "stars": 737,
+                "stars": 738,
                 "topics": []
               },
               "title": "• I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [PDF] [Code]",
@@ -2350,7 +2350,7 @@
                 "open_issues": 16,
                 "owner": "3d-hand-shape",
                 "repo": "hand-graph-cnn",
-                "stars": 602,
+                "stars": 603,
                 "topics": []
               },
               "title": "• 3D Hand Shape and Pose Estimation from a Single RGB Image. [PDF] [Project] [Code] (Oral)",
@@ -2371,7 +2371,7 @@
                 "open_issues": 10,
                 "owner": "boukhayma",
                 "repo": "3dhand",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "title": "• 3D Hand Shape and Pose from Images in the Wild. [PDF] [Code] (Oral)",
@@ -2808,7 +2808,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34619,
+                "stars": 34621,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -3612,7 +3612,7 @@
             "open_issues": 3,
             "owner": "aurooj",
             "repo": "Hand-Segmentation-in-the-Wild",
-            "stars": 199,
+            "stars": 198,
             "topics": []
           },
           "title": "• [2018 CVPR] Analysis of Hand Segmentation in the Wild. [PDF] [Code]",
@@ -3650,7 +3650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T04:29:01.389Z",
+    "last_updated": "2026-11-28T04:11:17.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome work on hand pose estimation/tracking",
